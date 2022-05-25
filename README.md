@@ -41,12 +41,23 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[]** Paper Name [[pdf]]() [[code]]()
 - **[]** Paper Name [[pdf]]() [[code]]()
 
-### Libraries
+## Natural Language Explanations
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+- **[]** Paper Name [[pdf]]() [[code]]()
+
+## Libraries
 - [Captum](https://captum.ai/)
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
 - [torch-cam](https://github.com/frgfm/torch-cam)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 
-### Other Awesomes
+## Other Awesomes
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
