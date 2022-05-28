@@ -74,10 +74,15 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Explain Yourself]** Leveraging Language Models for Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/1906.02361.pdf) 
 - **[e-SNLI]** Natural Language Inference with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/1812.01193.pdf)
 - **[CLEVR-X]** A Visual Reasoning Dataset for Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2204.02380.pdf) [[code]](https://github.com/ExplainableML/CLEVR-X) [[website]](https://explainableml.github.io/CLEVR-X/)
-- Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - **[VQA-E]** Explaining, Elaborating, and Enhancing Your Answers for Visual Questions [[pdf]](https://arxiv.org/pdf/1803.07464.pdf)
 - **[PtE]** Are Training Resources Insufficient? Predict First Then Explain! [[pdf]](https://arxiv.org/pdf/2110.02056.pdf)
 - **[WT5]** Training Text-to-Text Models to Explain their Predictions [[pdf]](https://arxiv.org/pdf/2004.14546.pdf)
+- **[REXC]** Rationale-Inspired Natural Language Explanations with Commonsense [[pdf]](https://arxiv.org/pdf/2106.13876.pdf)
+- Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
+- Few-Shot Self-Rationalization with Natural Language Prompts [[pdf]](https://arxiv.org/pdf/2111.08284.pdf)
+- Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
+- Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
+- Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
 ## Libraries
 - [Captum](https://captum.ai/)
