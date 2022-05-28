@@ -16,6 +16,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Deep Image Representations by Inverting Them [[pdf]](https://arxiv.org/pdf/1412.0035.pdf)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation [[pdf]](https://arxiv.org/pdf/1704.03296.pdf)
 - Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf)
+- Towards Deep Learning Models Resistant to Adversarial Attacks [[pdf]](https://arxiv.org/pdf/1706.06083.pdf) [[code]](https://github.com/MadryLab/mnist_challenge)
 - High Confidence Predictions for Unrecognizable Images [[pdf]](https://arxiv.org/pdf/1412.1897.pdf)
 - Visualizing Higher-Layer Features of a Deep Network [[pdf]](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
 - Towards better understanding of gradient-based attribution methods for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1711.06104.pdf)
@@ -34,6 +35,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
 - **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf)
+- **[TCAV]** Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
