@@ -41,15 +41,19 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Relevance-CAM]** Your Model Already Knows Where to Look [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf) [[code]](https://github.com/mongeoroo/Relevance-CAM)
 
 ## Natural Language Explanations
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
-- **[]** Paper Name [[pdf]]() [[code]]()
+- **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
+- **[PJ-X]** Multimodal Explanations: Justifying Decisions and Pointing to the Evidence [[pdf]](https://arxiv.org/pdf/1802.08129.pdf) [[code]](https://github.com/Seth-Park/MultimodalExplanations)
+- **[FME]** Faithful Multimodal Explanation for Visual Question Answering [[pdf]](https://arxiv.org/pdf/1809.02805.pdf) 
+- **[RVT]** Natural Language Rationales with Full-Stack Visual Reasoning [[pdf]](https://arxiv.org/pdf/2010.07526.pdf) [[code]](https://github.com/allenai/visual-reasoning-rationalization)
+- **[e-UG]** e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2105.03761.pdf) [[code]](https://github.com/maximek3/e-ViL)
+- **[NLX-GPT]** A Model for Natural Language Explanations in Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2203.05081.pdf) [[code]](https://github.com/fawazsammani/nlxgpt)
+- **[Explain Yourself]** Leveraging Language Models for Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/1906.02361.pdf) 
+- **[e-SNLI]** Natural Language Inference with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/1812.01193.pdf)
+- **[CLEVR-X]** A Visual Reasoning Dataset for Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2204.02380.pdf) [[code]](https://github.com/ExplainableML/CLEVR-X) [[website]](https://explainableml.github.io/CLEVR-X/)
+- Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
+- **[VQA-E]** Explaining, Elaborating, and Enhancing Your Answers for Visual Questions [[pdf]](https://arxiv.org/pdf/1803.07464.pdf)
+- **[PtE]** Are Training Resources Insufficient? Predict First Then Explain! [[pdf]](https://arxiv.org/pdf/2110.02056.pdf)
+- **[WT5]** Training Text-to-Text Models to Explain their Predictions [[pdf]](https://arxiv.org/pdf/2004.14546.pdf)
 
 ## Libraries
 - [Captum](https://captum.ai/)
