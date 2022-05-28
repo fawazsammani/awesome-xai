@@ -18,16 +18,22 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf)
 - High Confidence Predictions for Unrecognizable Images [[pdf]](https://arxiv.org/pdf/1412.1897.pdf)
 - Visualizing Higher-Layer Features of a Deep Network [[pdf]](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
+- Towards better understanding of gradient-based attribution methods for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1711.06104.pdf)
+- Polynomial calculation of the Shapley value based on sampling [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0305054808000804)
+- On the (In)fidelity and Sensitivity of Explanations [[pdf]](https://arxiv.org/pdf/1901.09392.pdf) [[code]](https://github.com/chihkuanyeh/saliency_evaluation)
+- Interpretation of Neural Networks is Fragile [[pdf]](https://arxiv.org/pdf/1710.10547.pdf)
+- On the Robustness of Interpretability Methods [[pdf]](https://arxiv.org/pdf/1806.08049.pdf)
+- Sanity Checks for Saliency Maps [[pdf]](https://arxiv.org/pdf/1810.03292.pdf)
+- Influence-Directed Explanations for Deep Convolutional Networks [[pdf]](https://arxiv.org/pdf/1802.03788.pdf)
 - **[SmoothGrad]** Removing noise by adding noise [[pdf]](https://arxiv.org/pdf/1706.03825.pdf) 
 - **[Integrated Gradients]** Axiomatic Attribution for Deep Networks [[pdf]](https://arxiv.org/pdf/1703.01365.pdf) 
-- **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py)
+- **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1051200417302385) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py)
 - **[DeepDream]** Inceptionism: Going Deeper into Neural Networks [[blog]](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) [[code]](https://github.com/eriklindernoren/PyTorch-Deep-Dream) [[code]](https://github.com/gordicaleksa/pytorch-deepdream) [[code]](https://github.com/ProGamerGov/neural-dream)
 - **[RISE]** Randomized Input Sampling for Explanation of Black-box Models [[pdf]](https://arxiv.org/pdf/1806.07421.pdf) [[code]](https://github.com/eclique/RISE)
 - **[DeepLIFT]** Learning Important Features Through Propagating Activation Differences [[pdf]](https://arxiv.org/pdf/1704.02685.pdf) [[video]](https://www.youtube.com/playlist?list=PLJLjQOkqSRTP3cLB2cOOi_bQFw6KPGKML) [[code]](https://github.com/kundajelab/deeplift)
-- **[]** Paper Name [[pdf]]() 
-- **[]** Paper Name [[pdf]]() 
-- **[]** Paper Name [[pdf]]() 
-
+- **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
+- **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
+- **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -67,6 +73,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Other Resources
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://www.amazon.com/Explainable-AI-Interpreting-Explaining-Visualizing/dp/3030289532)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Distil](https://distill.pub/) 
 - [OpenAI Microscope](https://microscope.openai.com/models)
+- [Summary - Captum](https://captum.ai/docs/algorithms)
 
