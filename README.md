@@ -60,3 +60,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Other Awesomes
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+
+## Books
+- Explainable AI: Interpreting, Explaining and Visualizing Deep Learning
