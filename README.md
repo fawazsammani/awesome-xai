@@ -1,7 +1,6 @@
 # Awesome Explainable AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [Bank Employee] I'm Sorry, your loan application is rejected. [Customer] Why? I satisfy all the requirements. [Bank Employee] I know, but our AI systems says there is a risk if we give you the loan. [Bank Employee] (thinking) Hmmm...This is strange... Let me call some AI guys to figure out what's the problem. [AI Engineers] Hi, so we analyzed your model and found out that this previous customer was rejected because he is wearing blue shoes. 
-- [Investigator] Your friend is unfortunately dead... Our condolences to you.... [Friend] (crying) Why? What Happened. [Investigator] The self-driving car didn't stop at the red traffic light...We will sue the company in court. [Company] After analysis and investigation, the AI System didn't find a tree next to the traffic light and thus thought the red traffic light is a dodgeball. 
+Simply imagine a bank system rejecting an application based on "shoe color" of the customer. Or a self-driving car which has always seen a tree next to a red traffic light and therefore the decision to stop at the red light is based on a tree being present. Or an object detector which detects "horses" because of a watermark at the bottom of the image, simply because all "horse" training data had this watermark. These are actually real stories that happened, and the need of Explainable AI (XAI) is now a must.
 
 If you find some overlooked papers, please open issues or pull requests, and provide the paper(s) in this format:
 ```
