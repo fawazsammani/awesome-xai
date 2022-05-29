@@ -97,7 +97,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
 ## Other Resources
-- [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://www.amazon.com/Explainable-AI-Interpreting-Explaining-Visualizing/dp/3030289532)
+- [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Distil](https://distill.pub/) 
 - [OpenAI Microscope](https://microscope.openai.com/models)
