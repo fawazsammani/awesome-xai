@@ -69,6 +69,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[GradCAT]** Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding [[pdf]](https://arxiv.org/pdf/2105.12723.pdf)
 - **[FastSHAP]** Real-Time Shapley Value Estimation [[pdf]](https://arxiv.org/pdf/2107.07436.pdf)
 - **[VisualBackProp]** Efficient visualization of CNNs [[pdf]](https://arxiv.org/pdf/1611.05418.pdf)
+- **[NBDT]** Neural-Backed Decision Trees [[pdf]](https://arxiv.org/pdf/2004.00221.pdf) [[code]](https://github.com/alvinwan/neural-backed-decision-trees)
+- **[CASME]** Classifier-agnostic saliency map extraction [[pdf]](https://arxiv.org/pdf/1805.08249.pdf) [[code]](https://github.com/kondiz/casme)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
