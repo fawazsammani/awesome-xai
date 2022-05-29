@@ -126,6 +126,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
 - [torch-cam](https://github.com/frgfm/torch-cam)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
+- [Alibi](https://docs.seldon.io/projects/alibi/en/stable/)
 
 ## Other Awesomes
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
