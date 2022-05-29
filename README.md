@@ -116,6 +116,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
 - A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
 - Why use attention as explanation when we have saliency methods? [[pdf]](https://arxiv.org/pdf/2010.05607.pdf)
+- Analyzing Individual Neurons in Pre-trained Language Models [[pdf]](https://arxiv.org/pdf/2010.02695.pdf)
+- Identifying and Controlling Important Neurons in Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1811.01157.pdf)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 
 ## XAI Libraries for NLP
