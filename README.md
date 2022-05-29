@@ -33,6 +33,17 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1811.10597.pdf) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
 - Network Dissection: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
 - Deep Image Prior [[pdf]](https://arxiv.org/pdf/1711.10925.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior) [[website]](https://dmitryulyanov.github.io/deep_image_prior)
+- Breaking Batch Normalization for better explainability of Deep Neural Networks through Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/2002.11018.pdf)
+- Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis [[pdf]](https://arxiv.org/pdf/2104.10252.pdf)
+- A Framework for Learning Ante-hoc Explainable Models via Concepts [[pdf]](https://arxiv.org/pdf/2108.11761.pdf)
+- Explaining image classifiers by removing input features using generative models [[pdf]](https://arxiv.org/pdf/1910.04256.pdf) [[code]](https://github.com/anguyen8/generative-attribution-methods)
+- Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation [[pdf]](https://arxiv.org/pdf/2103.14332.pdf)
+- Do Vision Transformers See Like Convolutional Neural Networks? [[pdf]](https://arxiv.org/pdf/2108.08810.pdf)
+- Explaining Classifiers using Adversarial Perturbations on the Perceptual Ball [[pdf]](https://arxiv.org/pdf/1912.09405.pdf)
+- Explaining Knowledge Distillation by Quantifying the Knowledge [[pdf]](https://arxiv.org/pdf/2003.03622.pdf)
+- Interpreting Super-Resolution Networks with Local Attribution Maps [[pdf]](https://arxiv.org/pdf/2011.11036.pdf)
+- Is the deconvolution layer the same as a convolutional layer? [[pdf]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
+- Towards Human-Understandable Visual Explanations: Imperceptible High-frequency Cues Can Better Be Removed [[pdf]](https://arxiv.org/pdf/2104.07954.pdf)
 - **[SmoothGrad]** Removing noise by adding noise [[pdf]](https://arxiv.org/pdf/1706.03825.pdf) 
 - **[Integrated Gradients]** Axiomatic Attribution for Deep Networks [[pdf]](https://arxiv.org/pdf/1703.01365.pdf) 
 - **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1051200417302385) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py)
@@ -51,7 +62,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[HINT]** Hierarchical Neuron Concept Explainer [[pdf]](https://arxiv.org/pdf/2203.14196.pdf) [[code]](https://github.com/AntonotnaWang/HINT)
 - **[BagNet]** Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet [[pdf]](https://arxiv.org/pdf/1904.00760.pdf) [[code]](https://github.com/wielandbrendel/bag-of-local-features-models)
 - **[ProtoPNet]** This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf]](https://arxiv.org/pdf/1806.10574.pdf) [[code]](https://github.com/cfchen-duke/ProtoPNet)
+- **[Deformable ProtoPNet]** An Interpretable Image Classifier Using Deformable Prototypes [[pdf]](https://arxiv.org/pdf/2111.15000.pdf)
 - **[CALM]** Keep CALM and Improve Visual Feature Attribution [[pdf]](https://arxiv.org/pdf/2106.07861.pdf) [[code]](https://github.com/naver-ai/calm)
+- **[SGLRP]** Explaining Convolutional Neural Networks using Softmax Gradient Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/1908.04351.pdf)
+- **[DTD]** Explaining NonLinear Classification Decisions with Deep Taylor Decomposition [[pdf]](https://arxiv.org/pdf/1512.02479.pdf)
+- **[GradCAT]** Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding [[pdf]](https://arxiv.org/pdf/2105.12723.pdf)
+- **[FastSHAP]** Real-Time Shapley Value Estimation [[pdf]](https://arxiv.org/pdf/2107.07436.pdf)
+- **[VisualBackProp]** Efficient visualization of CNNs [[pdf]](https://arxiv.org/pdf/1611.05418.pdf)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -65,6 +82,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Relevance-CAM]** Your Model Already Knows Where to Look [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf) [[code]](https://github.com/mongeoroo/Relevance-CAM)
 - **[Poly-CAM]** High resolution class activation map for convolutional neural networks [[pdf]](https://arxiv.org/pdf/2204.13359.pdf)
 - **[Zoom-CAM]**  Generating Fine-grained Pixel Annotations from Image Labels [[pdf]](https://arxiv.org/pdf/2010.08644.pdf)
+
+## Review Papers
+- Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications [[pdf]](https://arxiv.org/pdf/2003.07631.pdf)
 
 ## Natural Language Explanations
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
