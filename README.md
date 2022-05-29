@@ -70,7 +70,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - L-Shapley and C-Shapley: Efficient Model Interpretation for Structured Data [[pdf]](https://arxiv.org/pdf/1808.02610.pdf)
 - Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1908.02686.pdf)
 - “Why Should You Trust My Explanation?” Understanding Uncertainty in LIME Explanations [[pdf]](https://arxiv.org/pdf/1904.12991.pdf)
-- The Many Shapley Values for Model Explanation [[pdf]](https://arxiv.org/pdf/1908.08474.pdf)
 - Towards Robust Interpretability with Self-Explaining Neural Networks [[pdf]](https://arxiv.org/pdf/1806.07538.pdf)
 - Influence-Directed Explanations for Deep Convolutional Networks [[pdf]](https://arxiv.org/pdf/1802.03788.pdf)
 - Interpretable Basis Decomposition for Visual Explanation [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.pdf) [[code]](https://github.com/CSAILVision/IBD)
