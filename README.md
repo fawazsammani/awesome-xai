@@ -143,4 +143,5 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Summary - Captum](https://captum.ai/docs/algorithms)
 - [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_14.pdf)
 - [TU Berlin Notes](https://www3.math.tu-berlin.de/numerik/CoSIPICDL2017/Talks/mueller.pdf)
+- [Tutorial Notebooks](https://github.com/1202kbs/Understanding-NN)
 
