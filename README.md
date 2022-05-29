@@ -106,7 +106,19 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
-## Libraries
+## XAI for NLP
+- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
+- Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
+- A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
+- Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
+
+## XAI Libraries for NLP
+- [BertViz](https://github.com/jessevig/bertviz)
+- [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
+- [Ecco](https://github.com/jalammar/ecco)
+- [LIT](https://github.com/PAIR-code/lit)
+
+## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
