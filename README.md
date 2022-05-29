@@ -44,6 +44,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Interpreting Super-Resolution Networks with Local Attribution Maps [[pdf]](https://arxiv.org/pdf/2011.11036.pdf)
 - Is the deconvolution layer the same as a convolutional layer? [[pdf]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
 - Towards Human-Understandable Visual Explanations: Imperceptible High-frequency Cues Can Better Be Removed [[pdf]](https://arxiv.org/pdf/2104.07954.pdf)
+- Pitfalls of Explainable ML: An Industry Perspective [[pdf]](https://arxiv.org/pdf/2106.07758.pdf)
 - **[SmoothGrad]** Removing noise by adding noise [[pdf]](https://arxiv.org/pdf/1706.03825.pdf) 
 - **[Integrated Gradients]** Axiomatic Attribution for Deep Networks [[pdf]](https://arxiv.org/pdf/1703.01365.pdf) 
 - **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1051200417302385) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py)
@@ -87,6 +88,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Review Papers
 - Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications [[pdf]](https://arxiv.org/pdf/2003.07631.pdf)
+- Benchmarking and Survey of Explanation Methods for Black Box Models [[pdf]](https://arxiv.org/pdf/2102.13076.pdf)
 
 ## Natural Language Explanations
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
@@ -112,6 +114,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
 - A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
+- Why use attention as explanation when we have saliency methods? [[pdf]](https://arxiv.org/pdf/2010.05607.pdf)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 
 ## XAI Libraries for NLP
