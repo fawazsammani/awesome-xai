@@ -67,7 +67,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Deformable ProtoPNet]** An Interpretable Image Classifier Using Deformable Prototypes [[pdf]](https://arxiv.org/pdf/2111.15000.pdf)
 - **[CALM]** Keep CALM and Improve Visual Feature Attribution [[pdf]](https://arxiv.org/pdf/2106.07861.pdf) [[code]](https://github.com/naver-ai/calm)
 - **[SGLRP]** Explaining Convolutional Neural Networks using Softmax Gradient Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/1908.04351.pdf)
-- **[DTD]** Explaining NonLinear Classification Decisions with Deep Taylor Decomposition [[pdf]](https://arxiv.org/pdf/1512.02479.pdf)
+- **[DTD]** Explaining NonLinear Classification Decisions with Deep Taylor Decomposition [[pdf]](https://arxiv.org/pdf/1512.02479.pdf) [[code]](https://github.com/myc159/Deep-Taylor-Decomposition)
 - **[GradCAT]** Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and Interpretable Visual Understanding [[pdf]](https://arxiv.org/pdf/2105.12723.pdf)
 - **[FastSHAP]** Real-Time Shapley Value Estimation [[pdf]](https://arxiv.org/pdf/2107.07436.pdf)
 - **[VisualBackProp]** Efficient visualization of CNNs [[pdf]](https://arxiv.org/pdf/1611.05418.pdf)
