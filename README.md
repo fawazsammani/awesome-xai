@@ -19,6 +19,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - High Confidence Predictions for Unrecognizable Images [[pdf]](https://arxiv.org/pdf/1412.1897.pdf)
 - Visualizing Higher-Layer Features of a Deep Network [[pdf]](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
 - Towards better understanding of gradient-based attribution methods for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1711.06104.pdf)
+- Methods for Interpreting and Understanding Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1706.07979.pdf)
 - Polynomial calculation of the Shapley value based on sampling [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0305054808000804)
 - On the (In)fidelity and Sensitivity of Explanations [[pdf]](https://arxiv.org/pdf/1901.09392.pdf) [[code]](https://github.com/chihkuanyeh/saliency_evaluation)
 - Interpretation of Neural Networks is Fragile [[pdf]](https://arxiv.org/pdf/1710.10547.pdf)
