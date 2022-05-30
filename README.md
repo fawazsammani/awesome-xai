@@ -84,6 +84,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Does Explainable Artificial Intelligence Improve Human Decision-Making? [[pdf]](https://arxiv.org/pdf/2006.11194.pdf)
 - Explaining Groups of Points in Low-Dimensional Representations [[pdf]](https://arxiv.org/pdf/2003.01640.pdf)
 - Improving Deep Learning Interpretability by Saliency Guided Training [[pdf]](https://arxiv.org/pdf/2111.14338.pdf)
+- Explainability Methods for Graph Convolutional Neural Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) [[code]](https://github.com/ndey96/GCNN-Explainability)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[LS-Tree]** Model Interpretation When the Data Are Linguistic [[pdf]](https://arxiv.org/pdf/1902.04187.pdf)
