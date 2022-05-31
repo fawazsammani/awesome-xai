@@ -20,6 +20,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf) [[code]](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm) [[code]](https://github.com/Harry24k/FGSM-pytorch) [[code]](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
 - Adversarial Training for Free! [[pdf]](https://arxiv.org/pdf/1904.12843.pdf) [[code]](https://github.com/mahyarnajibi/FreeAdversarialTraining) [[video]](https://www.youtube.com/watch?v=v8U9mM1Vwv0&ab_channel=AminJun)
 - Towards Deep Learning Models Resistant to Adversarial Attacks [[pdf]](https://arxiv.org/pdf/1706.06083.pdf) [[code]](https://github.com/MadryLab/mnist_challenge)
+- Intriguing properties of neural networks [[pdf]](https://arxiv.org/pdf/1312.6199.pdf)
+- Robustness May Be at Odds with Accuracy [[pdf]](https://arxiv.org/pdf/1805.12152.pdf) [[code]](https://github.com/ylsung/pytorch-adversarial-training)
 - High Confidence Predictions for Unrecognizable Images [[pdf]](https://arxiv.org/pdf/1412.1897.pdf)
 - Visualizing Higher-Layer Features of a Deep Network [[pdf]](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
 - Towards better understanding of gradient-based attribution methods for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1711.06104.pdf)
@@ -89,6 +91,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Learning Accurate and Interpretable Decision Rule Sets from Neural Networks [[pdf]](https://arxiv.org/pdf/2103.02826.pdf)
 - Learning to Explain: An Information-Theoretic Perspective on Model Interpretation [[pdf]](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf)
 - Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [[pdf]](https://arxiv.org/pdf/1703.03717.pdf)
+- Are Vision Transformers Robust to Patch Perturbations? [[pdf]](https://arxiv.org/pdf/2111.10659.pdf)
+- Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[LS-Tree]** Model Interpretation When the Data Are Linguistic [[pdf]](https://arxiv.org/pdf/1902.04187.pdf)
@@ -145,6 +149,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## Review Papers
 - Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications [[pdf]](https://arxiv.org/pdf/2003.07631.pdf)
 - Benchmarking and Survey of Explanation Methods for Black Box Models [[pdf]](https://arxiv.org/pdf/2102.13076.pdf)
+- RobustART : Benchmarking Robustness on Architecture Design and Training Techniques [[pdf]](https://arxiv.org/pdf/2109.05211.pdf)
 
 ## Natural Language Explanations
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
@@ -176,6 +181,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Identifying and Controlling Important Neurons in Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1811.01157.pdf)
 - Did the Model Understand the Question? [[pdf]](https://arxiv.org/pdf/1805.05492.pdf)
 - Explaining Compositional Semantics for Neural Sequence Models [[pdf]](https://arxiv.org/pdf/1911.06194.pdf) [[code]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)
+- FreeLB: Enhanced Adversarial Training for Natural Language Understanding [[pdf]](https://arxiv.org/pdf/1909.11764.pdf)
+- Fooling Explanations in Text Classifiers [[pdf]](https://openreview.net/pdf?id=j3krplz_4w6)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 
 ## XAI Libraries for NLP
