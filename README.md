@@ -208,3 +208,5 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [XAI Explained Video Series by DeepFindr](https://www.youtube.com/watch?v=OZJ1IgSgP9E&list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU&index=1&ab_channel=DeepFindr)
 - [Visualizing and Understanding Stanford Video](https://www.youtube.com/watch?v=6wcs6szJWMY&t=2668s&ab_channel=StanfordUniversitySchoolofEngineering)
 - NPTEL-NOC IITM Videos [[Early Methods]](https://www.youtube.com/watch?v=a4TDSLGhKi8&ab_channel=NPTEL-NOCIITM) [[Visualization Methods]](https://www.youtube.com/watch?v=u3FBpyUA1dc&ab_channel=NPTEL-NOCIITM) [[CAM Methods]](https://www.youtube.com/watch?v=VmbBnSv3otc&ab_channel=NPTEL-NOCIITM) [[Recent Methods]](https://www.youtube.com/watch?v=9OzwN-Ub6Lg&ab_channel=NPTEL-NOCIITM) [[Beyond Explaining]](https://www.youtube.com/watch?v=9Moxmab_Y4I&ab_channel=NPTEL-NOCIITM)
+- [CVPR'21 Tutorial XXAI](https://www.youtube.com/watch?v=kASvw-lzLBk&ab_channel=BoleiZhou)
+- [FAIR Tutorial Towards falsifiable interpretability research](https://www.youtube.com/watch?v=BQ06EydLF0Q&ab_channel=BoleiZhou)
