@@ -83,6 +83,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [[pdf]](https://arxiv.org/pdf/1703.03717.pdf)
 - Are Vision Transformers Robust to Patch Perturbations? [[pdf]](https://arxiv.org/pdf/2111.10659.pdf)
 - Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf)
+- Unmasking Clever Hans predictors and assessing what machines really learn [[pdf]](https://www.nature.com/articles/s41467-019-08987-4.pdf)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[LS-Tree]** Model Interpretation When the Data Are Linguistic [[pdf]](https://arxiv.org/pdf/1902.04187.pdf)
