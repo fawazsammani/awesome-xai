@@ -207,7 +207,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Distil](https://distill.pub/) 
 - [OpenAI Microscope](https://microscope.openai.com/models)
 - [Summary - Captum](https://captum.ai/docs/algorithms)
-- [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2021/lecture_14.pdf)
+- [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2022/lecture_8_ruohan.pdf)
 - [TU Berlin Notes](https://www3.math.tu-berlin.de/numerik/CoSIPICDL2017/Talks/mueller.pdf)
 - [Tutorial Notebooks](https://github.com/1202kbs/Understanding-NN)
 - NPTEL-NOC IITM Videos [[Early Methods]](https://www.youtube.com/watch?v=a4TDSLGhKi8&ab_channel=NPTEL-NOCIITM) [[Visualization Methods]](https://www.youtube.com/watch?v=u3FBpyUA1dc&ab_channel=NPTEL-NOCIITM) [[CAM Methods]](https://www.youtube.com/watch?v=VmbBnSv3otc&ab_channel=NPTEL-NOCIITM) [[Recent Methods]](https://www.youtube.com/watch?v=9OzwN-Ub6Lg&ab_channel=NPTEL-NOCIITM) [[Beyond Explaining]](https://www.youtube.com/watch?v=9Moxmab_Y4I&ab_channel=NPTEL-NOCIITM)
