@@ -76,6 +76,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - On the Connection Between Adversarial Robustness and Saliency Map Interpretability [[pdf]](https://arxiv.org/pdf/1905.04172.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf)
+- Visualizing Deep Similarity Networks [[pdf]](https://arxiv.org/pdf/1901.00536.pdf) [[code]](https://github.com/GWUvision/Similarity-Visualization)
 - Improving Deep Learning Interpretability by Saliency Guided Training [[pdf]](https://arxiv.org/pdf/2111.14338.pdf) [[code]](https://github.com/ayaabdelsalam91/saliency_guided_training)
 - Explainability Methods for Graph Convolutional Neural Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) [[code]](https://github.com/ndey96/GCNN-Explainability)
 - Learning Accurate and Interpretable Decision Rule Sets from Neural Networks [[pdf]](https://arxiv.org/pdf/2103.02826.pdf)
