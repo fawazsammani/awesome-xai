@@ -198,7 +198,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [torch-cam](https://github.com/frgfm/torch-cam)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - [TorchRay](https://github.com/facebookresearch/TorchRay)
-- [Alibi](https://docs.seldon.io/projects/alibi/en/stable/)
+- [Alibi](https://github.com/SeldonIO/alibi)
+- [Xplique](https://deel-ai.github.io/xplique/)
+- [tf-explain](https://github.com/sicara/tf-explain)
 
 ## Other Awesomes
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
