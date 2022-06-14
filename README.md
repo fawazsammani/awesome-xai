@@ -121,6 +121,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VisualBackProp]** Efficient visualization of CNNs [[pdf]](https://arxiv.org/pdf/1611.05418.pdf)
 - **[NBDT]** Neural-Backed Decision Trees [[pdf]](https://arxiv.org/pdf/2004.00221.pdf) [[code]](https://github.com/alvinwan/neural-backed-decision-trees)
 - **[XRAI]** Better Attributions Through Regions [[pdf]](https://arxiv.org/pdf/1906.02825.pdf)
+- **[MeGe, ReCo]** How Good is your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/2009.04521.pdf)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
