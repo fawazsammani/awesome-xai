@@ -205,6 +205,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Other Awesomes
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+- [awesome-xai](https://github.com/altamiracorp/awesome-xai)
 
 ## Other Resources
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
