@@ -108,7 +108,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf)
 - **[TCAV]** Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf)
 - **[BiLRP]** Building and Interpreting Deep Similarity Models [[pdf]](https://arxiv.org/pdf/2003.05431.pdf) [[code]](https://github.com/oeberle/BiLRP_explain_similarity)
-- **[LaViSE]** Explaining Deep Convolutional Neural Networks via Unsupervised Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
+- **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
 - **[CGC]** Consistent Explanations by Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.00527.pdf) [[code]](https://github.com/UCDvision/CGC)
 - **[ProtoTrees]** Neural Prototype Trees for Interpretable Fine-grained Image Recognition [[pdf]](https://arxiv.org/pdf/2012.02046.pdf) [[code]](https://github.com/M-Nauta/ProtoTree) 
 - **[CLRP]** Understanding Individual Decisions of CNNs via Contrastive Backpropagation [[pdf]](https://arxiv.org/pdf/1812.02100.pdf) [[code]](https://github.com/JindongGu/Contrastive-LRP)
