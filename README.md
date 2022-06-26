@@ -112,7 +112,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CGC]** Consistent Explanations by Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.00527.pdf) [[code]](https://github.com/UCDvision/CGC)
 - **[ProtoTrees]** Neural Prototype Trees for Interpretable Fine-grained Image Recognition [[pdf]](https://arxiv.org/pdf/2012.02046.pdf) [[code]](https://github.com/M-Nauta/ProtoTree) 
 - **[CLRP]** Understanding Individual Decisions of CNNs via Contrastive Backpropagation [[pdf]](https://arxiv.org/pdf/1812.02100.pdf) [[code]](https://github.com/JindongGu/Contrastive-LRP)
-- **[CRP]** From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation [[pdf]](https://arxiv.org/pdf/2206.03208.pdf)
+- **[CRP]** From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation [[pdf]](https://arxiv.org/pdf/2206.03208.pdf) [[code]](https://github.com/rachtibat/zennit-crp)
 - **[HINT]** Hierarchical Neuron Concept Explainer [[pdf]](https://arxiv.org/pdf/2203.14196.pdf) [[code]](https://github.com/AntonotnaWang/HINT)
 - **[BagNet]** Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet [[pdf]](https://arxiv.org/pdf/1904.00760.pdf) [[code]](https://github.com/wielandbrendel/bag-of-local-features-models) [[blog]](https://sh-tsang.medium.com/review-bagnet-approximating-cnns-with-bag-of-local-features-models-works-surprisingly-well-on-125f4295c433)
 - **[ShapNets]** Shapley Explanation Networks [[pdf]](https://arxiv.org/pdf/2104.02297.pdf) [[code]](https://github.com/inouye-lab/ShapleyExplanationNetworks)
