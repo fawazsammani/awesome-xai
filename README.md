@@ -208,7 +208,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
 - [TorchRay](https://github.com/facebookresearch/TorchRay)
 - [Alibi](https://github.com/SeldonIO/alibi)
-- [Xplique](https://deel-ai.github.io/xplique/)
+- [Xplique](https://github.com/deel-ai/xplique)
 - [tf-explain](https://github.com/sicara/tf-explain)
 
 ## Other Awesomes
