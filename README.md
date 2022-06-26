@@ -205,7 +205,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
 - [torch-cam](https://github.com/frgfm/torch-cam)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
-- VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
+- VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
 - [TorchRay](https://github.com/facebookresearch/TorchRay)
 - [Alibi](https://github.com/SeldonIO/alibi)
 - [Xplique](https://github.com/deel-ai/xplique)
