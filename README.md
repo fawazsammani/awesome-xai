@@ -32,7 +32,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - On the Robustness of Interpretability Methods [[pdf]](https://arxiv.org/pdf/1806.08049.pdf)
 - Sanity Checks for Saliency Maps [[pdf]](https://arxiv.org/pdf/1810.03292.pdf)
 - Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1904.00605.pdf)
-- Transformer Interpretability Beyond Attention Visualization [[pdf]](https://arxiv.org/pdf/2012.09838.pdf) [[code]](https://github.com/hila-chefer/Transformer-Explainability)
+- Transformer Interpretability Beyond Attention Visualization [[pdf]](https://arxiv.org/pdf/2012.09838.pdf) [[code]](https://github.com/hila-chefer/Transformer-Explainability) [[video]](https://www.youtube.com/watch?v=a0O_QhE9XFM&ab_channel=DataScienceBond)
 - Investigating the influence of noise and distractors on the interpretation of neural networks [[pdf]](https://arxiv.org/pdf/1611.07270.pdf)
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
 - Visualization of Supervised and Self-Supervised Neural Networks via Attribution Guided Factorization [[pdf]](https://arxiv.org/pdf/2012.02166.pdf) [[code]](https://github.com/shirgur/AGFVisualization)
