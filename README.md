@@ -80,6 +80,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - On the Connection Between Adversarial Robustness and Saliency Map Interpretability [[pdf]](https://arxiv.org/pdf/1905.04172.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf)
+- Reconstructing Training Data from Trained Neural Networks [[pdf]](https://arxiv.org/pdf/2206.07758v1.pdf) [[website]](https://giladude1.github.io/reconstruction/)
 - Visualizing Deep Similarity Networks [[pdf]](https://arxiv.org/pdf/1901.00536.pdf) [[code]](https://github.com/GWUvision/Similarity-Visualization)
 - Improving Deep Learning Interpretability by Saliency Guided Training [[pdf]](https://arxiv.org/pdf/2111.14338.pdf) [[code]](https://github.com/ayaabdelsalam91/saliency_guided_training)
 - Explainability Methods for Graph Convolutional Neural Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) [[code]](https://github.com/ndey96/GCNN-Explainability)
@@ -133,6 +134,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[XRAI]** Better Attributions Through Regions [[pdf]](https://arxiv.org/pdf/1906.02825.pdf)
 - **[Proto2Proto]** Can you recognize the car, the way I do? [[pdf]](https://arxiv.org/pdf/2204.11830.pdf) [[code]](https://github.com/archmaester/proto2proto)
 - **[MeGe, ReCo]** How Good is your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/2009.04521.pdf)
+- **[FCDD]** Explainable Deep One-Class Classification [[pdf]](https://arxiv.org/pdf/2007.01760.pdf) [[code]](https://github.com/liznerski/fcdd)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
