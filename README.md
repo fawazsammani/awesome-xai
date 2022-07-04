@@ -229,6 +229,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Distil](https://distill.pub/) 
+- [Transformer Circuits](https://transformer-circuits.pub/)
 - [OpenAI Microscope](https://microscope.openai.com/models)
 - [Summary - Captum](https://captum.ai/docs/algorithms)
 - [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2022/lecture_8_ruohan.pdf)
