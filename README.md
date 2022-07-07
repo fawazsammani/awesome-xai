@@ -44,6 +44,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Failure Modes of Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2203.01881.pdf)
 - Network Dissection: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
 - Deep Image Prior [[pdf]](https://arxiv.org/pdf/1711.10925.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior) [[website]](https://dmitryulyanov.github.io/deep_image_prior)
+- How Do Vision Transformers Work? [[pdf]](https://arxiv.org/pdf/2202.06709.pdf)
 - Breaking Batch Normalization for better explainability of Deep Neural Networks through Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/2002.11018.pdf)
 - Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis [[pdf]](https://arxiv.org/pdf/2104.10252.pdf)
 - A Framework for Learning Ante-hoc Explainable Models via Concepts [[pdf]](https://arxiv.org/pdf/2108.11761.pdf)
