@@ -213,6 +213,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining Compositional Semantics for Neural Sequence Models [[pdf]](https://arxiv.org/pdf/1911.06194.pdf) [[code]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)
 - FreeLB: Enhanced Adversarial Training for Natural Language Understanding [[pdf]](https://arxiv.org/pdf/1909.11764.pdf)
 - Fooling Explanations in Text Classifiers [[pdf]](https://openreview.net/pdf?id=j3krplz_4w6)
+- Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 
 ## XAI Libraries for NLP
