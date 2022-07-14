@@ -190,7 +190,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VQA-E]** Explaining, Elaborating, and Enhancing Your Answers for Visual Questions [[pdf]](https://arxiv.org/pdf/1803.07464.pdf)
 - **[PtE]** Are Training Resources Insufficient? Predict First Then Explain! [[pdf]](https://arxiv.org/pdf/2110.02056.pdf)
 - **[WT5]** Training Text-to-Text Models to Explain their Predictions [[pdf]](https://arxiv.org/pdf/2004.14546.pdf)
-- **[REXC]** Rationale-Inspired Natural Language Explanations with Commonsense [[pdf]](https://arxiv.org/pdf/2106.13876.pdf)
+- **[RExC]** Knowledge-Grounded Self-Rationalization via Extractive and Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2106.13876.pdf)
 - **[ELV]** Towards Interpretable Natural Language Understanding with Explanations as Latent Variables [[pdf]](https://arxiv.org/pdf/2011.05268.pdf) [[code]](https://github.com/JamesHujy/ELV)
 - Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - Few-Shot Self-Rationalization with Natural Language Prompts [[pdf]](https://arxiv.org/pdf/2111.08284.pdf)
