@@ -148,6 +148,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Proto2Proto]** Can you recognize the car, the way I do? [[pdf]](https://arxiv.org/pdf/2204.11830.pdf) [[code]](https://github.com/archmaester/proto2proto)
 - **[MeGe, ReCo]** How Good is your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/2009.04521.pdf)
 - **[FCDD]** Explainable Deep One-Class Classification [[pdf]](https://arxiv.org/pdf/2007.01760.pdf) [[code]](https://github.com/liznerski/fcdd)
+- **[DiCE]** Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/1905.07697.pdf) [[code]](https://github.com/interpretml/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
