@@ -98,7 +98,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Unmasking Clever Hans predictors and assessing what machines really learn [[pdf]](https://www.nature.com/articles/s41467-019-08987-4.pdf)
 - Interpreting Multivariate Shapley Interactions in DNNs [[pdf]](https://arxiv.org/pdf/2010.05045.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
-- Understanding Black-box Predictions via Influence Functions [[pdf]](https://arxiv.org/pdf/1703.04730.pdf) [[code]](https://github.com/nimarb/pytorch_influence_functions)
 - Multimodal Neurons in Artificial Neural Networks [[blog]](https://distill.pub/2021/multimodal-neurons/)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
