@@ -14,7 +14,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Neural Networks Through Deep Visualization [[pdf]](https://arxiv.org/pdf/1506.06579.pdf)
 - Understanding Deep Image Representations by Inverting Them [[pdf]](https://arxiv.org/pdf/1412.0035.pdf)
 - Visualizing deep convolutional neural networks using natural pre-images [[pdf]](https://arxiv.org/pdf/1512.02017.pdf)
-- Interpretable Explanations of Black Boxes by Meaningful Perturbation [[pdf]](https://arxiv.org/pdf/1704.03296.pdf) [[code]](https://github.com/jacobgil/pytorch-explain-black-box) [[code]](https://github.com/da2so/Interpretable-Explanations-of-Black-Boxes-by-Meaningful-Perturbation)
+- Interpretable Explanations of Black Boxes by Meaningful Perturbation [[pdf]](https://arxiv.org/pdf/1704.03296.pdf) [[code]](https://github.com/jacobgil/pytorch-explain-black-box) [[code]](https://github.com/ruthcfong/pytorch-explain-black-box) [[code]](https://github.com/da2so/Interpretable-Explanations-of-Black-Boxes-by-Meaningful-Perturbation)
 - Top-down Neural Attention by Excitation Backprop [[pdf]](https://arxiv.org/pdf/1608.00507.pdf)
 - Salient Deconvolutional Networks [[pdf]](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/mahendran16salient.pdf)
 - Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf) [[code]](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm) [[code]](https://github.com/Harry24k/FGSM-pytorch) [[code]](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
@@ -153,7 +153,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
-- **[Grad-CAM]** Visual Explanations from Deep Networks via Gradient-based Localization [[pdf]](https://arxiv.org/pdf/1610.02391.pdf) [[code]](https://github.com/ramprs/grad-cam/) [[website]](http://gradcam.cloudcv.org/)
+- **[Grad-CAM]** Visual Explanations from Deep Networks via Gradient-based Localization [[pdf]](https://arxiv.org/pdf/1610.02391.pdf) [[code]](https://github.com/ramprs/grad-cam/) [[code]](https://github.com/ruthcfong/pytorch-grad-cam) [[website]](http://gradcam.cloudcv.org/)
 - **[Grad-CAM++]** Improved Visual Explanations for Deep Convolutional Networks [[pdf]](https://arxiv.org/pdf/1710.11063.pdf) [[code]](https://github.com/adityac94/Grad_CAM_plus_plus)
 - **[Score-CAM]** Score-Weighted Visual Explanations for Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1910.01279.pdf) [[code]](https://github.com/haofanwang/Score-CAM)
 - **[LayerCAM]** Exploring Hierarchical Class Activation Maps for Localization [[pdf]](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf) [[code]](https://github.com/PengtaoJiang/LayerCAM-jittor)
