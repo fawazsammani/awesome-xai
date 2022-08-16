@@ -57,7 +57,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Is the deconvolution layer the same as a convolutional layer? [[pdf]](https://arxiv.org/ftp/arxiv/papers/1609/1609.07009.pdf)
 - Towards Human-Understandable Visual Explanations: Imperceptible High-frequency Cues Can Better Be Removed [[pdf]](https://arxiv.org/pdf/2104.07954.pdf)
 - Pitfalls of Explainable ML: An Industry Perspective [[pdf]](https://arxiv.org/pdf/2106.07758.pdf)
-- Do Feature Attribution Methods Correctly Attribute Features? [[pdf]](https://arxiv.org/pdf/2104.14403.pdf)
+- Do Feature Attribution Methods Correctly Attribute Features? [[pdf]](https://arxiv.org/pdf/2104.14403.pdf) [[code]](https://github.com/YilunZhou/feature-attribution-evaluation)
 - Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis [[pdf]](https://arxiv.org/pdf/2111.04138.pdf)
 - The effectiveness of feature attribution methods and its correlation with automatic evaluation scores [[pdf]](https://arxiv.org/pdf/2105.14944.pdf)
 - Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations [[pdf]](https://arxiv.org/pdf/2012.03434.pdf)
