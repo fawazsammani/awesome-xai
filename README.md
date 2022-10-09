@@ -247,7 +247,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [TorchRay](https://github.com/facebookresearch/TorchRay)
 - [Alibi](https://github.com/SeldonIO/alibi)
 - [Xplique](https://github.com/deel-ai/xplique)
-- [DeepExplain] (https://github.com/marcoancona/DeepExplain)
+- [DeepExplain](https://github.com/marcoancona/DeepExplain)
 - [tf-explain](https://github.com/sicara/tf-explain)
 
 ## Other Awesomes
