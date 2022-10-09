@@ -85,6 +85,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Distilling Critical Paths in Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1811.02643.pdf)
 - Neural Response Interpretation through the Lens of Critical Pathways [[pdf]](https://arxiv.org/pdf/2103.16886.pdf) [[code]](https://github.com/CAMP-eXplain-AI/PathwayGrad) [[code]](https://github.com/CAMP-eXplain-AI/RoarTorch)
+- Interpret Neural Networks by Identifying Critical Data Routing Paths [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Interpret_Neural_Networks_CVPR_2018_paper.pdf)
 - Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf)
 - Reconstructing Training Data from Trained Neural Networks [[pdf]](https://arxiv.org/pdf/2206.07758v1.pdf) [[website]](https://giladude1.github.io/reconstruction/)
 - Visualizing Deep Similarity Networks [[pdf]](https://arxiv.org/pdf/1901.00536.pdf) [[code]](https://github.com/GWUvision/Similarity-Visualization)
@@ -205,6 +206,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[RExC]** Knowledge-Grounded Self-Rationalization via Extractive and Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2106.13876.pdf) [[code]](https://github.com/majumderb/rexc)
 - **[ELV]** Towards Interpretable Natural Language Understanding with Explanations as Latent Variables [[pdf]](https://arxiv.org/pdf/2011.05268.pdf) [[code]](https://github.com/JamesHujy/ELV)
 - **[FEB]** Few-Shot Self-Rationalization with Natural Language Prompts [[pdf]](https://arxiv.org/pdf/2111.08284.pdf)
+- **[CALeC]** Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2207.11401.pdf)
 - Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
 - Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
@@ -241,9 +243,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - TorchCAM [[github]](https://github.com/frgfm/torch-cam) [[docs]](https://frgfm.github.io/torch-cam/) [[demo]](https://huggingface.co/spaces/frgfm/torch-cam)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
+- Zennit [[github]](https://github.com/chr5tphr/zennit) [[paper]](https://arxiv.org/pdf/2106.13200.pdf)
 - [TorchRay](https://github.com/facebookresearch/TorchRay)
 - [Alibi](https://github.com/SeldonIO/alibi)
 - [Xplique](https://github.com/deel-ai/xplique)
+- [DeepExplain] (https://github.com/marcoancona/DeepExplain)
 - [tf-explain](https://github.com/sicara/tf-explain)
 
 ## Other Awesomes
