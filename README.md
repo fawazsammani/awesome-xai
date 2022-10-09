@@ -232,7 +232,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Captum](https://captum.ai/)
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam)
-- [torch-cam](https://github.com/frgfm/torch-cam)
+- TorchCAM [github](https://github.com/frgfm/torch-cam) [docs](https://frgfm.github.io/torch-cam/) [demo](https://huggingface.co/spaces/frgfm/torch-cam)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
 - [TorchRay](https://github.com/facebookresearch/TorchRay)
