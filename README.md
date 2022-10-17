@@ -85,7 +85,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - On the Connection Between Adversarial Robustness and Saliency Map Interpretability [[pdf]](https://arxiv.org/pdf/1905.04172.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Distilling Critical Paths in Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1811.02643.pdf)
-- Explainable Models with Consistent Interpretations [[pdf]](https://web.cs.ucdavis.edu/~hpirsiav/papers/gc_aaai21.pdf) [[code]](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
 - Neural Response Interpretation through the Lens of Critical Pathways [[pdf]](https://arxiv.org/pdf/2103.16886.pdf) [[code]](https://github.com/CAMP-eXplain-AI/PathwayGrad) [[code]](https://github.com/CAMP-eXplain-AI/RoarTorch)
 - Interpret Neural Networks by Identifying Critical Data Routing Paths [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Interpret_Neural_Networks_CVPR_2018_paper.pdf)
 - Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf)
