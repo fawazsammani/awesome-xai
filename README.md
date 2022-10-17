@@ -180,6 +180,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Smooth Grad-CAM++]** An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models [[pdf]](https://arxiv.org/pdf/1908.01224.pdf) [[code]](https://github.com/yiskw713/SmoothGradCAMplusplus)
 - **[Zoom-CAM]** Generating Fine-grained Pixel Annotations from Image Labels [[pdf]](https://arxiv.org/pdf/2010.08644.pdf)
 - **[FD-CAM]** Improving Faithfulness and Discriminability of Visual Explanation for CNNs [[pdf]](https://arxiv.org/pdf/2206.08792.pdf) [[code]](https://github.com/crishhh1998/FD-CAM)
+- **[LIFT-CAM]** Towards Better Explanations of Class Activation Mapping [[pdf]](https://arxiv.org/pdf/2102.05228.pdf)
 
 ## Temporal Explanations
 - Explaining Time Series Predictions with Dynamic Masks [[pdf]](https://arxiv.org/pdf/2106.05303.pdf)
