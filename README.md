@@ -176,7 +176,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[XGrad-CAM]** Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs [[pdf]](https://arxiv.org/pdf/2008.02312.pdf) [[code]](https://github.com/Fu0511/XGrad-CAM)
 - **[FullGrad]** Full-Gradient Representation for Neural Network Visualization [[pdf]](https://arxiv.org/pdf/1905.00780.pdf)
 - **[Relevance-CAM]** Your Model Already Knows Where to Look [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf) [[code]](https://github.com/mongeoroo/Relevance-CAM)
-- **[Poly-CAM]** High resolution class activation map for convolutional neural networks [[pdf]](https://arxiv.org/pdf/2204.13359.pdf)
+- **[Poly-CAM]** High resolution class activation map for convolutional neural networks [[pdf]](https://arxiv.org/pdf/2204.13359.pdf) [[code]](https://github.com/aenglebert/polycam)
 - **[Smooth Grad-CAM++]** An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models [[pdf]](https://arxiv.org/pdf/1908.01224.pdf) [[code]](https://github.com/yiskw713/SmoothGradCAMplusplus)
 - **[Zoom-CAM]** Generating Fine-grained Pixel Annotations from Image Labels [[pdf]](https://arxiv.org/pdf/2010.08644.pdf)
 - **[FD-CAM]** Improving Faithfulness and Discriminability of Visual Explanation for CNNs [[pdf]](https://arxiv.org/pdf/2206.08792.pdf) [[code]](https://github.com/crishhh1998/FD-CAM)
