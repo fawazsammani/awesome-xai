@@ -126,6 +126,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1051200417302385) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py) [[blog]](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
 - **[DeepDream]** Inceptionism: Going Deeper into Neural Networks [[blog]](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) [[code]](https://github.com/eriklindernoren/PyTorch-Deep-Dream) [[code]](https://github.com/gordicaleksa/pytorch-deepdream) [[code]](https://github.com/ProGamerGov/neural-dream)
 - **[Archipelago]** How does this interaction affect me? Interpretable attribution for feature interactions [[pdf]](https://arxiv.org/pdf/2006.10965.pdf)
+- **[DFF]** Deep Feature Factorization For Concept Discovery [[pdf]](https://arxiv.org/pdf/1806.10206.pdf) [[code]](https://github.com/edocollins/DFF) [[code]](https://github.com/jacobgil/pytorch-grad-cam/blob/master/pytorch_grad_cam/feature_factorization/deep_feature_factorization.py)
 - **[RISE]** Randomized Input Sampling for Explanation of Black-box Models [[pdf]](https://arxiv.org/pdf/1806.07421.pdf) [[code]](https://github.com/eclique/RISE) [[website]](https://cs-people.bu.edu/vpetsiuk/rise/)
 - **[DeepLIFT]** Learning Important Features Through Propagating Activation Differences [[pdf]](https://arxiv.org/pdf/1704.02685.pdf) [[video]](https://www.youtube.com/playlist?list=PLJLjQOkqSRTP3cLB2cOOi_bQFw6KPGKML) [[code]](https://github.com/kundajelab/deeplift)
 - **[ROAD]** A Consistent and Efficient Evaluation Strategy for Attribution Methods [[pdf]](https://arxiv.org/pdf/2202.00449.pdf) [[code]](https://github.com/tleemann/road_evaluation)
@@ -185,6 +186,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FD-CAM]** Improving Faithfulness and Discriminability of Visual Explanation for CNNs [[pdf]](https://arxiv.org/pdf/2206.08792.pdf) [[code]](https://github.com/crishhh1998/FD-CAM)
 - **[LIFT-CAM]** Towards Better Explanations of Class Activation Mapping [[pdf]](https://arxiv.org/pdf/2102.05228.pdf)
 - **[Shap-CAM]** Visual Explanations for Convolutional Neural Networks based on Shapley Value [[pdf]](https://arxiv.org/pdf/2208.03608.pdf)
+- **[HiResCAM]** Use HiResCAM instead of Grad-CAM for faithful explanations of convolutional neural networks [[pdf]](https://arxiv.org/pdf/2011.08891.pdf)
 
 ## Temporal Explanations
 - Explaining Time Series Predictions with Dynamic Masks [[pdf]](https://arxiv.org/pdf/2106.05303.pdf)
