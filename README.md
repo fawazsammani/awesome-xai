@@ -271,6 +271,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Transformer Circuits](https://transformer-circuits.pub/)
 - [OpenAI Microscope](https://microscope.openai.com/models)
 - [Summary - Captum](https://captum.ai/docs/algorithms)
+- [jacobgil blogs](https://jacobgil.github.io/)
 - [Stanford CS231n notes](http://cs231n.stanford.edu/slides/2022/lecture_8_ruohan.pdf)
 - [TU Berlin Notes](https://www3.math.tu-berlin.de/numerik/CoSIPICDL2017/Talks/mueller.pdf)
 - [Tutorial Notebooks](https://github.com/1202kbs/Understanding-NN)
