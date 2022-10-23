@@ -128,6 +128,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Archipelago]** How does this interaction affect me? Interpretable attribution for feature interactions [[pdf]](https://arxiv.org/pdf/2006.10965.pdf)
 - **[RISE]** Randomized Input Sampling for Explanation of Black-box Models [[pdf]](https://arxiv.org/pdf/1806.07421.pdf) [[code]](https://github.com/eclique/RISE) [[website]](https://cs-people.bu.edu/vpetsiuk/rise/)
 - **[DeepLIFT]** Learning Important Features Through Propagating Activation Differences [[pdf]](https://arxiv.org/pdf/1704.02685.pdf) [[video]](https://www.youtube.com/playlist?list=PLJLjQOkqSRTP3cLB2cOOi_bQFw6KPGKML) [[code]](https://github.com/kundajelab/deeplift)
+- **[ROAD]** A Consistent and Efficient Evaluation Strategy for Attribution Methods [[pdf]](https://arxiv.org/pdf/2202.00449.pdf) [[code]](https://github.com/tleemann/road_evaluation)
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[Anchors]**  High-Precision Model-Agnostic Explanations [[pdf]](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [[code]](https://github.com/marcotcr/anchor)
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
