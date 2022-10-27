@@ -86,6 +86,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - On the Connection Between Adversarial Robustness and Saliency Map Interpretability [[pdf]](https://arxiv.org/pdf/1905.04172.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Distilling Critical Paths in Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1811.02643.pdf)
+- Understanding intermediate layers using linear classifier probes [[pdf]](https://arxiv.org/pdf/1610.01644.pdf)
 - Neural Response Interpretation through the Lens of Critical Pathways [[pdf]](https://arxiv.org/pdf/2103.16886.pdf) [[code]](https://github.com/CAMP-eXplain-AI/PathwayGrad) [[code]](https://github.com/CAMP-eXplain-AI/RoarTorch)
 - Interpret Neural Networks by Identifying Critical Data Routing Paths [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Interpret_Neural_Networks_CVPR_2018_paper.pdf)
 - Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf)
@@ -98,6 +99,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Compositional Explanations of Neurons [[pdf]](https://arxiv.org/pdf/2006.14032.pdf)
 - What Does CNN Shift Invariance Look Like? A Visualization Study [[pdf]](https://arxiv.org/pdf/2011.04127.pdf) [[code]](https://github.com/jakehlee/interactive-invariance) [[project]](https://jakehlee.github.io/visualize-invariance)
 - Explainability Methods for Graph Convolutional Neural Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) [[code]](https://github.com/ndey96/GCNN-Explainability)
+- Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
 - Learning Accurate and Interpretable Decision Rule Sets from Neural Networks [[pdf]](https://arxiv.org/pdf/2103.02826.pdf)
 - Learning to Explain: An Information-Theoretic Perspective on Model Interpretation [[pdf]](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf)
 - Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [[pdf]](https://arxiv.org/pdf/1703.03717.pdf)
@@ -167,6 +169,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FCDD]** Explainable Deep One-Class Classification [[pdf]](https://arxiv.org/pdf/2007.01760.pdf) [[code]](https://github.com/liznerski/fcdd)
 - **[DiCE]** Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/1905.07697.pdf) [[code]](https://github.com/interpretml/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
 - **[ARM]** Blending Anti-Aliasing into Vision Transformer [[pdf]](https://arxiv.org/pdf/2110.15156.pdf) [[code]](https://github.com/amazon-research/anti-aliasing-transformer)
+- **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
 - **[RobustART]** Benchmarking Robustness on Architecture Design and Training Techniques [[pdf]](https://arxiv.org/pdf/2109.05211.pdf)
 
 ## CAM Papers
