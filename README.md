@@ -266,12 +266,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - TorchCAM [[github]](https://github.com/frgfm/torch-cam) [[docs]](https://frgfm.github.io/torch-cam/) [[demo]](https://huggingface.co/spaces/frgfm/torch-cam)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
+- [Xplique](https://github.com/deel-ai/xplique)
+- [PAIR](https://github.com/PAIR-code/saliency)
+- [DeepExplain](https://github.com/marcoancona/DeepExplain)
 - Zennit [[github]](https://github.com/chr5tphr/zennit) [[paper]](https://arxiv.org/pdf/2106.13200.pdf)
 - TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
 - [Alibi](https://github.com/SeldonIO/alibi)
-- [Xplique](https://github.com/deel-ai/xplique)
-- [DeepExplain](https://github.com/marcoancona/DeepExplain)
-- [tf-explain](https://github.com/sicara/tf-explain)
 
 ## Other Awesomes
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
