@@ -116,6 +116,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Quantitative Evaluations on Saliency Methods: An Experimental Study [[pdf]](https://arxiv.org/pdf/2012.15616.pdf)
 - Metrics for saliency map evaluation of deep learning explanation methods [[pdf]](https://arxiv.org/pdf/2201.13291.pdf)
 - Neural Networks are Decision Trees [[pdf]](https://arxiv.org/pdf/2210.05189.pdf)
+- Towards Generating Human-Centered Saliency Maps without Sacrificing Accuracy [[blog]](https://katelyn98.github.io/blog/2022/vlr-project/)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[LS-Tree]** Model Interpretation When the Data Are Linguistic [[pdf]](https://arxiv.org/pdf/1902.04187.pdf)
