@@ -117,7 +117,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Unmasking Clever Hans predictors and assessing what machines really learn [[pdf]](https://www.nature.com/articles/s41467-019-08987-4.pdf)
 - Interpreting Multivariate Shapley Interactions in DNNs [[pdf]](https://arxiv.org/pdf/2010.05045.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
-- Multimodal Neurons in Artificial Neural Networks [[paper]](https://distill.pub/2021/multimodal-neurons/) [[blog]](https://openai.com/blog/multimodal-neurons/) [[code]](https://github.com/openai/CLIP-featurevis)
 - Quantitative Evaluations on Saliency Methods: An Experimental Study [[pdf]](https://arxiv.org/pdf/2012.15616.pdf)
 - Metrics for saliency map evaluation of deep learning explanation methods [[pdf]](https://arxiv.org/pdf/2201.13291.pdf)
 - Neural Networks are Decision Trees [[pdf]](https://arxiv.org/pdf/2210.05189.pdf)
@@ -142,6 +141,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[RISE]** Randomized Input Sampling for Explanation of Black-box Models [[pdf]](https://arxiv.org/pdf/1806.07421.pdf) [[code]](https://github.com/eclique/RISE) [[website]](https://cs-people.bu.edu/vpetsiuk/rise/)
 - **[DeepLIFT]** Learning Important Features Through Propagating Activation Differences [[pdf]](https://arxiv.org/pdf/1704.02685.pdf) [[video]](https://www.youtube.com/playlist?list=PLJLjQOkqSRTP3cLB2cOOi_bQFw6KPGKML) [[code]](https://github.com/kundajelab/deeplift)
 - **[ROAD]** A Consistent and Efficient Evaluation Strategy for Attribution Methods [[pdf]](https://arxiv.org/pdf/2202.00449.pdf) [[code]](https://github.com/tleemann/road_evaluation)
+- **[Summit]** Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations [[pdf]](https://arxiv.org/pdf/1904.02323.pdf)
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[Anchors]**  High-Precision Model-Agnostic Explanations [[pdf]](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [[code]](https://github.com/marcotcr/anchor)
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
@@ -211,6 +211,18 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks [[pdf]](https://arxiv.org/pdf/1910.12370.pdf)
 - TimeSHAP: Explaining Recurrent Models through Sequence Perturbations [[pdf]](https://arxiv.org/pdf/2012.00073.pdf)
 - Instance-wise feature importance for time-series black-box models [[pdf]](https://arxiv.org/pdf/2003.02821.pdf)
+
+## Distil Papers
+- [Distil](https://distill.pub/) 
+- Multimodal Neurons in Artificial Neural Networks [[paper]](https://distill.pub/2021/multimodal-neurons/) [[blog]](https://openai.com/blog/multimodal-neurons/) [[code]](https://github.com/openai/CLIP-featurevis)
+- The Building Blocks of Interpretability [[paper]](https://distill.pub/2018/building-blocks/)
+- Visualizing the Impact of Feature Attribution Baselines [[paper]](https://distill.pub/2020/attribution-baselines/)
+- An Overview of Early Vision in InceptionV1 [[paper]](https://distill.pub/2020/circuits/early-vision/)
+- Feature Visualization [[paper]](https://distill.pub/2017/feature-visualization/)
+- Differentiable Image Parameterizations [[paper]](https://distill.pub/2018/differentiable-parameterizations/)
+- Deconvolution and Checkerboard Artifacts [[paper]](https://distill.pub/2016/deconv-checkerboard/)
+- Visualizing memorization in RNNs [[paper]](https://distill.pub/2019/memorization-in-rnns/)
+- Circuits [[paper]](https://distill.pub/2020/circuits/)
 
 ## Review Papers
 - Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications [[pdf]](https://arxiv.org/pdf/2003.07631.pdf)
@@ -286,7 +298,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## Other Resources
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-- [Distil](https://distill.pub/) 
 - [Transformer Circuits](https://transformer-circuits.pub/)
 - [OpenAI Microscope](https://microscope.openai.com/models)
 - [Summary - Captum](https://captum.ai/docs/algorithms)
