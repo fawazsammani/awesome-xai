@@ -1,6 +1,6 @@
 # Awesome Explainable AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Simply imagine a bank system rejecting an application based on "shoe color" of the customer. Or a self-driving car which has always seen a tree next to a red traffic light and therefore the decision to stop at the red light is based on a tree being present. Or an object detector which detects "horses" because of a watermark at the bottom of the image, simply because all "horse" training data had this watermark. These are actually real stories that happened, and the need of Explainable AI (XAI) is now a must.
+[GALACTICA speaks](https://www.galactica.org/?max_new_tokens=1000&prompt=an+article+on+why+explainable+artificial+intelligence+is+important) on the importance of explainable AI!
 
 If you find some overlooked papers, please open issues or pull requests, and provide the paper(s) in this format:
 ```
