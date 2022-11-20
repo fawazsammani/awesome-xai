@@ -182,6 +182,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DiCE]** Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/1905.07697.pdf) [[code]](https://github.com/interpretml/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
 - **[ARM]** Blending Anti-Aliasing into Vision Transformer [[pdf]](https://arxiv.org/pdf/2110.15156.pdf) [[code]](https://github.com/amazon-research/anti-aliasing-transformer)
 - **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
+- **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
 - **[RobustART]** Benchmarking Robustness on Architecture Design and Training Techniques [[pdf]](https://arxiv.org/pdf/2109.05211.pdf)
 
 ## CAM Papers
