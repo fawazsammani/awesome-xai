@@ -103,6 +103,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving Deep Learning Interpretability by Saliency Guided Training [[pdf]](https://arxiv.org/pdf/2111.14338.pdf) [[code]](https://github.com/ayaabdelsalam91/saliency_guided_training)
 - Understanding Prediction Discrepancies in Machine Learning Classifiers [[pdf]](https://arxiv.org/pdf/2104.05467.pdf)
 - Intriguing Properties of Vision Transformers [[pdf]](https://arxiv.org/pdf/2105.10497.pdf) [[code]](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)
+- “Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification [[pdf]](https://arxiv.org/pdf/2111.07367.pdf) [[blog]](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
 - Understanding Robustness of Transformers for Image Classification [[pdf]](https://arxiv.org/pdf/2103.14586.pdf)
 - Hidden Layer Interpretation with Spatial Activation Concept Vector [[pdf]](https://arxiv.org/pdf/2205.11511.pdf) [[code]](https://github.com/AntonotnaWang/Spatial-Activation-Concept-Vector)
 - From Clustering to Cluster Explanations via Neural Networks [[pdf]](https://arxiv.org/pdf/1906.07633.pdf)
