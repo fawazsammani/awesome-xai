@@ -126,7 +126,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[LS-Tree]** Model Interpretation When the Data Are Linguistic [[pdf]](https://arxiv.org/pdf/1902.04187.pdf)
-- **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104v1.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
+- **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[ConceptSHAP]** On Completeness-aware Concept-Based Explanations in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1910.07969.pdf) [[code]](https://github.com/chihkuanyeh/concept_exp)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
 - **[VoG]** Estimating Example Difficulty using Variance of Gradients [[pdf]](https://arxiv.org/pdf/2008.11600.pdf) [[code]](https://github.com/chirag126/VOG) [[project]](https://varianceofgradients.github.io/)
