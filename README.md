@@ -212,13 +212,25 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Shap-CAM]** Visual Explanations for Convolutional Neural Networks based on Shapley Value [[pdf]](https://arxiv.org/pdf/2208.03608.pdf)
 - **[HiResCAM]** Use HiResCAM instead of Grad-CAM for faithful explanations of convolutional neural networks [[pdf]](https://arxiv.org/pdf/2011.08891.pdf)
 
-## Temporal Explanations
-- Explaining Time Series Predictions with Dynamic Masks [[pdf]](https://arxiv.org/pdf/2106.05303.pdf)
-- Feature Importance Explanations for Temporal Black-Box Models [[pdf]](https://arxiv.org/pdf/2102.11934.pdf)
-- Benchmarking Deep Learning Interpretability in Time Series Predictions [[pdf]](https://arxiv.org/pdf/2010.13924.pdf)
-- Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks [[pdf]](https://arxiv.org/pdf/1910.12370.pdf)
-- TimeSHAP: Explaining Recurrent Models through Sequence Perturbations [[pdf]](https://arxiv.org/pdf/2012.00073.pdf)
-- Instance-wise feature importance for time-series black-box models [[pdf]](https://arxiv.org/pdf/2003.02821.pdf)
+## XAI for NLP
+- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
+- Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
+- A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
+- A Survey of the State of Explainable AI for Natural Language Processing [[pdf]](https://arxiv.org/pdf/2010.00711.pdf)
+- Why use attention as explanation when we have saliency methods? [[pdf]](https://arxiv.org/pdf/2010.05607.pdf)
+- Attention is Not Only a Weight: Analyzing Transformers with Vector Norms [[pdf]](https://arxiv.org/pdf/2004.10102.pdf)
+- Attention is not Explanation [[pdf]](https://arxiv.org/pdf/1902.10186.pdf)
+- Attention is not not Explanation [[pdf]](https://arxiv.org/pdf/1908.04626.pdf)
+- Analyzing Individual Neurons in Pre-trained Language Models [[pdf]](https://arxiv.org/pdf/2010.02695.pdf)
+- Identifying and Controlling Important Neurons in Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1811.01157.pdf)
+- “Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification [[pdf]](https://arxiv.org/pdf/2111.07367.pdf) [[blog]](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
+- Interpreting Language Models with Contrastive Explanations [[pdf]](https://arxiv.org/pdf/2202.10419.pdf) [[code]](https://github.com/kayoyin/interpret-lm)
+- Did the Model Understand the Question? [[pdf]](https://arxiv.org/pdf/1805.05492.pdf)
+- Explaining Compositional Semantics for Neural Sequence Models [[pdf]](https://arxiv.org/pdf/1911.06194.pdf) [[code]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)
+- FreeLB: Enhanced Adversarial Training for Natural Language Understanding [[pdf]](https://arxiv.org/pdf/1909.11764.pdf)
+- Fooling Explanations in Text Classifiers [[pdf]](https://openreview.net/pdf?id=j3krplz_4w6)
+- Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+- Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 
 ## Distil Papers
 - [Distil](https://distill.pub/) 
@@ -262,31 +274,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
-## XAI for NLP
-- Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
-- Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
-- A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
-- A Survey of the State of Explainable AI for Natural Language Processing [[pdf]](https://arxiv.org/pdf/2010.00711.pdf)
-- Why use attention as explanation when we have saliency methods? [[pdf]](https://arxiv.org/pdf/2010.05607.pdf)
-- Attention is Not Only a Weight: Analyzing Transformers with Vector Norms [[pdf]](https://arxiv.org/pdf/2004.10102.pdf)
-- Attention is not Explanation [[pdf]](https://arxiv.org/pdf/1902.10186.pdf)
-- Attention is not not Explanation [[pdf]](https://arxiv.org/pdf/1908.04626.pdf)
-- Analyzing Individual Neurons in Pre-trained Language Models [[pdf]](https://arxiv.org/pdf/2010.02695.pdf)
-- Identifying and Controlling Important Neurons in Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1811.01157.pdf)
-- “Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification [[pdf]](https://arxiv.org/pdf/2111.07367.pdf) [[blog]](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
-- Interpreting Language Models with Contrastive Explanations [[pdf]](https://arxiv.org/pdf/2202.10419.pdf) [[code]](https://github.com/kayoyin/interpret-lm)
-- Did the Model Understand the Question? [[pdf]](https://arxiv.org/pdf/1805.05492.pdf)
-- Explaining Compositional Semantics for Neural Sequence Models [[pdf]](https://arxiv.org/pdf/1911.06194.pdf) [[code]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)
-- FreeLB: Enhanced Adversarial Training for Natural Language Understanding [[pdf]](https://arxiv.org/pdf/1909.11764.pdf)
-- Fooling Explanations in Text Classifiers [[pdf]](https://openreview.net/pdf?id=j3krplz_4w6)
-- Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
-- Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
-
-## XAI Libraries for NLP
-- [BertViz](https://github.com/jessevig/bertviz)
-- [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
-- [Ecco](https://github.com/jalammar/ecco)
-- LIT [[github]](https://github.com/PAIR-code/lit) [[website]](https://pair-code.github.io/lit/) [[blog]](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
+## Temporal Explanations
+- Explaining Time Series Predictions with Dynamic Masks [[pdf]](https://arxiv.org/pdf/2106.05303.pdf)
+- Feature Importance Explanations for Temporal Black-Box Models [[pdf]](https://arxiv.org/pdf/2102.11934.pdf)
+- Benchmarking Deep Learning Interpretability in Time Series Predictions [[pdf]](https://arxiv.org/pdf/2010.13924.pdf)
+- Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks [[pdf]](https://arxiv.org/pdf/1910.12370.pdf)
+- TimeSHAP: Explaining Recurrent Models through Sequence Perturbations [[pdf]](https://arxiv.org/pdf/2012.00073.pdf)
+- Instance-wise feature importance for time-series black-box models [[pdf]](https://arxiv.org/pdf/2003.02821.pdf)
 
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
@@ -301,6 +295,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Zennit [[github]](https://github.com/chr5tphr/zennit) [[docs]](https://zennit.readthedocs.io/en/latest/) [[paper]](https://arxiv.org/pdf/2106.13200.pdf)
 - TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
 - Alibi [[github]](https://github.com/SeldonIO/alibi) [[docs]](https://docs.seldon.io/projects/alibi/en/stable/)
+
+## XAI Libraries for NLP
+- [BertViz](https://github.com/jessevig/bertviz)
+- [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
+- [Ecco](https://github.com/jalammar/ecco)
+- LIT [[github]](https://github.com/PAIR-code/lit) [[website]](https://pair-code.github.io/lit/) [[blog]](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
 
 ## Other Awesomes
 - [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
