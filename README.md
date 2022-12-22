@@ -109,7 +109,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are Vision Transformers Robust to Patch Perturbations? [[pdf]](https://arxiv.org/pdf/2111.10659.pdf)
 - Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf)
 - Unmasking Clever Hans predictors and assessing what machines really learn [[pdf]](https://www.nature.com/articles/s41467-019-08987-4.pdf)
-- Interpreting Multivariate Shapley Interactions in DNNs [[pdf]](https://arxiv.org/pdf/2010.05045.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Quantitative Evaluations on Saliency Methods: An Experimental Study [[pdf]](https://arxiv.org/pdf/2012.15616.pdf)
 - Metrics for saliency map evaluation of deep learning explanation methods [[pdf]](https://arxiv.org/pdf/2201.13291.pdf)
