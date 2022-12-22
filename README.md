@@ -23,7 +23,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf) [[code]](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm) [[code]](https://github.com/Harry24k/FGSM-pytorch) [[code]](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
 - Adversarial Training for Free! [[pdf]](https://arxiv.org/pdf/1904.12843.pdf) [[code]](https://github.com/mahyarnajibi/FreeAdversarialTraining) [[video]](https://www.youtube.com/watch?v=v8U9mM1Vwv0&ab_channel=AminJun)
 - Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [[pdf]](https://arxiv.org/pdf/2106.13122.pdf) [[code]](https://github.com/katelyn98/CorruptionRobustness)
-- Towards Deep Learning Models Resistant to Adversarial Attacks [[pdf]](https://arxiv.org/pdf/1706.06083.pdf) [[code]](https://github.com/MadryLab/mnist_challenge)
 - Intriguing properties of neural networks [[pdf]](https://arxiv.org/pdf/1312.6199.pdf)
 - Robustness May Be at Odds with Accuracy [[pdf]](https://arxiv.org/pdf/1805.12152.pdf) [[code]](https://github.com/ylsung/pytorch-adversarial-training)
 - High Confidence Predictions for Unrecognizable Images [[pdf]](https://arxiv.org/pdf/1412.1897.pdf)
