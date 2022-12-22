@@ -152,7 +152,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CAT-XPLAIN]** Causality for Inherently Explainable Transformers [[pdf]](https://arxiv.org/pdf/2206.14841.pdf) [[code]](https://github.com/mvrl/CAT-XPLAIN)
 - **[CLRP]** Understanding Individual Decisions of CNNs via Contrastive Backpropagation [[pdf]](https://arxiv.org/pdf/1812.02100.pdf) [[code]](https://github.com/JindongGu/Contrastive-LRP)
 - **[RCDM]** High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
-- **[FAM]** Visual Explanations for the Feature Representations from Deep Convolutional Networks [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_FAM_Visual_Explanations_for_the_Feature_Representations_From_Deep_Convolutional_CVPR_2022_paper.pdf)
 - **[CRP]** From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation [[pdf]](https://arxiv.org/pdf/2206.03208.pdf) [[code]](https://github.com/rachtibat/zennit-crp)
 - **[HINT]** Hierarchical Neuron Concept Explainer [[pdf]](https://arxiv.org/pdf/2203.14196.pdf) [[code]](https://github.com/AntonotnaWang/HINT)
 - **[BagNet]** Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet [[pdf]](https://arxiv.org/pdf/1904.00760.pdf) [[code]](https://github.com/wielandbrendel/bag-of-local-features-models) [[blog]](https://sh-tsang.medium.com/review-bagnet-approximating-cnns-with-bag-of-local-features-models-works-surprisingly-well-on-125f4295c433)
@@ -200,6 +199,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LIFT-CAM]** Towards Better Explanations of Class Activation Mapping [[pdf]](https://arxiv.org/pdf/2102.05228.pdf)
 - **[Shap-CAM]** Visual Explanations for Convolutional Neural Networks based on Shapley Value [[pdf]](https://arxiv.org/pdf/2208.03608.pdf)
 - **[HiResCAM]** Use HiResCAM instead of Grad-CAM for faithful explanations of convolutional neural networks [[pdf]](https://arxiv.org/pdf/2011.08891.pdf)
+- **[FAM]** Visual Explanations for the Feature Representations from Deep Convolutional Networks [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_FAM_Visual_Explanations_for_the_Feature_Representations_From_Deep_Convolutional_CVPR_2022_paper.pdf)
 
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
