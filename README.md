@@ -70,7 +70,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining Convolutional Neural Networks through Attribution-Based Input Sampling and Block-Wise Feature Aggregation [[pdf]](https://arxiv.org/pdf/2010.00672.pdf)
 - Explainable Models with Consistent Interpretations [[pdf]](https://web.cs.ucdavis.edu/~hpirsiav/papers/gc_aaai21.pdf) [[code]](https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations)
 - Interpreting Multivariate Shapley Interactions in DNNs [[pdf]](https://arxiv.org/pdf/2010.05045.pdf)
-- Scaling Symbolic Methods using Gradients for Neural Model Explanation [[pdf]](https://arxiv.org/pdf/2006.16322.pdf) [[code]](https://github.com/google-research/google-research/tree/master/smug_saliency)
 - Finding and Fixing Spurious Patterns with Explanations [[pdf]](https://arxiv.org/pdf/2106.02112.pdf) 
 - Rethinking the Role of Gradient-Based Attribution Methods for Model Interpretability [[pdf]](https://arxiv.org/pdf/2006.09128.pdf)
 - Revisiting Backpropagation Saliency Methods [[pdf]](https://arxiv.org/pdf/2004.02866.pdf)
