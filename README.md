@@ -301,7 +301,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Transformer Circuits](https://transformer-circuits.pub/)
 - [OpenAI Microscope](https://microscope.openai.com/models)
-- [Summary - Captum](https://captum.ai/docs/algorithms)
+- [Summary - Captum](https://captum.ai/docs/attribution_algorithms)
 - [jacobgil blogs](https://jacobgil.github.io/)
 - [Stanford CS231n slides](http://cs231n.stanford.edu/slides/2022/lecture_8_ruohan.pdf)
 - [TU Berlin Notes](https://www3.math.tu-berlin.de/numerik/CoSIPICDL2017/Talks/mueller.pdf)
