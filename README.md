@@ -111,6 +111,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explainability Methods for Graph Convolutional Neural Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) [[code]](https://github.com/ndey96/GCNN-Explainability)
 - Visual correspondence-based explanations improve AI robustness and human-AI team accuracy [[pdf]](https://arxiv.org/pdf/2208.00780.pdf) [[code]](https://github.com/anguyen8/visual-correspondence-XAI)
 - What do Vision Transformers Learn? A Visual Exploration [[pdf]](https://arxiv.org/pdf/2212.06727.pdf)
+- Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation [[pdf]](https://arxiv.org/pdf/2110.07858.pdf)
 - Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
 - Learning Accurate and Interpretable Decision Rule Sets from Neural Networks [[pdf]](https://arxiv.org/pdf/2103.02826.pdf)
 - Learning to Explain: An Information-Theoretic Perspective on Model Interpretation [[pdf]](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf)
