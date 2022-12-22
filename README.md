@@ -44,7 +44,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Do Explanations Explain? Model Knows Best [[pdf]](https://arxiv.org/pdf/2203.02269.pdf) [[code]](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
 - Visualizing Deep Neural Network Decisions: Prediction Difference Analysis [[pdf]](https://arxiv.org/pdf/1702.04595.pdf) [[code]](https://github.com/lmzintgraf/DeepVis-PredDiff)
 - Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1811.10597.pdf) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
-- Visual Probing: Cognitive Framework for Explaining Self-Supervised Image Representations [[pdf]](https://arxiv.org/pdf/2106.11054v1.pdf) 
 - Understanding Failure Modes of Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2203.01881.pdf)
 - Network Dissection: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
 - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[pdf]](https://arxiv.org/pdf/1811.12231.pdf) [[code]](https://github.com/rgeirhos/texture-vs-shape)
