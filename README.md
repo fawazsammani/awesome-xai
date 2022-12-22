@@ -103,7 +103,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation [[pdf]](https://arxiv.org/pdf/2110.07858.pdf)
 - Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
 - Learning Accurate and Interpretable Decision Rule Sets from Neural Networks [[pdf]](https://arxiv.org/pdf/2103.02826.pdf)
-- Learning to Explain: An Information-Theoretic Perspective on Model Interpretation [[pdf]](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf)
 - Visual Explanation for Deep Metric Learning [[pdf]](https://arxiv.org/pdf/1909.12977.pdf) [[code]](https://github.com/Jeff-Zilence/Explain_Metric_Learning)
 - Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [[pdf]](https://arxiv.org/pdf/1703.03717.pdf)
 - Understanding Black-box Predictions via Influence Functions [[pdf]](https://arxiv.org/pdf/1703.04730.pdf) [[code]](https://github.com/nimarb/pytorch_influence_functions)
