@@ -82,7 +82,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Real Time Image Saliency for Black Box Classifiers [[pdf]](https://arxiv.org/pdf/1705.07857.pdf)
 - Bias Also Matters: Bias Attribution for Deep Neural Network Explanation [[pdf]](http://proceedings.mlr.press/v97/wang19p/wang19p.pdf)
 - Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation [[pdf]](https://arxiv.org/pdf/1902.00407.pdf)
-- Neural Networks with Feature Attribution and Contrastive Explanations [[pdf]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_867.pdf)
 - On the Connection Between Adversarial Robustness and Saliency Map Interpretability [[pdf]](https://arxiv.org/pdf/1905.04172.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Distilling Critical Paths in Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1811.02643.pdf)
