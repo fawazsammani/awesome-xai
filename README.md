@@ -49,7 +49,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[pdf]](https://arxiv.org/pdf/1811.12231.pdf) [[code]](https://github.com/rgeirhos/texture-vs-shape)
 - Deep Image Prior [[pdf]](https://arxiv.org/pdf/1711.10925.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior) [[website]](https://dmitryulyanov.github.io/deep_image_prior)
 - How Do Vision Transformers Work? [[pdf]](https://arxiv.org/pdf/2202.06709.pdf)
-- Explaining Self-Supervised Image Representations with Visual Probing [[pdf]](https://www.ijcai.org/proceedings/2021/0082.pdf) [[pdf]](https://arxiv.org/pdf/2106.11054.pdf) [[code]](https://github.com/BioNN-InfoTech/visual-probes)
+- Explaining Self-Supervised Image Representations with Visual Probing [[pdf]](https://www.ijcai.org/proceedings/2021/0082.pdf) [[pdf]](https://arxiv.org/pdf/2106.11054v1.pdf) [[code]](https://github.com/BioNN-InfoTech/visual-probes)
 - Breaking Batch Normalization for better explainability of Deep Neural Networks through Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/2002.11018.pdf)
 - Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis [[pdf]](https://arxiv.org/pdf/2104.10252.pdf)
 - A Framework for Learning Ante-hoc Explainable Models via Concepts [[pdf]](https://arxiv.org/pdf/2108.11761.pdf)
