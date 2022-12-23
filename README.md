@@ -274,16 +274,16 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
-- [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - PyTorch Grad-CAM [[github]](https://github.com/jacobgil/pytorch-grad-cam) [[docs]](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html)
 - TorchCAM [[github]](https://github.com/frgfm/torch-cam) [[docs]](https://frgfm.github.io/torch-cam/) [[demo]](https://huggingface.co/spaces/frgfm/torch-cam)
-- [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
+- [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
-- Xplique [[github]](https://github.com/deel-ai/xplique) [[docs]](https://deel-ai.github.io/xplique/)
-- [DeepExplain](https://github.com/marcoancona/DeepExplain)
 - Zennit [[github]](https://github.com/chr5tphr/zennit) [[docs]](https://zennit.readthedocs.io/en/latest/) [[paper]](https://arxiv.org/pdf/2106.13200.pdf)
-- TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
+- [DeepExplain](https://github.com/marcoancona/DeepExplain)
+- Xplique [[github]](https://github.com/deel-ai/xplique) [[docs]](https://deel-ai.github.io/xplique/)
+- [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - Alibi [[github]](https://github.com/SeldonIO/alibi) [[docs]](https://docs.seldon.io/projects/alibi/en/stable/)
+- TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
 
 ## XAI Libraries for NLP
 - [BertViz](https://github.com/jessevig/bertviz)
