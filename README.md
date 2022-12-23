@@ -280,7 +280,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
 - Xplique [[github]](https://github.com/deel-ai/xplique) [[docs]](https://deel-ai.github.io/xplique/)
-- PAIR [[github]](https://github.com/PAIR-code/saliency) [[docs]](https://pair-code.github.io/saliency/#home)
 - [DeepExplain](https://github.com/marcoancona/DeepExplain)
 - Zennit [[github]](https://github.com/chr5tphr/zennit) [[docs]](https://zennit.readthedocs.io/en/latest/) [[paper]](https://arxiv.org/pdf/2106.13200.pdf)
 - TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
