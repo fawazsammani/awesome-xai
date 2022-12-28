@@ -16,6 +16,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1602.03616.pdf)
 - Understanding Deep Image Representations by Inverting Them [[pdf]](https://arxiv.org/pdf/1412.0035.pdf)
 - Visualizing deep convolutional neural networks using natural pre-images [[pdf]](https://arxiv.org/pdf/1512.02017.pdf)
+- Understanding Neural Networks via Feature Visualization: A survey [[pdf]](https://arxiv.org/pdf/1904.08939.pdf)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation [[pdf]](https://arxiv.org/pdf/1704.03296.pdf) [[code]](https://github.com/jacobgil/pytorch-explain-black-box) [[code]](https://github.com/ruthcfong/pytorch-explain-black-box) [[code]](https://github.com/da2so/Interpretable-Explanations-of-Black-Boxes-by-Meaningful-Perturbation)
 - Top-down Neural Attention by Excitation Backprop [[pdf]](https://arxiv.org/pdf/1608.00507.pdf) [[code]](https://github.com/ruthcfong/pointing_game)
 - Salient Deconvolutional Networks [[pdf]](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/mahendran16salient.pdf)
