@@ -115,7 +115,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Metrics for saliency map evaluation of deep learning explanation methods [[pdf]](https://arxiv.org/pdf/2201.13291.pdf)
 - Neural Networks are Decision Trees [[pdf]](https://arxiv.org/pdf/2210.05189.pdf)
 - Towards Generating Human-Centered Saliency Maps without Sacrificing Accuracy [[blog]](https://katelyn98.github.io/blog/2022/vlr-project/)
-- Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
+- Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[pip]](https://pypi.org/project/weightwatcher/) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
