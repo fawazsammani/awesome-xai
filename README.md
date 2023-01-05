@@ -284,9 +284,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Zennit [[github]](https://github.com/chr5tphr/zennit) [[docs]](https://zennit.readthedocs.io/en/latest/) [[paper]](https://arxiv.org/pdf/2106.13200.pdf)
 - [DeepExplain](https://github.com/marcoancona/DeepExplain)
 - Xplique [[github]](https://github.com/deel-ai/xplique) [[docs]](https://deel-ai.github.io/xplique/)
-- [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
-- Alibi [[github]](https://github.com/SeldonIO/alibi) [[docs]](https://docs.seldon.io/projects/alibi/en/stable/)
+- [lucid](https://github.com/tensorflow/lucid)
 - TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
+- Alibi [[github]](https://github.com/SeldonIO/alibi) [[docs]](https://docs.seldon.io/projects/alibi/en/stable/)
+- [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 
 ## XAI Libraries for NLP
 - [BertViz](https://github.com/jessevig/bertviz)
