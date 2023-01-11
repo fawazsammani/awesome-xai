@@ -209,6 +209,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
 - A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
 - A Survey of the State of Explainable AI for Natural Language Processing [[pdf]](https://arxiv.org/pdf/2010.00711.pdf)
+- How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking [[pdf]](https://arxiv.org/pdf/2004.14992.pdf) [[code]](https://github.com/nicola-decao/diffmask)
 - Why use attention as explanation when we have saliency methods? [[pdf]](https://arxiv.org/pdf/2010.05607.pdf)
 - Attention is Not Only a Weight: Analyzing Transformers with Vector Norms [[pdf]](https://arxiv.org/pdf/2004.10102.pdf)
 - Attention is not Explanation [[pdf]](https://arxiv.org/pdf/1902.10186.pdf)
