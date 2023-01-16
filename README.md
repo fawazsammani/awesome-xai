@@ -119,6 +119,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Towards Generating Human-Centered Saliency Maps without Sacrificing Accuracy [[blog]](https://katelyn98.github.io/blog/2022/vlr-project/)
 - Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[pip]](https://pypi.org/project/weightwatcher/) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
+- Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces [[pdf]](https://arxiv.org/pdf/2212.14855.pdf)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
