@@ -263,6 +263,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FEB]** Few-Shot Self-Rationalization with Natural Language Prompts [[pdf]](https://arxiv.org/pdf/2111.08284.pdf)
 - **[CALeC]** Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2207.11401.pdf)
 - **[OFA-X]** Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2212.04231.pdf) [[code]](https://github.com/ofa-x/OFA-X)
+- **[Multimodal-CoT]** Multimodal Chain-of-Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2302.00923.pdf) [[code]](https://github.com/amazon-science/mm-cot)
 - Grounding Visual Explanations [[pdf]](https://arxiv.org/pdf/1807.09685.pdf)
 - Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
