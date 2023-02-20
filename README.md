@@ -153,6 +153,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DeepInversion]** Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion [[pdf]](https://arxiv.org/pdf/1912.08795.pdf) [[code]](https://github.com/NVlabs/DeepInversion)
 - **[GradInversion]** See through Gradients: Image Batch Recovery via GradInversion [[pdf]](https://arxiv.org/pdf/2104.07586.pdf)
 - **[GradViT]** Gradient Inversion of Vision Transformers [[pdf]](https://arxiv.org/pdf/2203.11894.pdf)
+- **[Plug-In Inversion]** Model-Agnostic Inversion for Vision with Data Augmentations [[pdf]](https://proceedings.mlr.press/v162/ghiasi22a/ghiasi22a.pdf) 
 - **[CAT-XPLAIN]** Causality for Inherently Explainable Transformers [[pdf]](https://arxiv.org/pdf/2206.14841.pdf) [[code]](https://github.com/mvrl/CAT-XPLAIN)
 - **[CLRP]** Understanding Individual Decisions of CNNs via Contrastive Backpropagation [[pdf]](https://arxiv.org/pdf/1812.02100.pdf) [[code]](https://github.com/JindongGu/Contrastive-LRP)
 - **[RCDM]** High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
