@@ -205,6 +205,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Shap-CAM]** Visual Explanations for Convolutional Neural Networks based on Shapley Value [[pdf]](https://arxiv.org/pdf/2208.03608.pdf)
 - **[HiResCAM]** Use HiResCAM instead of Grad-CAM for faithful explanations of convolutional neural networks [[pdf]](https://arxiv.org/pdf/2011.08891.pdf)
 - **[FAM]** Visual Explanations for the Feature Representations from Deep Convolutional Networks [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_FAM_Visual_Explanations_for_the_Feature_Representations_From_Deep_Convolutional_CVPR_2022_paper.pdf)
+- **[MinMaxCAM]** Improving object coverage for CAM-based Weakly Supervised Object Localization [[pdf]](https://arxiv.org/pdf/2104.14375.pdf)
 
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
