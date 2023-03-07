@@ -78,7 +78,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Revisiting Backpropagation Saliency Methods [[pdf]](https://arxiv.org/pdf/2004.02866.pdf)
 - Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf)
 - Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution [[pdf]](https://arxiv.org/pdf/2004.10484.pdf)
-- Understanding Deep Networks via Extremal Perturbations and Smooth Masks [[pdf]](https://arxiv.org/pdf/1910.08485.pdf)
+- Understanding Deep Networks via Extremal Perturbations and Smooth Masks [[pdf]](https://arxiv.org/pdf/1910.08485.pdf) [[code]](https://github.com/facebookresearch/TorchRay)
 - Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1908.02686.pdf)
 - Towards Robust Interpretability with Self-Explaining Neural Networks [[pdf]](https://arxiv.org/pdf/1806.07538.pdf)
 - Influence-Directed Explanations for Deep Convolutional Networks [[pdf]](https://arxiv.org/pdf/1802.03788.pdf)
