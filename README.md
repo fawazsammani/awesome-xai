@@ -183,6 +183,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ARM]** Blending Anti-Aliasing into Vision Transformer [[pdf]](https://arxiv.org/pdf/2110.15156.pdf) [[code]](https://github.com/amazon-research/anti-aliasing-transformer)
 - **[RelEx]** Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation [[pdf]](https://arxiv.org/pdf/2103.14332.pdf) [[code]](https://github.com/JBNU-VL/RelEx)
 - **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
+- **[Guided Zoom]** Questioning Network Evidence for Fine-Grained Classification [[pdf]](https://arxiv.org/pdf/1812.02626.pdf) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335497) [[code]](https://github.com/andreazuna89/Guided-Zoom)
 - **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
 - **[RobustART]** Benchmarking Robustness on Architecture Design and Training Techniques [[pdf]](https://arxiv.org/pdf/2109.05211.pdf)
 
