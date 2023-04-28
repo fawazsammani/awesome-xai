@@ -290,6 +290,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Captum](https://captum.ai/)
 - PyTorch Grad-CAM [[github]](https://github.com/jacobgil/pytorch-grad-cam) [[docs]](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html)
 - Lucid [[tensorflow]](https://github.com/tensorflow/lucid) [[pytorch]](https://github.com/greentfrapp/lucent)
+- [Saliency](https://github.com/PAIR-code/saliency)
 - TorchCAM [[github]](https://github.com/frgfm/torch-cam) [[docs]](https://frgfm.github.io/torch-cam/) [[demo]](https://huggingface.co/spaces/frgfm/torch-cam)
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
