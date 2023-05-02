@@ -33,6 +33,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Towards better understanding of gradient-based attribution methods for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1711.06104.pdf)
 - On the (In)fidelity and Sensitivity of Explanations [[pdf]](https://arxiv.org/pdf/1901.09392.pdf) [[code]](https://github.com/chihkuanyeh/saliency_evaluation)
 - Interpretation of Neural Networks is Fragile [[pdf]](https://arxiv.org/pdf/1710.10547.pdf)
+- Towards Better Analysis of Deep Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1604.07043.pdf)
 - Adversarial Token Attacks on Vision Transformers [[pdf]](https://arxiv.org/pdf/2110.04337.pdf)
 - A Benchmark for Interpretability Methods in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1806.10758.pdf)
 - On the Robustness of Interpretability Methods [[pdf]](https://arxiv.org/pdf/1806.08049.pdf)
