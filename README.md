@@ -135,6 +135,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - L1-Norm Gradient Penalty for Noise Reduction of Attribution Maps [[pdf]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Explainable%20AI/Kiritoshi_L1-Norm_Gradient_Penalty_for_Noise_Reduction_of_Attribution_Maps_CVPRW_2019_paper.pdf)
 - Identifying Spurious Correlations and Correcting them with an Explanation-based Learning [[pdf]](https://arxiv.org/pdf/2211.08285.pdf)
 - Visual Attention Consistency under Image Transforms for Multi-Label Image Classification [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)
+- Improving performance of deep learning models with axiomatic attribution priors and expected gradients [[pdf]](https://arxiv.org/pdf/1906.10670.pdf)
+- Fast Axiomatic Attribution for Neural Networks [[pdf]](https://arxiv.org/pdf/2111.07668.pdf) [[code]](https://github.com/visinf/fast-axiomatic-attribution)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
@@ -200,6 +202,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
 - **[Guided Zoom]** Questioning Network Evidence for Fine-Grained Classification [[pdf]](https://arxiv.org/pdf/1812.02626.pdf) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335497) [[code]](https://github.com/andreazuna89/Guided-Zoom)
 - **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
+- **[Diffusion Explainer]** Visual Explanation for Text-to-image Stable Diffusion [[pdf]](https://arxiv.org/pdf/2305.03509.pdf) [[website]](https://poloclub.github.io/diffusion-explainer/) [[video]](https://www.youtube.com/watch?v=Zg4gxdIWDds&ab_channel=PoloClubofDataScience)
 - **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
 - **[RobustART]** Benchmarking Robustness on Architecture Design and Training Techniques [[pdf]](https://arxiv.org/pdf/2109.05211.pdf)
 - **[CNC]** Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations [[pdf]](https://arxiv.org/pdf/2203.01517.pdf)
@@ -209,6 +212,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ClickMe]** Learning what and where to attend [[pdf]](https://arxiv.org/pdf/1805.08819.pdf)
 - **[MaskTune]** Mitigating Spurious Correlations by Forcing to Explore [[pdf]](https://arxiv.org/pdf/2210.00055.pdf)
 - **[CoDA-Nets]** Convolutional Dynamic Alignment Networks for Interpretable Classifications [[pdf]](https://arxiv.org/pdf/2104.00032.pdf)
+- **[ABN]** Attention Branch Network: Learning of Attention Mechanism for Visual Explanation [[pdf]](https://arxiv.org/pdf/1812.10025.pdf) [[pdf]](https://arxiv.org/pdf/1905.03540.pdf)
+- **[RES]** A Robust Framework for Guiding Visual Explanation [[pdf]](https://arxiv.org/pdf/2206.13413.pdf)
+- **[IAA]** Aligning Eyes between Humans and Deep Neural Network through Interactive Attention Alignment [[pdf]](https://arxiv.org/pdf/2202.02838.pdf)
+- **[DiFull]** Towards Better Understanding Attribution Methods [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rao_Towards_Better_Understanding_Attribution_Methods_CVPR_2022_paper.pdf)
+- **[AttentionViz]** A Global View of Transformer Attention [[pdf]](https://arxiv.org/pdf/2305.03210.pdf)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
