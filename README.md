@@ -147,6 +147,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SmoothGrad]** Removing noise by adding noise [[pdf]](https://arxiv.org/pdf/1706.03825.pdf) 
 - **[Integrated Gradients]** Axiomatic Attribution for Deep Networks [[pdf]](https://arxiv.org/pdf/1703.01365.pdf) [[code]](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients) [[code]](https://vl8r.eu/posts/2021/10/15/how-the-integrated-gradients-method-works/)
 - **[Integrated Hessians]** Explaining Explanations: Axiomatic Feature Interactions for Deep Networks [[pdf]](https://arxiv.org/pdf/2002.04138.pdf) [[code]](https://github.com/suinleelab/path_explain)
+- **[Archipelago]** How does this interaction affect me? Interpretable attribution for feature interactions [[pdf]](https://arxiv.org/pdf/2006.10965.pdf) [[code]](https://github.com/mtsang/archipelago)
 - **[I-GOS]** Visualizing Deep Networks by Optimizing with Integrated Gradients [[pdf]](https://arxiv.org/pdf/1905.00954.pdf)
 - **[SAGs]** One Explanation is Not Enough: Structured Attention Graphs for Image Classification [[pdf]](https://arxiv.org/pdf/2011.06733.pdf)
 - **[Net2Vec]** Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1801.03454.pdf)
