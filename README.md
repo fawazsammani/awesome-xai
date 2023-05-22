@@ -200,6 +200,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DiCE]** Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/1905.07697.pdf) [[code]](https://github.com/interpretml/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
 - **[ARM]** Blending Anti-Aliasing into Vision Transformer [[pdf]](https://arxiv.org/pdf/2110.15156.pdf) [[code]](https://github.com/amazon-research/anti-aliasing-transformer)
 - **[RelEx]** Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation [[pdf]](https://arxiv.org/pdf/2103.14332.pdf) [[code]](https://github.com/JBNU-VL/RelEx)
+- **[X-Pruner]** eXplainable Pruning for Vision Transformers [[pdf]](https://arxiv.org/pdf/2303.04935.pdf)
+- **[ShearletX]** Explaining Image Classifiers with Multiscale Directional Image Representation [[pdf]](https://arxiv.org/pdf/2211.12857.pdf)
+- **[CRAFT]** Concept Recursive Activation FacTorization for Explainability [[pdf]](https://arxiv.org/pdf/2211.10154.pdf)
+- **[EVA]** Don’t Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis [[pdf]](https://arxiv.org/pdf/2202.07728.pdf) [[code]](https://github.com/deel-ai/formal-explainability)
 - **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
 - **[Guided Zoom]** Questioning Network Evidence for Fine-Grained Classification [[pdf]](https://arxiv.org/pdf/1812.02626.pdf) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335497) [[code]](https://github.com/andreazuna89/Guided-Zoom)
 - **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
@@ -216,7 +220,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ABN]** Attention Branch Network: Learning of Attention Mechanism for Visual Explanation [[pdf]](https://arxiv.org/pdf/1812.10025.pdf) [[pdf]](https://arxiv.org/pdf/1905.03540.pdf)
 - **[RES]** A Robust Framework for Guiding Visual Explanation [[pdf]](https://arxiv.org/pdf/2206.13413.pdf)
 - **[IAA]** Aligning Eyes between Humans and Deep Neural Network through Interactive Attention Alignment [[pdf]](https://arxiv.org/pdf/2202.02838.pdf)
-- **[DiFull]** Towards Better Understanding Attribution Methods [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rao_Towards_Better_Understanding_Attribution_Methods_CVPR_2022_paper.pdf)
+- **[DiFull]** Towards Better Understanding Attribution Methods [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rao_Towards_Better_Understanding_Attribution_Methods_CVPR_2022_paper.pdf) [[code]](https://github.com/sukrutrao/Attribution-Evaluation)
 - **[AttentionViz]** A Global View of Transformer Attention [[pdf]](https://arxiv.org/pdf/2305.03210.pdf)
 
 ## CAM Papers
