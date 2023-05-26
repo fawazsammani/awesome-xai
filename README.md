@@ -162,6 +162,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[Anchors]**  High-Precision Model-Agnostic Explanations [[pdf]](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [[code]](https://github.com/marcotcr/anchor)
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
+- **[NormLime]** A New Feature Importance Metric for Explaining Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1909.04200.pdf)
+- **[GALE]** Global Aggregations of Local Explanations for Black Box models [[pdf]](https://arxiv.org/pdf/1907.03039.pdf)
 - **[D-LIME]** A Deterministic Local Interpretable Model-Agnostic Explanations Approach for Computer-Aided Diagnosis Systems [[pdf]](https://arxiv.org/pdf/1906.10263.pdf)
 - **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf)
 - **[TCAV]** Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf)
