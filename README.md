@@ -368,7 +368,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [XAI Explained Video Series by DeepFindr](https://www.youtube.com/watch?v=OZJ1IgSgP9E&list=PLV8yxwGOxvvovp-j6ztxhF3QcKXT6vORU&index=1&ab_channel=DeepFindr)
 - [Visualizing and Understanding Stanford Video](https://www.youtube.com/watch?v=6wcs6szJWMY&t=2668s&ab_channel=StanfordUniversitySchoolofEngineering)
 - [CVPR 2021 Tutorial](https://interpretablevision.github.io/)
-- [FAIR Tutorial Towards falsifiable interpretability research](https://www.youtube.com/watch?v=BQ06EydLF0Q&ab_channel=BoleiZhou)
 - [CS231n Assignments Solutions](https://github.com/srinadhu/CS231n)
 - Filter and Feature Maps Visualization [[blog]](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030) [[blog]](https://www.kaggle.com/code/magokecol/pytorch-feature-maps-visualizer-snake-version/notebook) [[blog]](https://debuggercafe.com/visualizing-filters-and-feature-maps-in-convolutional-neural-networks-using-pytorch/) [[pytorch discuss]](https://discuss.pytorch.org/t/visualize-feature-map/29597/2)
 - Hooks in PyTorch [[tutorial]](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/) [[tutorial]](https://towardsdatascience.com/the-one-pytorch-trick-which-you-should-know-2d5e9c1da2ca) [[tutorial]](https://medium.com/the-dl/how-to-use-pytorch-hooks-5041d777f904) [[tutorial]](https://pytorch.org/tutorials/beginner/former_torchies/nnft_tutorial.html)
