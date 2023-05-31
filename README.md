@@ -137,6 +137,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving performance of deep learning models with axiomatic attribution priors and expected gradients [[pdf]](https://arxiv.org/pdf/1906.10670.pdf)
 - Fast Axiomatic Attribution for Neural Networks [[pdf]](https://arxiv.org/pdf/2111.07668.pdf) [[code]](https://github.com/visinf/fast-axiomatic-attribution)
 - Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2007.04612.pdf)
+- Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation [[pdf]](https://arxiv.org/pdf/1902.00407.pdf)
+- Detecting Statistical Interactions from Neural Network Weights [[pdf]](https://arxiv.org/pdf/1705.04977.pdf)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
