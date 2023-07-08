@@ -78,7 +78,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Interpreting Multivariate Shapley Interactions in DNNs [[pdf]](https://arxiv.org/pdf/2010.05045.pdf)
 - Finding and Fixing Spurious Patterns with Explanations [[pdf]](https://arxiv.org/pdf/2106.02112.pdf) 
 - Revisiting Backpropagation Saliency Methods [[pdf]](https://arxiv.org/pdf/2004.02866.pdf)
-- Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf)
+- Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
 - Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution [[pdf]](https://arxiv.org/pdf/2004.10484.pdf)
 - Understanding Deep Networks via Extremal Perturbations and Smooth Masks [[pdf]](https://arxiv.org/pdf/1910.08485.pdf) [[code]](https://github.com/facebookresearch/TorchRay)
 - Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1908.02686.pdf)
