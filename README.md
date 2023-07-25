@@ -325,7 +325,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
 - Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
-- Explaining Chest X-ray Pathologies in Natural Language [[pdf]](https://arxiv.org/pdf/2207.04343.pdf) [[code]](https://github.com/maximek3/MIMIC-NLE)
 
 ## Temporal Explanations
 - Explaining Time Series Predictions with Dynamic Masks [[pdf]](https://arxiv.org/pdf/2106.05303.pdf)
