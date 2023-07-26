@@ -79,7 +79,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Interpreting Multivariate Shapley Interactions in DNNs [[pdf]](https://arxiv.org/pdf/2010.05045.pdf)
 - Finding and Fixing Spurious Patterns with Explanations [[pdf]](https://arxiv.org/pdf/2106.02112.pdf)
 - Monitoring Shortcut Learning using Mutual Information [[pdf]](https://arxiv.org/pdf/2206.13034.pdf)
-- Dissecting Deep Learning Networks—Visualizing Mutual Information [[pdf]](https://www.mdpi.com/1099-4300/20/11/823)
+- Dissecting Deep Learning Networks - Visualizing Mutual Information [[pdf]](https://www.mdpi.com/1099-4300/20/11/823)
 - Revisiting Backpropagation Saliency Methods [[pdf]](https://arxiv.org/pdf/2004.02866.pdf)
 - Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
 - Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution [[pdf]](https://arxiv.org/pdf/2004.10484.pdf)
