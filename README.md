@@ -84,6 +84,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Deep Networks via Extremal Perturbations and Smooth Masks [[pdf]](https://arxiv.org/pdf/1910.08485.pdf) [[code]](https://github.com/facebookresearch/TorchRay)
 - Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1908.02686.pdf)
 - Towards Robust Interpretability with Self-Explaining Neural Networks [[pdf]](https://arxiv.org/pdf/1806.07538.pdf)
+- Monitoring Shortcut Learning using Mutual Information [[pdf]](https://arxiv.org/pdf/2206.13034.pdf)
 - Influence-Directed Explanations for Deep Convolutional Networks [[pdf]](https://arxiv.org/pdf/1802.03788.pdf)
 - Interpretable Basis Decomposition for Visual Explanation [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Antonio_Torralba_Interpretable_Basis_Decomposition_ECCV_2018_paper.pdf) [[code]](https://github.com/CSAILVision/IBD)
 - Real Time Image Saliency for Black Box Classifiers [[pdf]](https://arxiv.org/pdf/1705.07857.pdf)
