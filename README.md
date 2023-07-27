@@ -215,7 +215,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DiCE]** Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/1905.07697.pdf) [[code]](https://github.com/interpretml/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
 - **[ARM]** Blending Anti-Aliasing into Vision Transformer [[pdf]](https://arxiv.org/pdf/2110.15156.pdf) [[code]](https://github.com/amazon-research/anti-aliasing-transformer)
 - **[RelEx]** Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation [[pdf]](https://arxiv.org/pdf/2103.14332.pdf) [[code]](https://github.com/JBNU-VL/RelEx)
-- **[X-Pruner]** eXplainable Pruning for Vision Transformers [[pdf]](https://arxiv.org/pdf/2303.04935.pdf)
+- **[X-Pruner]** eXplainable Pruning for Vision Transformers [[pdf]](https://arxiv.org/pdf/2303.04935.pdf) [[code]](https://github.com/vickyyu90/XPruner)
 - **[ShearletX]** Explaining Image Classifiers with Multiscale Directional Image Representation [[pdf]](https://arxiv.org/pdf/2211.12857.pdf)
 - **[CRAFT]** Concept Recursive Activation FacTorization for Explainability [[pdf]](https://arxiv.org/pdf/2211.10154.pdf)
 - **[EVA]** Don’t Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis [[pdf]](https://arxiv.org/pdf/2202.07728.pdf) [[code]](https://github.com/deel-ai/formal-explainability)
