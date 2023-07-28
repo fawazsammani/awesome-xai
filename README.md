@@ -324,6 +324,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - TimeSHAP: Explaining Recurrent Models through Sequence Perturbations [[pdf]](https://arxiv.org/pdf/2012.00073.pdf)
 - Instance-wise feature importance for time-series black-box models [[pdf]](https://arxiv.org/pdf/2003.02821.pdf)
 
+## Analysis of Self-Supervised Models
+- A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[code]](https://github.com/yukimasano/linear-probes) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
+- How transferable are features in deep neural networks? [[pdf]](https://arxiv.org/pdf/1411.1792.pdf)
+- Understanding the Role of Self-Supervised Learning in Out-of-Distribution Detection Task [[pdf]](https://arxiv.org/pdf/2110.13435v1.pdf)
+- Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning [[pdf]](https://arxiv.org/pdf/2206.08347.pdf) [[code]](https://github.com/mgwillia/unsupervised-analysis) [[website]](https://mgwillia.github.io/exploring-unsupervised/)
+
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
 - PyTorch Grad-CAM [[github]](https://github.com/jacobgil/pytorch-grad-cam) [[docs]](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html)
