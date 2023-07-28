@@ -41,17 +41,14 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Transformer Interpretability Beyond Attention Visualization [[pdf]](https://arxiv.org/pdf/2012.09838.pdf) [[code]](https://github.com/hila-chefer/Transformer-Explainability) [[video]](https://www.youtube.com/watch?v=a0O_QhE9XFM&ab_channel=DataScienceBond)
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
 - Optimizing Relevance Maps of Vision Transformers Improves Robustness [[pdf]](https://arxiv.org/pdf/2206.01161.pdf) [[code]](https://github.com/hila-chefer/RobustViT)
-- Visualization of Supervised and Self-Supervised Neural Networks via Attribution Guided Factorization [[pdf]](https://arxiv.org/pdf/2012.02166.pdf) [[code]](https://github.com/shirgur/AGFVisualization)
 - Investigating the influence of noise and distractors on the interpretation of neural networks [[pdf]](https://arxiv.org/pdf/1611.07270.pdf)
 - Do Explanations Explain? Model Knows Best [[pdf]](https://arxiv.org/pdf/2203.02269.pdf) [[code]](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
 - Visualizing Deep Neural Network Decisions: Prediction Difference Analysis [[pdf]](https://arxiv.org/pdf/1702.04595.pdf) [[code]](https://github.com/lmzintgraf/DeepVis-PredDiff)
 - Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1811.10597.pdf) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
-- Understanding Failure Modes of Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2203.01881.pdf)
 - Network Dissection: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
 - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[pdf]](https://arxiv.org/pdf/1811.12231.pdf) [[code]](https://github.com/rgeirhos/texture-vs-shape)
 - Deep Image Prior [[pdf]](https://arxiv.org/pdf/1711.10925.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior) [[website]](https://dmitryulyanov.github.io/deep_image_prior)
 - How Do Vision Transformers Work? [[pdf]](https://arxiv.org/pdf/2202.06709.pdf)
-- Explaining Self-Supervised Image Representations with Visual Probing [[pdf]](https://www.ijcai.org/proceedings/2021/0082.pdf) [[pdf]](https://arxiv.org/pdf/2106.11054v1.pdf) [[code]](https://github.com/BioNN-InfoTech/visual-probes)
 - Breaking Batch Normalization for better explainability of Deep Neural Networks through Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/2002.11018.pdf)
 - Layer-wise Relevance Propagation for Neural Networks with Local Renormalization Layers [[pdf]](https://arxiv.org/pdf/1604.00825.pdf)
 - Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis [[pdf]](https://arxiv.org/pdf/2104.10252.pdf)
@@ -178,7 +175,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Plug-In Inversion]** Model-Agnostic Inversion for Vision with Data Augmentations [[pdf]](https://proceedings.mlr.press/v162/ghiasi22a/ghiasi22a.pdf) 
 - **[CAT-XPLAIN]** Causality for Inherently Explainable Transformers [[pdf]](https://arxiv.org/pdf/2206.14841.pdf) [[code]](https://github.com/mvrl/CAT-XPLAIN)
 - **[CLRP]** Understanding Individual Decisions of CNNs via Contrastive Backpropagation [[pdf]](https://arxiv.org/pdf/1812.02100.pdf) [[code]](https://github.com/JindongGu/Contrastive-LRP)
-- **[RCDM]** High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
 - **[CRP]** From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation [[pdf]](https://arxiv.org/pdf/2206.03208.pdf) [[code]](https://github.com/rachtibat/zennit-crp)
 - **[HINT]** Hierarchical Neuron Concept Explainer [[pdf]](https://arxiv.org/pdf/2203.14196.pdf) [[code]](https://github.com/AntonotnaWang/HINT)
 - **[HINT]** Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded [[pdf]](https://arxiv.org/pdf/1902.03751.pdf)
@@ -324,11 +320,15 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - TimeSHAP: Explaining Recurrent Models through Sequence Perturbations [[pdf]](https://arxiv.org/pdf/2012.00073.pdf)
 - Instance-wise feature importance for time-series black-box models [[pdf]](https://arxiv.org/pdf/2003.02821.pdf)
 
-## Analysis of Self-Supervised Models
+## XAI/Analysis of Self-Supervised Models
+- **[RCDM]** High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[code]](https://github.com/yukimasano/linear-probes) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
 - How transferable are features in deep neural networks? [[pdf]](https://arxiv.org/pdf/1411.1792.pdf)
 - Understanding the Role of Self-Supervised Learning in Out-of-Distribution Detection Task [[pdf]](https://arxiv.org/pdf/2110.13435v1.pdf)
 - Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning [[pdf]](https://arxiv.org/pdf/2206.08347.pdf) [[code]](https://github.com/mgwillia/unsupervised-analysis) [[website]](https://mgwillia.github.io/exploring-unsupervised/)
+- Visualization of Supervised and Self-Supervised Neural Networks via Attribution Guided Factorization [[pdf]](https://arxiv.org/pdf/2012.02166.pdf) [[code]](https://github.com/shirgur/AGFVisualization)
+- Understanding Failure Modes of Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2203.01881.pdf)
+- Explaining Self-Supervised Image Representations with Visual Probing [[pdf]](https://www.ijcai.org/proceedings/2021/0082.pdf) [[pdf]](https://arxiv.org/pdf/2106.11054v1.pdf) [[code]](https://github.com/BioNN-InfoTech/visual-probes)
 
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
