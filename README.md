@@ -158,7 +158,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ROAD]** A Consistent and Efficient Evaluation Strategy for Attribution Methods [[pdf]](https://arxiv.org/pdf/2202.00449.pdf) [[code]](https://github.com/tleemann/road_evaluation)
 - **[Summit]** Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations [[pdf]](https://arxiv.org/pdf/1904.02323.pdf)
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
-- **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP)
+- **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP) [[video]](https://www.youtube.com/watch?v=RLaiomLMK9I&ab_channel=AICoffeeBreakwithLetitia)
 - **[Anchors]**  High-Precision Model-Agnostic Explanations [[pdf]](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [[code]](https://github.com/marcotcr/anchor)
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
 - **[InteractionLIME]** Model-Agnostic Visual Explanations via Approximate Bilinear Models [[pdf]](https://cris.vub.be/ws/portalfiles/portal/97448865/ICIP_2023_InteractionLIME_openAccess.pdf)
