@@ -271,8 +271,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 
-## Distil Papers
-- [Distil](https://distill.pub/) 
+## Distill Papers
+- [Distill](https://distill.pub/) 
 - Multimodal Neurons in Artificial Neural Networks [[paper]](https://distill.pub/2021/multimodal-neurons/) [[blog]](https://openai.com/blog/multimodal-neurons/) [[code]](https://github.com/openai/CLIP-featurevis)
 - The Building Blocks of Interpretability [[paper]](https://distill.pub/2018/building-blocks/)
 - Visualizing the Impact of Feature Attribution Baselines [[paper]](https://distill.pub/2020/attribution-baselines/)
