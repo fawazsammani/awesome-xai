@@ -313,14 +313,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
-## Temporal Explanations
-- Explaining Time Series Predictions with Dynamic Masks [[pdf]](https://arxiv.org/pdf/2106.05303.pdf)
-- Feature Importance Explanations for Temporal Black-Box Models [[pdf]](https://arxiv.org/pdf/2102.11934.pdf)
-- Benchmarking Deep Learning Interpretability in Time Series Predictions [[pdf]](https://arxiv.org/pdf/2010.13924.pdf)
-- Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks [[pdf]](https://arxiv.org/pdf/1910.12370.pdf)
-- TimeSHAP: Explaining Recurrent Models through Sequence Perturbations [[pdf]](https://arxiv.org/pdf/2012.00073.pdf)
-- Instance-wise feature importance for time-series black-box models [[pdf]](https://arxiv.org/pdf/2003.02821.pdf)
-
 ## XAI/Analysis of Self-Supervised Models
 - **[RCDM]** High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[code]](https://github.com/yukimasano/linear-probes) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
