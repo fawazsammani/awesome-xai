@@ -298,6 +298,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[RVT]** Natural Language Rationales with Full-Stack Visual Reasoning [[pdf]](https://arxiv.org/pdf/2010.07526.pdf) [[code]](https://github.com/allenai/visual-reasoning-rationalization)
 - **[e-UG]** e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2105.03761.pdf) [[code]](https://github.com/maximek3/e-ViL)
 - **[NLX-GPT]** A Model for Natural Language Explanations in Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2203.05081.pdf) [[code]](https://github.com/fawazsammani/nlxgpt)
+- **[Uni-NLX]** Unifying Textual Explanations for Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2308.09033.pdf) [[code]](https://github.com/fawazsammani/uni-nlx)
 - **[Explain Yourself]** Leveraging Language Models for Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/1906.02361.pdf) 
 - **[e-SNLI]** Natural Language Inference with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/1812.01193.pdf)
 - **[CLEVR-X]** A Visual Reasoning Dataset for Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2204.02380.pdf) [[code]](https://github.com/ExplainableML/CLEVR-X) [[website]](https://explainableml.github.io/CLEVR-X/)
