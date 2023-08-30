@@ -331,6 +331,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations [[pdf]](https://arxiv.org/pdf/2304.13089.pdf)
 - What Happens to the Source Domain in Transfer Learning? [[pdf]](https://openreview.net/pdf?id=BsqmRU5hkB)
 - What Contrastive Learning Learns Beyond Class-wise Features? [[pdf]](https://openreview.net/pdf?id=T-NiH_wB1O)
+- Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[pdf]](https://arxiv.org/pdf/2112.10740.pdf)
 
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
