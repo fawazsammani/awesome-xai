@@ -319,7 +319,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
 ## XAI/Analysis of Self-Supervised Models
-- **[RCDM]** High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
+- High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
+- How Well Do Self-Supervised Models Transfer? [[pdf]](https://arxiv.org/pdf/2011.13377.pdf) [[code]](https://github.com/linusericsson/ssl-transfer)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[code]](https://github.com/yukimasano/linear-probes) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
 - How transferable are features in deep neural networks? [[pdf]](https://arxiv.org/pdf/1411.1792.pdf)
 - Understanding the Role of Self-Supervised Learning in Out-of-Distribution Detection Task [[pdf]](https://arxiv.org/pdf/2110.13435v1.pdf)
