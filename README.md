@@ -318,7 +318,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
-## XAI/Analysis of Self-Supervised Models
+## XAI/Analysis of Self-Supervised Models and Transfer Learning
 - High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
 - How Well Do Self-Supervised Models Transfer? [[pdf]](https://arxiv.org/pdf/2011.13377.pdf) [[code]](https://github.com/linusericsson/ssl-transfer)
 - A critical analysis of self-supervision, or what we can learn from a single image [[pdf]](https://arxiv.org/pdf/1904.13132.pdf) [[code]](https://github.com/yukimasano/linear-probes) [[video]](https://www.youtube.com/watch?v=l5he9JNJqHA&t=24s&ab_channel=YannicKilcher)
@@ -333,6 +333,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - What Happens to the Source Domain in Transfer Learning? [[pdf]](https://openreview.net/pdf?id=BsqmRU5hkB)
 - What Contrastive Learning Learns Beyond Class-wise Features? [[pdf]](https://openreview.net/pdf?id=T-NiH_wB1O)
 - Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[pdf]](https://arxiv.org/pdf/2112.10740.pdf)
+- What makes instance discrimination good for transfer learning? [[pdf]](https://arxiv.org/pdf/2006.06606.pdf) [[website]](http://nxzhao.com/projects/good_transfer/)
 
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
