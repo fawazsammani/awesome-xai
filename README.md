@@ -335,6 +335,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - What Contrastive Learning Learns Beyond Class-wise Features? [[pdf]](https://openreview.net/pdf?id=T-NiH_wB1O)
 - Are Large-scale Datasets Necessary for Self-Supervised Pre-training? [[pdf]](https://arxiv.org/pdf/2112.10740.pdf)
 - What makes instance discrimination good for transfer learning? [[pdf]](https://arxiv.org/pdf/2006.06606.pdf) [[website]](http://nxzhao.com/projects/good_transfer/)
+- Revisiting the Transferability of Supervised Pretraining: an MLP Perspective [[pdf]](https://arxiv.org/pdf/2112.00496.pdf)
+- Intriguing Properties of Contrastive Losses [[pdf]](https://arxiv.org/pdf/2011.02803.pdf) [[code]](https://github.com/google-research/simclr/tree/master/colabs/intriguing_properties)
+- When Does Contrastive Visual Representation Learning Work? [[pdf]](https://arxiv.org/pdf/2105.05837.pdf)
+- What Makes for Good Views for Contrastive Learning? [[pdf]](https://arxiv.org/pdf/2005.10243v1.pdf) [[code]](https://github.com/HobbitLong/PyContrast)
+- What Should Not Be Contrastive in Contrastive Learning [[pdf]](https://arxiv.org/pdf/2008.05659.pdf)
+- Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
+- Are all negatives created equal in contrastive instance discrimination? [[pdf]](https://arxiv.org/pdf/2010.06682.pdf)
 
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
