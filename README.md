@@ -30,6 +30,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Contrastive Explanations in Neural Networks [[pdf]](https://arxiv.org/pdf/2008.00178.pdf) [[code]](https://github.com/olivesgatech/Contrastive-Explanations) [[slides]](https://gukyeongkwon.github.io/slides/mohit_icip2020_slides.pdf)
 - Towards better understanding of gradient-based attribution methods for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1711.06104.pdf)
 - On the (In)fidelity and Sensitivity of Explanations [[pdf]](https://arxiv.org/pdf/1901.09392.pdf) [[code]](https://github.com/chihkuanyeh/saliency_evaluation)
+- Diverse feature visualizations reveal invariances in early layers of deep neural networks [[pdf]](https://arxiv.org/pdf/1807.10589.pdf)
 - Interpretation of Neural Networks is Fragile [[pdf]](https://arxiv.org/pdf/1710.10547.pdf)
 - Towards Better Analysis of Deep Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1604.07043.pdf)
 - Do Convolutional Neural Networks Learn Class Hierarchy? [[pdf]](https://arxiv.org/pdf/1710.06501.pdf)
