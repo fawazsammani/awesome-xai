@@ -39,7 +39,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Sanity Checks for Saliency Maps [[pdf]](https://arxiv.org/pdf/1810.03292.pdf)
 - Sanity Checks for Saliency Metrics [[pdf]](https://arxiv.org/pdf/1912.01451.pdf)
 - Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1904.00605.pdf)
-- Quantifying Attention Flow in Transformers [[pdf]](https://arxiv.org/pdf/2005.00928.pdf)
 - Transformer Interpretability Beyond Attention Visualization [[pdf]](https://arxiv.org/pdf/2012.09838.pdf) [[code]](https://github.com/hila-chefer/Transformer-Explainability) [[video]](https://www.youtube.com/watch?v=a0O_QhE9XFM&ab_channel=DataScienceBond)
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
 - Optimizing Relevance Maps of Vision Transformers Improves Robustness [[pdf]](https://arxiv.org/pdf/2206.01161.pdf) [[code]](https://github.com/hila-chefer/RobustViT)
@@ -255,6 +254,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
+- Quantifying Attention Flow in Transformers [[pdf]](https://arxiv.org/pdf/2005.00928.pdf)
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
 - A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
 - A Survey of the State of Explainable AI for Natural Language Processing [[pdf]](https://arxiv.org/pdf/2010.00711.pdf)
