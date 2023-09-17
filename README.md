@@ -227,6 +227,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[IAA]** Aligning Eyes between Humans and Deep Neural Network through Interactive Attention Alignment [[pdf]](https://arxiv.org/pdf/2202.02838.pdf)
 - **[DiFull]** Towards Better Understanding Attribution Methods [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Rao_Towards_Better_Understanding_Attribution_Methods_CVPR_2022_paper.pdf) [[code]](https://github.com/sukrutrao/Attribution-Evaluation)
 - **[AttentionViz]** A Global View of Transformer Attention [[pdf]](https://arxiv.org/pdf/2305.03210.pdf)
+- **[Rosetta Neurons]** Mining the Common Units in a Model Zoo [[pdf]](https://arxiv.org/pdf/2306.09346.pdf) [[code]](https://github.com/yossigandelsman/rosetta_neurons) [[website]](https://yossigandelsman.github.io/rosetta_neurons/)
+- **[SAFARI]** Versatile and Efficient Evaluations for Robustness of Interpretability [[pdf]](https://arxiv.org/pdf/2208.09418.pdf)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
