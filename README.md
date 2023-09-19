@@ -189,7 +189,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SMERF]** Sanity Simulations for Saliency Methods [[pdf]](https://arxiv.org/pdf/2105.06506.pdf)
 - **[ELUDE]** Generating interpretable explanations via a decomposition into labelled and unlabelled features [[pdf]](https://arxiv.org/pdf/2206.07690.pdf)
 - **[C3LT]** Cycle-Consistent Counterfactuals by Latent Transformations [[pdf]](https://arxiv.org/pdf/2203.15064.pdf)
-- **[B-cos Networks]** Alignment is All We Need for Interpretability [[pdf]](https://arxiv.org/pdf/2205.10268.pdf) [[code]](https://github.com/moboehle/B-cos)
+- **[B-cos]** Alignment is All We Need for Interpretability [[pdf]](https://arxiv.org/pdf/2205.10268.pdf) [[code]](https://github.com/moboehle/B-cos)
 - **[ShapNets]** Shapley Explanation Networks [[pdf]](https://arxiv.org/pdf/2104.02297.pdf) [[code]](https://github.com/inouye-lab/ShapleyExplanationNetworks)
 - **[BotCL]** Learning Bottleneck Concepts in Image Classification [[pdf]](https://arxiv.org/pdf/2304.10131.pdf) [[code]](https://github.com/wbw520/BotCL)
 - **[CBM]** Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2007.04612.pdf) [[code]](https://github.com/yewsiang/ConceptBottleneck)
@@ -230,6 +230,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[AttentionViz]** A Global View of Transformer Attention [[pdf]](https://arxiv.org/pdf/2305.03210.pdf)
 - **[Rosetta Neurons]** Mining the Common Units in a Model Zoo [[pdf]](https://arxiv.org/pdf/2306.09346.pdf) [[code]](https://github.com/yossigandelsman/rosetta_neurons) [[website]](https://yossigandelsman.github.io/rosetta_neurons/)
 - **[SAFARI]** Versatile and Efficient Evaluations for Robustness of Interpretability [[pdf]](https://arxiv.org/pdf/2208.09418.pdf)
+- **[LANCE]** Stress-testing Visual Models by Generating Language-guided Counterfactual Images [[pdf]](https://arxiv.org/pdf/2305.19164.pdf) [[code]](https://github.com/virajprabhu/LANCE) [[website]](https://virajprabhu.github.io//lance-web/)
+- **[FunnyBirds]** A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods [[pdf]](https://arxiv.org/pdf/2308.06248.pdf) [[code]](https://github.com/visinf/funnybirds/)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
