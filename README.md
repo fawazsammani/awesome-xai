@@ -137,6 +137,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Investigating Vision Transformer representations [[blog]](https://keras.io/examples/vision/probing_vits/)
 - Mean Attention Distance in Vision Transformers [[pdf]](https://arxiv.org/pdf/2010.11929.pdf) [[code]](https://colab.research.google.com/github/all-things-vits/code-samples/blob/main/probing/mean_attention_distance.ipynb)
 - Interpreting Vision and Language Generative Models with Semantic Visual Priors [[pdf]](https://arxiv.org/pdf/2304.14986v2.pdf)
+- Learning Concise and Descriptive Attributes for Visual Recognition [[pdf]](https://arxiv.org/pdf/2308.03685.pdf)
+- Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? [[pdf]](https://arxiv.org/pdf/2203.17271.pdf) [[code]](https://github.com/tttyuntian/vlm_primitive_concepts) [[website]](https://vlm-primitive-concepts.github.io/)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
