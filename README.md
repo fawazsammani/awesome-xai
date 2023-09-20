@@ -181,6 +181,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[GradViT]** Gradient Inversion of Vision Transformers [[pdf]](https://arxiv.org/pdf/2203.11894.pdf)
 - **[Plug-In Inversion]** Model-Agnostic Inversion for Vision with Data Augmentations [[pdf]](https://proceedings.mlr.press/v162/ghiasi22a/ghiasi22a.pdf) 
 - **[GIFD]** A Generative Gradient Inversion Method with Feature Domain Optimization [[pdf]](https://arxiv.org/pdf/2308.04699.pdf)
+- **[X-OIA]** Explainable Object-induced Action Decision for Autonomous Vehicles [[pdf]](https://arxiv.org/pdf/2003.09405.pdf) [[code]](https://github.com/Twizwei/bddoia_project) [[website]](https://twizwei.github.io/bddoia_project/) 
 - **[CAT-XPLAIN]** Causality for Inherently Explainable Transformers [[pdf]](https://arxiv.org/pdf/2206.14841.pdf) [[code]](https://github.com/mvrl/CAT-XPLAIN)
 - **[CLRP]** Understanding Individual Decisions of CNNs via Contrastive Backpropagation [[pdf]](https://arxiv.org/pdf/1812.02100.pdf) [[code]](https://github.com/JindongGu/Contrastive-LRP)
 - **[CRP]** From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation [[pdf]](https://arxiv.org/pdf/2206.03208.pdf) [[code]](https://github.com/rachtibat/zennit-crp)
