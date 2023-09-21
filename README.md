@@ -317,6 +317,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[e-UG]** e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2105.03761.pdf) [[code]](https://github.com/maximek3/e-ViL)
 - **[NLX-GPT]** A Model for Natural Language Explanations in Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2203.05081.pdf) [[code]](https://github.com/fawazsammani/nlxgpt)
 - **[Uni-NLX]** Unifying Textual Explanations for Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2308.09033.pdf) [[code]](https://github.com/fawazsammani/uni-nlx)
+- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/024.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[Explain Yourself]** Leveraging Language Models for Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/1906.02361.pdf) 
 - **[e-SNLI]** Natural Language Inference with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/1812.01193.pdf)
 - **[CLEVR-X]** A Visual Reasoning Dataset for Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2204.02380.pdf) [[code]](https://github.com/ExplainableML/CLEVR-X) [[website]](https://explainableml.github.io/CLEVR-X/)
@@ -339,7 +340,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
-- Quantifying Attention Flow in Transformers [[pdf]](https://arxiv.org/pdf/2005.00928.pdf)
+- Attention Rollout: Quantifying Attention Flow in Transformers [[pdf]](https://arxiv.org/pdf/2005.00928.pdf)
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
 - A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
 - A Survey of the State of Explainable AI for Natural Language Processing [[pdf]](https://arxiv.org/pdf/2010.00711.pdf)
