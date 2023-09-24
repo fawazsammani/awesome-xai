@@ -308,6 +308,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - What Should Not Be Contrastive in Contrastive Learning [[pdf]](https://arxiv.org/pdf/2008.05659.pdf)
 - Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
 - Are all negatives created equal in contrastive instance discrimination? [[pdf]](https://arxiv.org/pdf/2010.06682.pdf)
+- Improving Pixel-based MIM by Reducing Wasted Modeling Capability [[pdf]](https://arxiv.org/pdf/2308.00261.pdf) [[code]](https://github.com/open-mmlab/mmpretrain)
 
 ## Natural Language Explanations
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
