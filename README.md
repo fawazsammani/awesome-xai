@@ -147,6 +147,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SmoothGrad]** Removing noise by adding noise [[pdf]](https://arxiv.org/pdf/1706.03825.pdf) 
 - **[Integrated Gradients]** Axiomatic Attribution for Deep Networks [[pdf]](https://arxiv.org/pdf/1703.01365.pdf) [[code]](https://www.tensorflow.org/tutorials/interpretability/integrated_gradients) [[code]](https://vl8r.eu/posts/2021/10/15/how-the-integrated-gradients-method-works/)
 - **[IDGI]** A Framework to Eliminate Explanation Noise from Integrated Gradients [[pdf]](https://arxiv.org/pdf/2303.14242.pdf) [[code]](https://github.com/yangruo1226/IDGI)
+- **[GIG]** Guided Integrated Gradients: an Adaptive Path Method for Removing Noise [[pdf]](https://arxiv.org/pdf/2106.09788.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[SPI]** Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling [[pdf]](https://openreview.net/pdf?id=muHaELT29WK)
 - **[Integrated Hessians]** Explaining Explanations: Axiomatic Feature Interactions for Deep Networks [[pdf]](https://arxiv.org/pdf/2002.04138.pdf) [[code]](https://github.com/suinleelab/path_explain)
 - **[Archipelago]** How does this interaction affect me? Interpretable attribution for feature interactions [[pdf]](https://arxiv.org/pdf/2006.10965.pdf) [[code]](https://github.com/mtsang/archipelago)
