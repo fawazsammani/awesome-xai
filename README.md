@@ -312,7 +312,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are all negatives created equal in contrastive instance discrimination? [[pdf]](https://arxiv.org/pdf/2010.06682.pdf)
 - Improving Pixel-based MIM by Reducing Wasted Modeling Capability [[pdf]](https://arxiv.org/pdf/2308.00261.pdf) [[code]](https://github.com/open-mmlab/mmpretrain)
 
-## Natural Language Explanations
+## Natural Language Explanations (Supervised and Unsupervised)
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
 - **[PJ-X]** Multimodal Explanations: Justifying Decisions and Pointing to the Evidence [[pdf]](https://arxiv.org/pdf/1802.08129.pdf) [[code]](https://github.com/Seth-Park/MultimodalExplanations)
 - **[FME]** Faithful Multimodal Explanation for Visual Question Answering [[pdf]](https://arxiv.org/pdf/1809.02805.pdf) 
@@ -320,8 +320,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[e-UG]** e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2105.03761.pdf) [[code]](https://github.com/maximek3/e-ViL)
 - **[NLX-GPT]** A Model for Natural Language Explanations in Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2203.05081.pdf) [[code]](https://github.com/fawazsammani/nlxgpt)
 - **[Uni-NLX]** Unifying Textual Explanations for Vision and Vision-Language Tasks [[pdf]](https://arxiv.org/pdf/2308.09033.pdf) [[code]](https://github.com/fawazsammani/uni-nlx)
-- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/024.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
-- **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
 - **[Explain Yourself]** Leveraging Language Models for Commonsense Reasoning [[pdf]](https://arxiv.org/pdf/1906.02361.pdf) 
 - **[e-SNLI]** Natural Language Inference with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/1812.01193.pdf)
 - **[CLEVR-X]** A Visual Reasoning Dataset for Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2204.02380.pdf) [[code]](https://github.com/ExplainableML/CLEVR-X) [[website]](https://explainableml.github.io/CLEVR-X/)
@@ -333,6 +331,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FEB]** Few-Shot Self-Rationalization with Natural Language Prompts [[pdf]](https://arxiv.org/pdf/2111.08284.pdf)
 - **[CALeC]** Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2207.11401.pdf)
 - **[OFA-X]** Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2212.04231.pdf) [[code]](https://github.com/ofa-x/OFA-X)
+- **[MILAN]** Natural Language Descriptions of Deep Visual Features [[pdf]](https://arxiv.org/pdf/2201.11114.pdf) [[code]](https://github.com/evandez/neuron-descriptions) [[website]](http://milan.csail.mit.edu/)
+- **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
+- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/024.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[S3C]** Semi-Supervised VQA Natural Language Explanation via Self-Critical Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Suo_S3C_Semi-Supervised_VQA_Natural_Language_Explanation_via_Self-Critical_Learning_CVPR_2023_paper.pdf)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - Grounding Visual Explanations [[pdf]](https://arxiv.org/pdf/1807.09685.pdf)
