@@ -138,6 +138,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Mean Attention Distance in Vision Transformers [[pdf]](https://arxiv.org/pdf/2010.11929.pdf) [[code]](https://colab.research.google.com/github/all-things-vits/code-samples/blob/main/probing/mean_attention_distance.ipynb)
 - Interpreting Vision and Language Generative Models with Semantic Visual Priors [[pdf]](https://arxiv.org/pdf/2304.14986v2.pdf)
 - Learning Concise and Descriptive Attributes for Visual Recognition [[pdf]](https://arxiv.org/pdf/2308.03685.pdf)
+- Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - **[BlurIG]** Attribution in Scale and Space [[pdf]](https://arxiv.org/pdf/2004.03383.pdf) [[code]](https://github.com/PAIR-code/saliency)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
@@ -197,7 +198,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ShapNets]** Shapley Explanation Networks [[pdf]](https://arxiv.org/pdf/2104.02297.pdf) [[code]](https://github.com/inouye-lab/ShapleyExplanationNetworks)
 - **[BotCL]** Learning Bottleneck Concepts in Image Classification [[pdf]](https://arxiv.org/pdf/2304.10131.pdf) [[code]](https://github.com/wbw520/BotCL)
 - **[CBM]** Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2007.04612.pdf) [[code]](https://github.com/yewsiang/ConceptBottleneck)
+- **[MILAN]** Natural Language Descriptions of Deep Visual Features [[pdf]](https://arxiv.org/pdf/2201.11114.pdf) [[code]](https://github.com/evandez/neuron-descriptions) [[website]](http://milan.csail.mit.edu/)
+- **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
 - **[LaBo]** Language Model Guided Concept Bottlenecks for Interpretable Image Classification [[pdf]](https://arxiv.org/pdf/2211.11158.pdf) [[code]](https://github.com/YueYANG1996/LaBo)
+- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/024.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[CompMap]** Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? [[pdf]](https://arxiv.org/pdf/2203.17271.pdf) [[code]](https://github.com/tttyuntian/vlm_primitive_concepts) [[website]](https://vlm-primitive-concepts.github.io/)
 - **[CALM]** Keep CALM and Improve Visual Feature Attribution [[pdf]](https://arxiv.org/pdf/2106.07861.pdf) [[code]](https://github.com/naver-ai/calm)
 - **[SGLRP]** Explaining Convolutional Neural Networks using Softmax Gradient Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/1908.04351.pdf)
@@ -237,6 +241,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SAFARI]** Versatile and Efficient Evaluations for Robustness of Interpretability [[pdf]](https://arxiv.org/pdf/2208.09418.pdf)
 - **[LANCE]** Stress-testing Visual Models by Generating Language-guided Counterfactual Images [[pdf]](https://arxiv.org/pdf/2305.19164.pdf) [[code]](https://github.com/virajprabhu/LANCE) [[website]](https://virajprabhu.github.io//lance-web/)
 - **[FunnyBirds]** A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods [[pdf]](https://arxiv.org/pdf/2308.06248.pdf) [[code]](https://github.com/visinf/funnybirds/)
+
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -312,7 +317,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are all negatives created equal in contrastive instance discrimination? [[pdf]](https://arxiv.org/pdf/2010.06682.pdf)
 - Improving Pixel-based MIM by Reducing Wasted Modeling Capability [[pdf]](https://arxiv.org/pdf/2308.00261.pdf) [[code]](https://github.com/open-mmlab/mmpretrain)
 
-## Natural Language Explanations (Supervised and Unsupervised)
+## Natural Language Explanations (Supervised)
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
 - **[PJ-X]** Multimodal Explanations: Justifying Decisions and Pointing to the Evidence [[pdf]](https://arxiv.org/pdf/1802.08129.pdf) [[code]](https://github.com/Seth-Park/MultimodalExplanations)
 - **[FME]** Faithful Multimodal Explanation for Visual Question Answering [[pdf]](https://arxiv.org/pdf/1809.02805.pdf) 
@@ -331,11 +336,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FEB]** Few-Shot Self-Rationalization with Natural Language Prompts [[pdf]](https://arxiv.org/pdf/2111.08284.pdf)
 - **[CALeC]** Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2207.11401.pdf)
 - **[OFA-X]** Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2212.04231.pdf) [[code]](https://github.com/ofa-x/OFA-X)
-- **[MILAN]** Natural Language Descriptions of Deep Visual Features [[pdf]](https://arxiv.org/pdf/2201.11114.pdf) [[code]](https://github.com/evandez/neuron-descriptions) [[website]](http://milan.csail.mit.edu/)
-- **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
-- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/024.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[S3C]** Semi-Supervised VQA Natural Language Explanation via Self-Critical Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Suo_S3C_Semi-Supervised_VQA_Natural_Language_Explanation_via_Self-Critical_Learning_CVPR_2023_paper.pdf)
-- Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - Grounding Visual Explanations [[pdf]](https://arxiv.org/pdf/1807.09685.pdf)
 - Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
