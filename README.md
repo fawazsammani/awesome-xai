@@ -1,7 +1,5 @@
 # Awesome Explainable AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[GALACTICA speaks](https://www.galactica.org/?max_new_tokens=1000&prompt=an+article+on+why+explainable+artificial+intelligence+is+important) on the importance of explainable AI!
-
 If you find some overlooked papers, please open issues or pull requests, and provide the paper(s) in this format:
 ```
 - **[]** Paper Name [[pdf]]() [[code]]()
