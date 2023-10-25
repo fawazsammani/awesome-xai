@@ -120,7 +120,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [[pdf]](https://arxiv.org/pdf/2106.13122.pdf) [[code]](https://github.com/katelyn98/CorruptionRobustness)
 - Explanatory Interactive Machine Learning [[pdf]](https://ml-research.github.io/papers/teso2019aies_XIML.pdf)
 - Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets [[pdf]](https://ceur-ws.org/Vol-2444/ialatecml_paper1.pdf)
-- Using Explanations to Guide Models [[pdf]](https://arxiv.org/pdf/2303.11932.pdf)
+- Studying How to Efficiently and Effectively Guide Models with Explanations [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Rao_Studying_How_to_ICCV_2023_supplemental.pdf)
 - Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision [[pdf]](https://arxiv.org/pdf/2004.09034.pdf)
 - Fixing Localization Errors to Improve Image Classification [[pdf]](https://homes.esat.kuleuven.be/~konijn/publications/2020/sun2.pdf)
 - Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias [[pdf]](https://arxiv.org/pdf/2001.03152.pdf)
