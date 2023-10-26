@@ -23,6 +23,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining and Interpreting LSTMs [[pdf]](https://arxiv.org/pdf/1909.12114.pdf)
 - Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf) [[code]](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm) [[code]](https://github.com/Harry24k/FGSM-pytorch) [[code]](https://pytorch.org/tutorials/beginner/fgsm_tutorial.html)
 - Adversarial Training for Free! [[pdf]](https://arxiv.org/pdf/1904.12843.pdf) [[code]](https://github.com/mahyarnajibi/FreeAdversarialTraining) [[video]](https://www.youtube.com/watch?v=v8U9mM1Vwv0&ab_channel=AminJun)
+- Fast Adversarial Training with Smooth Convergence [[pdf]](https://arxiv.org/pdf/2308.12857.pdf) [[code]](https://github.com/FAT-CS/ConvergeSmooth)
 - Intriguing properties of neural networks [[pdf]](https://arxiv.org/pdf/1312.6199.pdf)
 - High Confidence Predictions for Unrecognizable Images [[pdf]](https://arxiv.org/pdf/1412.1897.pdf)
 - Contrastive Explanations in Neural Networks [[pdf]](https://arxiv.org/pdf/2008.00178.pdf) [[code]](https://github.com/olivesgatech/Contrastive-Explanations) [[slides]](https://gukyeongkwon.github.io/slides/mohit_icip2020_slides.pdf)
@@ -64,6 +65,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Pitfalls of Explainable ML: An Industry Perspective [[pdf]](https://arxiv.org/pdf/2106.07758.pdf)
 - Do Feature Attribution Methods Correctly Attribute Features? [[pdf]](https://arxiv.org/pdf/2104.14403.pdf) [[code]](https://github.com/YilunZhou/feature-attribution-evaluation)
 - Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis [[pdf]](https://arxiv.org/pdf/2111.04138.pdf)
+- What do neural networks learn in image classification? A frequency shortcut perspective [[pdf]](https://arxiv.org/pdf/2307.09829.pdf)
 - The effectiveness of feature attribution methods and its correlation with automatic evaluation scores [[pdf]](https://arxiv.org/pdf/2105.14944.pdf)
 - Interpreting Deep Neural Networks with Relative Sectional Propagation by Analyzing Comparative Gradients and Hostile Activations [[pdf]](https://arxiv.org/pdf/2012.03434.pdf)
 - The (Un)reliability of saliency methods [[pdf]](https://arxiv.org/pdf/1711.00867.pdf)
@@ -152,6 +154,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Integrated Hessians]** Explaining Explanations: Axiomatic Feature Interactions for Deep Networks [[pdf]](https://arxiv.org/pdf/2002.04138.pdf) [[code]](https://github.com/suinleelab/path_explain)
 - **[Archipelago]** How does this interaction affect me? Interpretable attribution for feature interactions [[pdf]](https://arxiv.org/pdf/2006.10965.pdf) [[code]](https://github.com/mtsang/archipelago)
 - **[I-GOS]** Visualizing Deep Networks by Optimizing with Integrated Gradients [[pdf]](https://arxiv.org/pdf/1905.00954.pdf)
+- **[MoreauGrad]** Sparse and Robust Interpretation of Neural Networks via Moreau Envelope [[pdf]](https://arxiv.org/pdf/2302.05294.pdf) [[code]](https://github.com/buyeah1109/MoreauGrad)
 - **[SAGs]** One Explanation is Not Enough: Structured Attention Graphs for Image Classification [[pdf]](https://arxiv.org/pdf/2011.06733.pdf)
 - **[Net2Vec]** Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1801.03454.pdf)
 - **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1051200417302385) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py) [[blog]](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
@@ -172,7 +175,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[NormLime]** A New Feature Importance Metric for Explaining Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1909.04200.pdf)
 - **[GALE]** Global Aggregations of Local Explanations for Black Box models [[pdf]](https://arxiv.org/pdf/1907.03039.pdf)
 - **[D-LIME]** A Deterministic Local Interpretable Model-Agnostic Explanations Approach for Computer-Aided Diagnosis Systems [[pdf]](https://arxiv.org/pdf/1906.10263.pdf)
-- **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf)
+- **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf) 
 - **[TCAV]** Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf) [[code]](https://github.com/tensorflow/tcav)
 - **[ACE]** Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf)
 - **[BiLRP]** Building and Interpreting Deep Similarity Models [[pdf]](https://arxiv.org/pdf/2003.05431.pdf) [[code]](https://github.com/oeberle/BiLRP_explain_similarity)
@@ -241,7 +244,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SAFARI]** Versatile and Efficient Evaluations for Robustness of Interpretability [[pdf]](https://arxiv.org/pdf/2208.09418.pdf)
 - **[LANCE]** Stress-testing Visual Models by Generating Language-guided Counterfactual Images [[pdf]](https://arxiv.org/pdf/2305.19164.pdf) [[code]](https://github.com/virajprabhu/LANCE) [[website]](https://virajprabhu.github.io//lance-web/)
 - **[FunnyBirds]** A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods [[pdf]](https://arxiv.org/pdf/2308.06248.pdf) [[code]](https://github.com/visinf/funnybirds/)
-
+- **[MAGI]** Multi-Annotated Explanation-Guided Learning [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf)
+- **[CCE]** Towards Visual Contrastive Explanations for Neural Networks [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -277,6 +281,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ProtoPShare]** Prototype Sharing for Interpretable Image Classification and Similarity Discovery [[pdf]](https://arxiv.org/pdf/2011.14340.pdf) 
 - **[PW-Net]** Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes [[pdf]](https://openreview.net/pdf?id=hWwY_Jq0xsN) [[code]](https://openreview.net/attachment?id=hWwY_Jq0xsN&name=supplementary_material)
 - **[ProtoPDebug]** Concept-level Debugging of Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2205.15769.pdf)
+- **[ProtoSim]** Prototype-based Dataset Comparison [[pdf]](https://arxiv.org/pdf/2309.02401.pdf) [[code]](https://github.com/Nanne/ProtoSim)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
 ## Distill Papers
