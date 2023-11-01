@@ -282,6 +282,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ProtoPNet]** This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf]](https://arxiv.org/pdf/1806.10574.pdf) [[code]](https://github.com/cfchen-duke/ProtoPNet)
 - **[ST-ProtoPNet]** Learning Support and Trivial Prototypes for Interpretable Image Classification [[pdf]](https://arxiv.org/pdf/2301.04011.pdf)
 - **[Deformable ProtoPNet]** An Interpretable Image Classifier Using Deformable Prototypes [[pdf]](https://arxiv.org/pdf/2111.15000.pdf)
+- **[SPARROW]** Semantically Coherent Prototypes for Image Classification [[pdf]](https://www.bmvc2021-virtualconference.com/assets/papers/0896.pdf)
 - **[Proto2Proto]** Can you recognize the car, the way I do? [[pdf]](https://arxiv.org/pdf/2204.11830.pdf) [[code]](https://github.com/archmaester/proto2proto)
 - **[PDiscoNet]** Semantically consistent part discovery for fine-grained recognition [[pdf]](https://arxiv.org/pdf/2309.03173.pdf) [[code]](https://github.com/robertdvdk/part_detection)
 - **[ProtoPool]** Interpretable Image Classification with Differentiable Prototypes Assignment [[pdf]](https://arxiv.org/pdf/2112.02902.pdf) [[code]](https://github.com/gmum/ProtoPool)
