@@ -174,7 +174,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP) [[video]](https://www.youtube.com/watch?v=RLaiomLMK9I&ab_channel=AICoffeeBreakwithLetitia)
 - **[ConceptSHAP]** On Completeness-aware Concept-Based Explanations in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1910.07969.pdf) [[code]](https://github.com/chihkuanyeh/concept_exp)
 - **[TCAV]** Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf) [[code]](https://github.com/tensorflow/tcav)
-- **[ACE]** Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf)
+- **[ACE]** Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf) [[code]](https://github.com/amiratag/ACE)
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
 - **[InteractionLIME]** Model-Agnostic Visual Explanations via Approximate Bilinear Models [[pdf]](https://cris.vub.be/ws/portalfiles/portal/97448865/ICIP_2023_InteractionLIME_openAccess.pdf)
 - **[NormLime]** A New Feature Importance Metric for Explaining Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1909.04200.pdf)
