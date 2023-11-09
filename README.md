@@ -209,6 +209,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[BotCL]** Learning Bottleneck Concepts in Image Classification [[pdf]](https://arxiv.org/pdf/2304.10131.pdf) [[code]](https://github.com/wbw520/BotCL)
 - **[CBM]** Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2007.04612.pdf) [[code]](https://github.com/yewsiang/ConceptBottleneck)
 - **[Label-free CBM]** Label-Free Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2304.06129.pdf) [[code]](https://github.com/Trustworthy-ML-Lab/Label-free-CBM)
+- **[PCBMs]** Post-hoc Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2205.15480.pdf) [[code]](https://github.com/mertyg/post-hoc-cbm)
 - **[CDM]** Sparse Linear Concept Discovery Models [[pdf]](https://arxiv.org/pdf/2308.10782.pdf) [[code]](https://github.com/konpanousis/ConceptDiscoveryModels)
 - **[LaBo]** Language Model Guided Concept Bottlenecks for Interpretable Image Classification [[pdf]](https://arxiv.org/pdf/2211.11158.pdf) [[code]](https://github.com/YueYANG1996/LaBo)
 - **[CompMap]** Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? [[pdf]](https://arxiv.org/pdf/2203.17271.pdf) [[code]](https://github.com/tttyuntian/vlm_primitive_concepts) [[website]](https://vlm-primitive-concepts.github.io/)
