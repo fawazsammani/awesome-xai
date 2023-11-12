@@ -34,7 +34,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Towards Better Analysis of Deep Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1604.07043.pdf)
 - Do semantic parts emerge in Convolutional Neural Networks? [[pdf]](https://arxiv.org/pdf/1607.03738.pdf)
 - Do Convolutional Neural Networks Learn Class Hierarchy? [[pdf]](https://arxiv.org/pdf/1710.06501.pdf)
-- Neural Activation Constellations: Unsupervised Part Model Discovery with Convolutional Networks [[pdf]](https://arxiv.org/pdf/1504.08289.pdf)
 - A Benchmark for Interpretability Methods in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1806.10758.pdf)
 - On the Robustness of Interpretability Methods [[pdf]](https://arxiv.org/pdf/1806.08049.pdf)
 - Sanity Checks for Saliency Maps [[pdf]](https://arxiv.org/pdf/1810.03292.pdf)
