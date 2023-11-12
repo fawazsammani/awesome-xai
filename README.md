@@ -32,6 +32,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Diverse feature visualizations reveal invariances in early layers of deep neural networks [[pdf]](https://arxiv.org/pdf/1807.10589.pdf)
 - Interpretation of Neural Networks is Fragile [[pdf]](https://arxiv.org/pdf/1710.10547.pdf)
 - Towards Better Analysis of Deep Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1604.07043.pdf)
+- Do semantic parts emerge in Convolutional Neural Networks? [[pdf]](https://arxiv.org/pdf/1607.03738.pdf)
 - Do Convolutional Neural Networks Learn Class Hierarchy? [[pdf]](https://arxiv.org/pdf/1710.06501.pdf)
 - A Benchmark for Interpretability Methods in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1806.10758.pdf)
 - On the Robustness of Interpretability Methods [[pdf]](https://arxiv.org/pdf/1806.08049.pdf)
