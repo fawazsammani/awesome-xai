@@ -177,6 +177,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ConceptSHAP]** On Completeness-aware Concept-Based Explanations in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1910.07969.pdf) [[code]](https://github.com/chihkuanyeh/concept_exp)
 - **[TCAV]** Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf) [[code]](https://github.com/tensorflow/tcav) [[book chapter]](https://christophm.github.io/interpretable-ml-book/detecting-concepts.html)
 - **[ACE]** Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf) [[code]](https://github.com/amiratag/ACE)
+- **[CW]** Concept Whitening for Interpretable Image Recognition [[pdf]](https://arxiv.org/pdf/2002.01650.pdf)
 - **[Anchors]**  High-Precision Model-Agnostic Explanations [[pdf]](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [[code]](https://github.com/marcotcr/anchor)
 - **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf) 
 - **[BiLRP]** Building and Interpreting Deep Similarity Models [[pdf]](https://arxiv.org/pdf/2003.05431.pdf) [[code]](https://github.com/oeberle/BiLRP_explain_similarity)
