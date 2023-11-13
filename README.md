@@ -277,6 +277,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CDM]** Sparse Linear Concept Discovery Models [[pdf]](https://arxiv.org/pdf/2308.10782.pdf) [[code]](https://github.com/konpanousis/ConceptDiscoveryModels)
 - **[LaBo]** Language Model Guided Concept Bottlenecks for Interpretable Image Classification [[pdf]](https://arxiv.org/pdf/2211.11158.pdf) [[code]](https://github.com/YueYANG1996/LaBo)
 - **[CompMap]** Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? [[pdf]](https://arxiv.org/pdf/2203.17271.pdf) [[code]](https://github.com/tttyuntian/vlm_primitive_concepts) [[website]](https://vlm-primitive-concepts.github.io/)
+- Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
+- Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 
 ## Zero-Shot Features to Language
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
