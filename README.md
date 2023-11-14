@@ -286,7 +286,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MILAN]** Natural Language Descriptions of Deep Visual Features [[pdf]](https://arxiv.org/pdf/2201.11114.pdf) [[code]](https://github.com/evandez/neuron-descriptions) [[website]](http://milan.csail.mit.edu/)
 - **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
-- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/024.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
+- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 
 ## Prototype-Based
 - **[ProtoTrees]** Neural Prototype Trees for Interpretable Fine-grained Image Recognition [[pdf]](https://arxiv.org/pdf/2012.02046.pdf) [[code]](https://github.com/M-Nauta/ProtoTree) 
