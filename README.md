@@ -300,7 +300,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ProtoPShare]** Prototype Sharing for Interpretable Image Classification and Similarity Discovery [[pdf]](https://arxiv.org/pdf/2011.14340.pdf) 
 - **[PW-Net]** Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes [[pdf]](https://openreview.net/pdf?id=hWwY_Jq0xsN) [[code]](https://openreview.net/attachment?id=hWwY_Jq0xsN&name=supplementary_material)
 - **[ProtoPDebug]** Concept-level Debugging of Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2205.15769.pdf)
-- **[DSX]** Describe, Spot and Explain: Interpretable Representation Learning for Discriminative Visual Reasoning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106785)
+- **[DSX]** Describe, Spot and Explain: Interpretable Representation Learning for Discriminative Visual Reasoning [[pdf]](https://ieeexplore.ieee.org/document/10106785)
 - **[ProtoSim]** Prototype-based Dataset Comparison [[pdf]](https://arxiv.org/pdf/2309.02401.pdf) [[code]](https://github.com/Nanne/ProtoSim) [[website]](https://nanne.github.io/ProtoSim/)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
