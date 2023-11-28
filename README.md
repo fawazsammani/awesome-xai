@@ -365,6 +365,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CALeC]** Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2207.11401.pdf)
 - **[OFA-X]** Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2212.04231.pdf) [[code]](https://github.com/ofa-x/OFA-X)
 - **[S3C]** Semi-Supervised VQA Natural Language Explanation via Self-Critical Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Suo_S3C_Semi-Supervised_VQA_Natural_Language_Explanation_via_Self-Critical_Learning_CVPR_2023_paper.pdf)
+- **[ReVisE]** A Recursive Approach Towards Vision-Language Explanation [[pdf]](https://arxiv.org/pdf/2311.12391.pdf) [[code]](https://github.com/para-lost/ReVisE)
 - Grounding Visual Explanations [[pdf]](https://arxiv.org/pdf/1807.09685.pdf)
 - Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
