@@ -223,8 +223,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
 - **[CNC]** Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations [[pdf]](https://arxiv.org/pdf/2203.01517.pdf)
 - **[AMC]** Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations [[pdf]](https://arxiv.org/pdf/2206.15462.pdf)
-- **[XIL]** Making deep neural networks right for the right scientific reasons by interacting with their explanations [[pdf]](https://arxiv.org/pdf/2001.05371.pdf)
-- **[CDEP]** Interpretations are useful: penalizing explanations to align neural networks with prior knowledge [[pdf]](https://arxiv.org/pdf/1909.13584.pdf)
 - **[ClickMe]** Learning what and where to attend [[pdf]](https://arxiv.org/pdf/1805.08819.pdf)
 - **[MaskTune]** Mitigating Spurious Correlations by Forcing to Explore [[pdf]](https://arxiv.org/pdf/2210.00055.pdf)
 - **[CoDA-Nets]** Convolutional Dynamic Alignment Networks for Interpretable Classifications [[pdf]](https://arxiv.org/pdf/2104.00032.pdf)
