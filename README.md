@@ -47,7 +47,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Do Explanations Explain? Model Knows Best [[pdf]](https://arxiv.org/pdf/2203.02269.pdf) [[code]](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
 - Visualizing Deep Neural Network Decisions: Prediction Difference Analysis [[pdf]](https://arxiv.org/pdf/1702.04595.pdf) [[code]](https://github.com/lmzintgraf/DeepVis-PredDiff)
 - Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1811.10597.pdf) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
-- Network Dissection: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
 - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[pdf]](https://arxiv.org/pdf/1811.12231.pdf) [[code]](https://github.com/rgeirhos/texture-vs-shape)
 - Deep Image Prior [[pdf]](https://arxiv.org/pdf/1711.10925.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior) [[website]](https://dmitryulyanov.github.io/deep_image_prior)
 - How Do Vision Transformers Work? [[pdf]](https://arxiv.org/pdf/2202.06709.pdf)
@@ -279,7 +278,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 
-## Zero-Shot Features to Language
+## Neuron Annotation
+- **[Network Dissection]**: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
 - **[MILAN]** Natural Language Descriptions of Deep Visual Features [[pdf]](https://arxiv.org/pdf/2201.11114.pdf) [[code]](https://github.com/evandez/neuron-descriptions) [[website]](http://milan.csail.mit.edu/)
 - **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
