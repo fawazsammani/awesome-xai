@@ -144,6 +144,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
 - Exploring the Connection between Neuron Coverage and Adversarial Robustness in DNN Classifiers [[pdf]](https://hal.science/hal-04151746/document)
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
+- Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193.pdf)
+- Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216.pdf)
 - **[VRX]** Interpreting with Structural Visual Concepts [[pdf]](https://arxiv.org/pdf/2105.00290.pdf)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
@@ -238,7 +240,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FunnyBirds]** A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods [[pdf]](https://arxiv.org/pdf/2308.06248.pdf) [[code]](https://github.com/visinf/funnybirds/)
 - **[MAGI]** Multi-Annotated Explanation-Guided Learning [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf)
 - **[CCE]** Towards Visual Contrastive Explanations for Neural Networks [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf)
+- **[CNN Filter DB]** An Empirical Investigation of Trained Convolutional Filters [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf) [[code]](https://github.com/paulgavrikov/CNN-Filter-DB)
 - **[VLSlice]** Interactive Vision-and-Language Slice Discovery [[pdf]](https://arxiv.org/pdf/2309.06703.pdf) [[code]](https://github.com/slymane/vlslice) [[website]](https://ericslyman.com/vlslice/) [[demo]](https://drive.google.com/file/d/1JkbVXnCds6rOErUx-YWZmp3mQ3IDJuhi/view) [[video]](https://drive.google.com/file/d/1mOuvjphNb2xNDC7shoGbPwyjbfArwud4/view) [[video]](https://www.youtube.com/watch?v=2CMDcGGsMjo&list=PLUxOP3kBxs2JYA5KT0YEmNJEyjqAqLOf3&index=2&ab_channel=CollegeofEngineering-OregonStateUniversity)
+- **[Feature Sieve]** Overcoming Simplicity Bias in Deep Networks using a Feature Sieve [[pdf]](https://arxiv.org/pdf/2301.13293.pdf) [[blog]](https://blog.research.google/2024/02/intervening-on-early-readouts-for.html)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -277,6 +281,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[BotCL]** Learning Bottleneck Concepts in Image Classification [[pdf]](https://arxiv.org/pdf/2304.10131.pdf) [[code]](https://github.com/wbw520/BotCL)
 - **[LaBo]** Language Model Guided Concept Bottlenecks for Interpretable Image Classification [[pdf]](https://arxiv.org/pdf/2211.11158.pdf) [[code]](https://github.com/YueYANG1996/LaBo)
 - **[CompMap]** Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? [[pdf]](https://arxiv.org/pdf/2203.17271.pdf) [[code]](https://github.com/tttyuntian/vlm_primitive_concepts) [[website]](https://vlm-primitive-concepts.github.io/)
+- **[FVLC]** Faithful Vision-Language Interpretation via Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=rp0EdI8X4e)
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 
@@ -288,6 +293,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
 - **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[INViTE]** INterpret and Control Vision-Language Models with Text Explanations [[pdf]](https://openreview.net/pdf?id=5iENGLEJKG) [[code]](https://github.com/tonychenxyz/vit-interpret)
+- **[DISCOVER]** Making Vision Networks Interpretable via Competition and Dissection [[pdf]](https://openreview.net/pdf?id=sWNOvNXGLP)
 - Interpreting CLIP's Image Representation via Text-Based Decomposition [[pdf]](https://arxiv.org/pdf/2310.05916.pdf) [[code]](https://github.com/yossigandelsman/clip_text_span) [[website]](https://yossigandelsman.github.io/clip_decomposition/)
 
 ## Prototype-Based
@@ -318,6 +324,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Deconvolution and Checkerboard Artifacts [[paper]](https://distill.pub/2016/deconv-checkerboard/)
 - Visualizing memorization in RNNs [[paper]](https://distill.pub/2019/memorization-in-rnns/)
 - Circuits [[paper]](https://distill.pub/2020/circuits/)
+- Exploring Neural Networks with Activation Atlases [[paper]](https://distill.pub/2019/activation-atlas/)
 
 ## XAI/Analysis of Self-Supervised Models and Transfer Learning
 - High Fidelity Visualization of What Your Self-Supervised Representation Knows About [[pdf]](https://arxiv.org/pdf/2112.09164.pdf)
@@ -368,6 +375,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[OFA-X]** Harnessing the Power of Multi-Task Pretraining for Ground-Truth Level Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2212.04231.pdf) [[code]](https://github.com/ofa-x/OFA-X)
 - **[S3C]** Semi-Supervised VQA Natural Language Explanation via Self-Critical Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Suo_S3C_Semi-Supervised_VQA_Natural_Language_Explanation_via_Self-Critical_Learning_CVPR_2023_paper.pdf)
 - **[ReVisE]** A Recursive Approach Towards Vision-Language Explanation [[pdf]](https://arxiv.org/pdf/2311.12391.pdf) [[code]](https://github.com/para-lost/ReVisE)
+- **[Multimodal-CoT]** Multimodal Chain-of-Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2302.00923.pdf) [[code]](https://github.com/amazon-science/mm-cot)
+- **[CCoT]** Compositional Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://arxiv.org/pdf/2311.17076.pdf)
 - Grounding Visual Explanations [[pdf]](https://arxiv.org/pdf/1807.09685.pdf)
 - Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
@@ -395,7 +404,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining Compositional Semantics for Neural Sequence Models [[pdf]](https://arxiv.org/pdf/1911.06194.pdf) [[code]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)
 - Fooling Explanations in Text Classifiers [[pdf]](https://openreview.net/pdf?id=j3krplz_4w6)
 - Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+- A Circuit for Indirect Object Identification in GPT-2 small [[pdf]](https://openreview.net/pdf?id=NpsVSN6o4ul)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
+- Massive Activations in Large Language Models [[pdf]](https://arxiv.org/pdf/2402.17762.pdf) [[code]](https://github.com/locuslab/massive-activations) [[website]](https://eric-mingjie.github.io/massive-activations/index.html)
+- [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 
 ## Review Papers
 - Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications [[pdf]](https://arxiv.org/pdf/2003.07631.pdf)
