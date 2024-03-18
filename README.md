@@ -287,6 +287,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
 - **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
+- **[INViTE]** INterpret and Control Vision-Language Models with Text Explanations [[pdf]](https://openreview.net/pdf?id=5iENGLEJKG) [[code]](https://github.com/tonychenxyz/vit-interpret)
+- Interpreting CLIP's Image Representation via Text-Based Decomposition [[pdf]](https://arxiv.org/pdf/2310.05916.pdf) [[code]](https://github.com/yossigandelsman/clip_text_span) [[website]](https://yossigandelsman.github.io/clip_decomposition/)
 
 ## Prototype-Based
 - **[ProtoTrees]** Neural Prototype Trees for Interpretable Fine-grained Image Recognition [[pdf]](https://arxiv.org/pdf/2012.02046.pdf) [[code]](https://github.com/M-Nauta/ProtoTree) 
