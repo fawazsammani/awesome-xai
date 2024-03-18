@@ -102,7 +102,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - What Does CNN Shift Invariance Look Like? A Visualization Study [[pdf]](https://arxiv.org/pdf/2011.04127.pdf) [[code]](https://github.com/jakehlee/interactive-invariance) [[project]](https://jakehlee.github.io/visualize-invariance)
 - Explainability Methods for Graph Convolutional Neural Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) [[code]](https://github.com/ndey96/GCNN-Explainability)
 - What do Vision Transformers Learn? A Visual Exploration [[pdf]](https://arxiv.org/pdf/2212.06727.pdf)
-- Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
 - Learning Accurate and Interpretable Decision Rule Sets from Neural Networks [[pdf]](https://arxiv.org/pdf/2103.02826.pdf)
 - Visual Explanation for Deep Metric Learning [[pdf]](https://arxiv.org/pdf/1909.12977.pdf) [[code]](https://github.com/Jeff-Zilence/Explain_Metric_Learning)
 - Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [[pdf]](https://arxiv.org/pdf/1703.03717.pdf)
@@ -219,7 +218,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ShearletX]** Explaining Image Classifiers with Multiscale Directional Image Representation [[pdf]](https://arxiv.org/pdf/2211.12857.pdf)
 - **[CRAFT]** Concept Recursive Activation FacTorization for Explainability [[pdf]](https://arxiv.org/pdf/2211.10154.pdf)
 - **[EVA]** Don’t Lie to Me! Robust and Efficient Explainability with Verified Perturbation Analysis [[pdf]](https://arxiv.org/pdf/2202.07728.pdf) [[code]](https://github.com/deel-ai/formal-explainability)
-- **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
 - **[Guided Zoom]** Questioning Network Evidence for Fine-Grained Classification [[pdf]](https://arxiv.org/pdf/1812.02626.pdf) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335497) [[code]](https://github.com/andreazuna89/Guided-Zoom)
 - **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
 - **[Diffusion Explainer]** Visual Explanation for Text-to-image Stable Diffusion [[pdf]](https://arxiv.org/pdf/2305.03509.pdf) [[website]](https://poloclub.github.io/diffusion-explainer/) [[video]](https://www.youtube.com/watch?v=Zg4gxdIWDds&ab_channel=PoloClubofDataScience)
@@ -419,6 +417,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI [[pdf]](https://arxiv.org/pdf/2201.08164.pdf)
 - Leveraging Explanations in Interactive Machine Learning: An Overview [[pdf]](https://arxiv.org/pdf/2207.14526.pdf)
 
+## Object-Centric Learning
+- **[SLOT-Attention]** Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
+- **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
+- **[SPOT]** Self-Training with Patch-Order Permutation for Object-Centric Learning with Autoregressive Transformers [[pdf]](https://arxiv.org/pdf/2312.00648.pdf) [[code]](https://github.com/gkakogeorgiou/spot)
+
 ## XAI Libraries for Vision
 - [Captum](https://captum.ai/)
 - PyTorch Grad-CAM [[github]](https://github.com/jacobgil/pytorch-grad-cam) [[docs]](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html)
@@ -430,10 +433,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [DeepExplain](https://github.com/marcoancona/DeepExplain)
 - TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
+- [ViT-Prisma](https://github.com/soniajoseph/ViT-Prisma)
+- [CLIP Explainability](https://github.com/sMamooler/CLIP_Explainability)
 
 ## XAI Libraries for NLP
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
+- [TransformerLens](https://github.com/neelnanda-io/TransformerLens)
 - [Ecco](https://github.com/jalammar/ecco)
 - LIT [[github]](https://github.com/PAIR-code/lit) [[website]](https://pair-code.github.io/lit/) [[blog]](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
 
