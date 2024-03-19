@@ -175,7 +175,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP) [[video]](https://www.youtube.com/watch?v=RLaiomLMK9I&ab_channel=AICoffeeBreakwithLetitia)
 - **[ConceptSHAP]** On Completeness-aware Concept-Based Explanations in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1910.07969.pdf) [[code]](https://github.com/chihkuanyeh/concept_exp)
-- **[TCAV]** Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf) [[code]](https://github.com/tensorflow/tcav) [[book chapter]](https://christophm.github.io/interpretable-ml-book/detecting-concepts.html)
+- **[TCAV]** Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf) [[code]](https://github.com/tensorflow/tcav) [[book chapter]](https://christophm.github.io/interpretable-ml-book/detecting-concepts.html)
 - **[ACE]** Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf) [[code]](https://github.com/amiratag/ACE)
 - **[MOCE]** Extracting Model-Oriented Concepts for Explaining Deep Neural Networks [[pdf]](https://ieeexplore.ieee.org/document/10412652) [[code]](https://github.com/gyeomo/MOCE) 
 - **[CW]** Concept Whitening for Interpretable Image Recognition [[pdf]](https://arxiv.org/pdf/2002.01650.pdf)
