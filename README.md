@@ -176,11 +176,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP) [[video]](https://www.youtube.com/watch?v=RLaiomLMK9I&ab_channel=AICoffeeBreakwithLetitia)
 - **[ConceptSHAP]** On Completeness-aware Concept-Based Explanations in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1910.07969.pdf) [[code]](https://github.com/chihkuanyeh/concept_exp)
-- **[TCAV]** Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf) [[code]](https://github.com/tensorflow/tcav) [[book chapter]](https://christophm.github.io/interpretable-ml-book/detecting-concepts.html)
-- **[ACE]** Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf) [[code]](https://github.com/amiratag/ACE)
-- **[MOCE]** Extracting Model-Oriented Concepts for Explaining Deep Neural Networks [[pdf]](https://ieeexplore.ieee.org/document/10412652) [[code]](https://github.com/gyeomo/MOCE) 
 - **[CW]** Concept Whitening for Interpretable Image Recognition [[pdf]](https://arxiv.org/pdf/2002.01650.pdf)
-- **[ConceptExplainer]** Interactive Explanation for Deep Neural Networks from a Concept Perspective [[pdf]](https://arxiv.org/pdf/2204.01888.pdf)
 - **[Anchors]**  High-Precision Model-Agnostic Explanations [[pdf]](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) [[code]](https://github.com/marcotcr/anchor)
 - **[Layer Conductance]** How Important Is a Neuron? [[pdf]](https://arxiv.org/pdf/1805.12233.pdf) [[pdf]](https://arxiv.org/pdf/1807.09946.pdf) 
 - **[BiLRP]** Building and Interpreting Deep Similarity Models [[pdf]](https://arxiv.org/pdf/2003.05431.pdf) [[code]](https://github.com/oeberle/BiLRP_explain_similarity)
@@ -193,7 +189,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[X-OIA]** Explainable Object-induced Action Decision for Autonomous Vehicles [[pdf]](https://arxiv.org/pdf/2003.09405.pdf) [[code]](https://github.com/Twizwei/bddoia_project) [[website]](https://twizwei.github.io/bddoia_project/) 
 - **[CAT-XPLAIN]** Causality for Inherently Explainable Transformers [[pdf]](https://arxiv.org/pdf/2206.14841.pdf) [[code]](https://github.com/mvrl/CAT-XPLAIN)
 - **[CLRP]** Understanding Individual Decisions of CNNs via Contrastive Backpropagation [[pdf]](https://arxiv.org/pdf/1812.02100.pdf) [[code]](https://github.com/JindongGu/Contrastive-LRP)
-- **[CRP]** From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation [[pdf]](https://arxiv.org/pdf/2206.03208.pdf) [[code]](https://github.com/rachtibat/zennit-crp)
 - **[HINT]** Hierarchical Neuron Concept Explainer [[pdf]](https://arxiv.org/pdf/2203.14196.pdf) [[code]](https://github.com/AntonotnaWang/HINT)
 - **[HINT]** Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded [[pdf]](https://arxiv.org/pdf/1902.03751.pdf)
 - **[BagNet]** Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet [[pdf]](https://arxiv.org/pdf/1904.00760.pdf) [[code]](https://github.com/wielandbrendel/bag-of-local-features-models) [[blog]](https://sh-tsang.medium.com/review-bagnet-approximating-cnns-with-bag-of-local-features-models-works-surprisingly-well-on-125f4295c433)
@@ -217,9 +212,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[RelEx]** Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation [[pdf]](https://arxiv.org/pdf/2103.14332.pdf) [[code]](https://github.com/JBNU-VL/RelEx)
 - **[X-Pruner]** eXplainable Pruning for Vision Transformers [[pdf]](https://arxiv.org/pdf/2303.04935.pdf) [[code]](https://github.com/vickyyu90/XPruner)
 - **[ShearletX]** Explaining Image Classifiers with Multiscale Directional Image Representation [[pdf]](https://arxiv.org/pdf/2211.12857.pdf)
-- **[CRAFT]** Concept Recursive Activation FacTorization for Explainability [[pdf]](https://arxiv.org/pdf/2211.10154.pdf) [[code]](https://github.com/deel-ai/Craft) [[website]](https://serre-lab.github.io/Lens/)
 - **[MACO]** Unlocking Feature Visualization for Deeper Networks with MAgnitude Constrained Optimization [[pdf]](https://arxiv.org/pdf/2306.06805.pdf) [[website]](https://serre-lab.github.io/Lens/)
-- **[LENS]** A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation [[pdf]](https://arxiv.org/pdf/2306.07304.pdf) [[website]](https://serre-lab.github.io/Lens/)
 - **[Guided Zoom]** Questioning Network Evidence for Fine-Grained Classification [[pdf]](https://arxiv.org/pdf/1812.02626.pdf) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335497) [[code]](https://github.com/andreazuna89/Guided-Zoom)
 - **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
 - **[Diffusion Explainer]** Visual Explanation for Text-to-image Stable Diffusion [[pdf]](https://arxiv.org/pdf/2305.03509.pdf) [[website]](https://poloclub.github.io/diffusion-explainer/) [[video]](https://www.youtube.com/watch?v=Zg4gxdIWDds&ab_channel=PoloClubofDataScience)
@@ -299,7 +292,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
 
 
-## Prototype-Based
+## Prototype/Concept-Based
 - **[ProtoTrees]** Neural Prototype Trees for Interpretable Fine-grained Image Recognition [[pdf]](https://arxiv.org/pdf/2012.02046.pdf) [[code]](https://github.com/M-Nauta/ProtoTree) 
 - **[ProtoPNet]** This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf]](https://arxiv.org/pdf/1806.10574.pdf) [[code]](https://github.com/cfchen-duke/ProtoPNet)
 - **[ST-ProtoPNet]** Learning Support and Trivial Prototypes for Interpretable Image Classification [[pdf]](https://arxiv.org/pdf/2301.04011.pdf)
@@ -313,6 +306,14 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ProtoPDebug]** Concept-level Debugging of Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2205.15769.pdf)
 - **[DSX]** Describe, Spot and Explain: Interpretable Representation Learning for Discriminative Visual Reasoning [[pdf]](https://ieeexplore.ieee.org/document/10106785)
 - **[ProtoSim]** Prototype-based Dataset Comparison [[pdf]](https://arxiv.org/pdf/2309.02401.pdf) [[code]](https://github.com/Nanne/ProtoSim) [[website]](https://nanne.github.io/ProtoSim/)
+- **[FeatUp]** A Model-Agnostic Framework for Features at Any Resolution [[pdf]](https://arxiv.org/pdf/2403.10516.pdf) [[code]](https://github.com/mhamilton723/FeatUp) [[colab]](https://colab.research.google.com/github/mhamilton723/FeatUp/blob/main/example_usage.ipynb) [[website]](https://mhamilton.net/featup.html) [[demo]](https://huggingface.co/spaces/mhamilton723/FeatUp)
+- **[TCAV]** Quantitative Testing with Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/1711.11279.pdf) [[code]](https://github.com/tensorflow/tcav) [[book chapter]](https://christophm.github.io/interpretable-ml-book/detecting-concepts.html)
+- **[ACE]** Towards Automatic Concept-based Explanations [[pdf]](https://arxiv.org/pdf/1902.03129.pdf) [[code]](https://github.com/amiratag/ACE)
+- **[MOCE]** Extracting Model-Oriented Concepts for Explaining Deep Neural Networks [[pdf]](https://ieeexplore.ieee.org/document/10412652) [[code]](https://github.com/gyeomo/MOCE)
+- **[ConceptExplainer]** Interactive Explanation for Deep Neural Networks from a Concept Perspective [[pdf]](https://arxiv.org/pdf/2204.01888.pdf)
+- **[CRP]** From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation [[pdf]](https://arxiv.org/pdf/2206.03208.pdf) [[code]](https://github.com/rachtibat/zennit-crp)
+- **[CRAFT]** Concept Recursive Activation FacTorization for Explainability [[pdf]](https://arxiv.org/pdf/2211.10154.pdf) [[code]](https://github.com/deel-ai/Craft) [[website]](https://serre-lab.github.io/Lens/)
+- **[LENS]** A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation [[pdf]](https://arxiv.org/pdf/2306.07304.pdf) [[website]](https://serre-lab.github.io/Lens/)
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
