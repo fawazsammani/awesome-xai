@@ -325,7 +325,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Differentiable Image Parameterizations [[paper]](https://distill.pub/2018/differentiable-parameterizations/)
 - Deconvolution and Checkerboard Artifacts [[paper]](https://distill.pub/2016/deconv-checkerboard/)
 - Visualizing memorization in RNNs [[paper]](https://distill.pub/2019/memorization-in-rnns/)
-- Circuits [[paper]](https://distill.pub/2020/circuits/)
+- Circuits [[series]](https://distill.pub/2020/circuits/)
 - Exploring Neural Networks with Activation Atlases [[paper]](https://distill.pub/2019/activation-atlas/)
 
 ## XAI/Analysis of Self-Supervised Models and Transfer Learning
