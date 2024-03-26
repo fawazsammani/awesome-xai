@@ -140,7 +140,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - Representation Engineering: A Top-Down Approach to AI Transparency [[pdf]](https://arxiv.org/pdf/2310.01405.pdf) [[code]](https://github.com/andyzoujm/representation-engineering) [[website]](https://www.ai-transparency.org/) 
 - Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
-- Exploring the Connection between Neuron Coverage and Adversarial Robustness in DNN Classifiers [[pdf]](https://hal.science/hal-04151746/document)
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
 - Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193.pdf)
 - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216.pdf)
