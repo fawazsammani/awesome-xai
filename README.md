@@ -139,7 +139,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Learning Concise and Descriptive Attributes for Visual Recognition [[pdf]](https://arxiv.org/pdf/2308.03685.pdf)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - Representation Engineering: A Top-Down Approach to AI Transparency [[pdf]](https://arxiv.org/pdf/2310.01405.pdf) [[code]](https://github.com/andyzoujm/representation-engineering) [[website]](https://www.ai-transparency.org/) 
-- Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
 - Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193.pdf)
 - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216.pdf)
@@ -408,6 +407,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - A Circuit for Indirect Object Identification in GPT-2 small [[pdf]](https://openreview.net/pdf?id=NpsVSN6o4ul)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 - Massive Activations in Large Language Models [[pdf]](https://arxiv.org/pdf/2402.17762.pdf) [[code]](https://github.com/locuslab/massive-activations) [[website]](https://eric-mingjie.github.io/massive-activations/index.html)
+- Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 
 ## Review Papers
