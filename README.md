@@ -48,7 +48,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visualizing Deep Neural Network Decisions: Prediction Difference Analysis [[pdf]](https://arxiv.org/pdf/1702.04595.pdf) [[code]](https://github.com/lmzintgraf/DeepVis-PredDiff)
 - Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1811.10597.pdf) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
 - ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [[pdf]](https://arxiv.org/pdf/1811.12231.pdf) [[code]](https://github.com/rgeirhos/texture-vs-shape)
-- Deep Image Prior [[pdf]](https://arxiv.org/pdf/1711.10925.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior) [[website]](https://dmitryulyanov.github.io/deep_image_prior)
+- Deep Image Prior [[pdf]](https://arxiv.org/pdf/1711.10925.pdf) [[code]](https://github.com/DmitryUlyanov/deep-image-prior) [[code]](https://github.com/safwankdb/Deep-Image-Prior) [[code]](https://mlpeschl.com/post/deepimageprior/) [[website]](https://dmitryulyanov.github.io/deep_image_prior)
 - How Do Vision Transformers Work? [[pdf]](https://arxiv.org/pdf/2202.06709.pdf)
 - Breaking Batch Normalization for better explainability of Deep Neural Networks through Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/2002.11018.pdf)
 - Layer-wise Relevance Propagation for Neural Networks with Local Renormalization Layers [[pdf]](https://arxiv.org/pdf/1604.00825.pdf)
