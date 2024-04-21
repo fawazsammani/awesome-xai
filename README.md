@@ -113,7 +113,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[pip]](https://pypi.org/project/weightwatcher/) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
 - Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces [[pdf]](https://arxiv.org/pdf/2212.14855.pdf)
-- Locating and Editing Factual Associations in GPT [[pdf]](https://arxiv.org/pdf/2202.05262.pdf) [[code]](https://github.com/kmeng01/rome) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/rome.ipynb) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/causal_trace.ipynb) [[video]](https://www.youtube.com/watch?v=_NMQyOu2HTo&ab_channel=YannicKilcher) [[website]](https://rome.baulab.info/)
 - Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf) [[code]](https://github.com/ytongbai/ViTs-vs-CNNs)
 - Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [[pdf]](https://arxiv.org/pdf/2106.13122.pdf) [[code]](https://github.com/katelyn98/CorruptionRobustness)
 - Explanatory Interactive Machine Learning [[pdf]](https://ml-research.github.io/papers/teso2019aies_XIML.pdf)
@@ -386,6 +385,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
 - Quantifying Attention Flow in Transformers [[pdf]](https://arxiv.org/pdf/2005.00928.pdf)
+- Locating and Editing Factual Associations in GPT [[pdf]](https://arxiv.org/pdf/2202.05262.pdf) [[code]](https://github.com/kmeng01/rome) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/rome.ipynb) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/causal_trace.ipynb) [[video]](https://www.youtube.com/watch?v=_NMQyOu2HTo&ab_channel=YannicKilcher) [[website]](https://rome.baulab.info/)
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
 - A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
 - A Survey of the State of Explainable AI for Natural Language Processing [[pdf]](https://arxiv.org/pdf/2010.00711.pdf)
