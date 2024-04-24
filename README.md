@@ -322,7 +322,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Differentiable Image Parameterizations [[paper]](https://distill.pub/2018/differentiable-parameterizations/)
 - Deconvolution and Checkerboard Artifacts [[paper]](https://distill.pub/2016/deconv-checkerboard/)
 - Visualizing memorization in RNNs [[paper]](https://distill.pub/2019/memorization-in-rnns/)
-- Circuits [[series]](https://distill.pub/2020/circuits/)
 - Exploring Neural Networks with Activation Atlases [[paper]](https://distill.pub/2019/activation-atlas/)
 
 ## XAI/Analysis of Self-Supervised Models and Transfer Learning
@@ -352,6 +351,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
 - Are all negatives created equal in contrastive instance discrimination? [[pdf]](https://arxiv.org/pdf/2010.06682.pdf)
 - Improving Pixel-based MIM by Reducing Wasted Modeling Capability [[pdf]](https://arxiv.org/pdf/2308.00261.pdf) [[code]](https://github.com/open-mmlab/mmpretrain)
+
+## Circuits/Mechanistic Interpretability
+- Circuits [[series]](https://distill.pub/2020/circuits/)
+- Transformer Circuits [[series]](https://transformer-circuits.pub/)
+- [TransformerLens](https://github.com/neelnanda-io/TransformerLens)
 
 ## Natural Language Explanations (Supervised)
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
@@ -440,7 +444,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## XAI Libraries for NLP
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
-- [TransformerLens](https://github.com/neelnanda-io/TransformerLens)
 - [Ecco](https://github.com/jalammar/ecco)
 - LIT [[github]](https://github.com/PAIR-code/lit) [[website]](https://pair-code.github.io/lit/) [[blog]](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
 
