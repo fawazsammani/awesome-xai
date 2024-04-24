@@ -391,6 +391,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Quantifying Attention Flow in Transformers [[pdf]](https://arxiv.org/pdf/2005.00928.pdf)
 - Locating and Editing Factual Associations in GPT [[pdf]](https://arxiv.org/pdf/2202.05262.pdf) [[code]](https://github.com/kmeng01/rome) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/rome.ipynb) [[colab]](https://colab.research.google.com/github/kmeng01/rome/blob/main/notebooks/causal_trace.ipynb) [[video]](https://www.youtube.com/watch?v=_NMQyOu2HTo&ab_channel=YannicKilcher) [[website]](https://rome.baulab.info/)
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
+- Transformer Feed-Forward Layers Are Key-Value Memories [[pdf]](https://arxiv.org/pdf/2012.14913.pdf)
 - A Diagnostic Study of Explainability Techniques for Text Classification [[pdf]](https://arxiv.org/pdf/2009.13295.pdf) [[code]](https://github.com/copenlu/xai-benchmark)
 - A Survey of the State of Explainable AI for Natural Language Processing [[pdf]](https://arxiv.org/pdf/2010.00711.pdf)
 - How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking [[pdf]](https://arxiv.org/pdf/2004.14992.pdf) [[code]](https://github.com/nicola-decao/diffmask)
