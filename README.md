@@ -356,6 +356,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Circuits [[series]](https://distill.pub/2020/circuits/)
 - Transformer Circuits [[series]](https://transformer-circuits.pub/)
 - [TransformerLens](https://github.com/neelnanda-io/TransformerLens)
+- Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
+- Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks [[pdf]](https://openreview.net/attachment?id=A0HKeKl4Nl&name=pdf)
 
 ## Natural Language Explanations (Supervised)
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
