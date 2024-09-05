@@ -274,6 +274,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MILAN]** Natural Language Descriptions of Deep Visual Features [[pdf]](https://arxiv.org/pdf/2201.11114.pdf) [[code]](https://github.com/evandez/neuron-descriptions) [[website]](http://milan.csail.mit.edu/)
 - **[INViTE]** INterpret and Control Vision-Language Models with Text Explanations [[pdf]](https://openreview.net/pdf?id=5iENGLEJKG) [[code]](https://github.com/tonychenxyz/vit-interpret)
 - **[CLIP-Decomposition]** Interpreting CLIP's Image Representation via Text-Based Decomposition [[pdf]](https://arxiv.org/pdf/2310.05916.pdf) [[code]](https://github.com/yossigandelsman/clip_text_span) [[website]](https://yossigandelsman.github.io/clip_decomposition/)
+- **[Second-Order CLIP-Decomposition]** Interpreting the Second-Order Effects of Neurons in CLIP [[pdf]](https://arxiv.org/pdf/2406.04341) [[code]](https://github.com/yossigandelsman/second_order_lens) [[website]](https://yossigandelsman.github.io/clip_neurons/)
 - **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
 - **[STAIR]** Learning Sparse Text and Image Representation in Grounded Tokens [[pdf]](https://arxiv.org/pdf/2301.13081.pdf)
@@ -351,6 +352,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Demystifying Contrastive Self-Supervised Learning: Invariances, Augmentations and Dataset Biases [[pdf]](https://arxiv.org/pdf/2007.13916.pdf)
 - Are all negatives created equal in contrastive instance discrimination? [[pdf]](https://arxiv.org/pdf/2010.06682.pdf)
 - Improving Pixel-based MIM by Reducing Wasted Modeling Capability [[pdf]](https://arxiv.org/pdf/2308.00261.pdf) [[code]](https://github.com/open-mmlab/mmpretrain)
+- On Pretraining Data Diversity for Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2403.13808) [[code]](https://github.com/hammoudhasan/DiversitySSL)
 
 ## Circuits/Mechanistic Interpretability
 - Circuits [[series]](https://distill.pub/2020/circuits/)
@@ -416,6 +418,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 - Massive Activations in Large Language Models [[pdf]](https://arxiv.org/pdf/2402.17762.pdf) [[code]](https://github.com/locuslab/massive-activations) [[website]](https://eric-mingjie.github.io/massive-activations/index.html)
 - Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
+- Are self-explanations from Large Language Models faithful? [[pdf]](https://arxiv.org/pdf/2401.07927)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 
 ## Review Papers
