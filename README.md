@@ -264,6 +264,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LaBo]** Language Model Guided Concept Bottlenecks for Interpretable Image Classification [[pdf]](https://arxiv.org/pdf/2211.11158.pdf) [[code]](https://github.com/YueYANG1996/LaBo)
 - **[CompMap]** Do Vision-Language Pretrained Models Learn Composable Primitive Concepts? [[pdf]](https://arxiv.org/pdf/2203.17271.pdf) [[code]](https://github.com/tttyuntian/vlm_primitive_concepts) [[website]](https://vlm-primitive-concepts.github.io/)
 - **[FVLC]** Faithful Vision-Language Interpretation via Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=rp0EdI8X4e)
+- **[DN-CBM]** Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery [[pdf]](https://arxiv.org/pdf/2407.14499) [[code]](https://github.com/neuroexplicit-saar/Discover-then-Name)
+- **[ECBMs]** Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations [[pdf]](https://arxiv.org/pdf/2401.14142) [[code]](https://github.com/xmed-lab/ECBM)
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 
