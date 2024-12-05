@@ -443,7 +443,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
 - **[SPOT]** Self-Training with Patch-Order Permutation for Object-Centric Learning with Autoregressive Transformers [[pdf]](https://arxiv.org/pdf/2312.00648.pdf) [[code]](https://github.com/gkakogeorgiou/spot)
 
-## XAI Libraries for Vision
+## XAI Libraries for Vision/Vision-Language
 - [Captum](https://captum.ai/)
 - PyTorch Grad-CAM [[github]](https://github.com/jacobgil/pytorch-grad-cam) [[docs]](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html)
 - Lucid [[tensorflow]](https://github.com/tensorflow/lucid) [[pytorch]](https://github.com/greentfrapp/lucent)
@@ -462,10 +462,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
 - [Ecco](https://github.com/jalammar/ecco)
 - LIT [[github]](https://github.com/PAIR-code/lit) [[website]](https://pair-code.github.io/lit/) [[blog]](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
-
-## Other Awesomes
-- [awesome-explainable-ai](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-- [awesome-xai](https://github.com/altamiracorp/awesome-xai)
 
 ## Other Resources
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
