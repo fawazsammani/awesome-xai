@@ -278,6 +278,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[INViTE]** INterpret and Control Vision-Language Models with Text Explanations [[pdf]](https://openreview.net/pdf?id=5iENGLEJKG) [[code]](https://github.com/tonychenxyz/vit-interpret)
 - **[CLIP-Decomposition]** Interpreting CLIP's Image Representation via Text-Based Decomposition [[pdf]](https://arxiv.org/pdf/2310.05916.pdf) [[code]](https://github.com/yossigandelsman/clip_text_span) [[website]](https://yossigandelsman.github.io/clip_decomposition/)
 - **[Second-Order CLIP-Decomposition]** Interpreting the Second-Order Effects of Neurons in CLIP [[pdf]](https://arxiv.org/pdf/2406.04341) [[code]](https://github.com/yossigandelsman/second_order_lens) [[website]](https://yossigandelsman.github.io/clip_neurons/)
+- **[CoSy]** Evaluating Textual Explanations of Neurons [[pdf]](https://openreview.net/pdf?id=R0bnWrpIeN) [[code]](https://github.com/lkopf/cosy)
 - **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
 - **[STAIR]** Learning Sparse Text and Image Representation in Grounded Tokens [[pdf]](https://arxiv.org/pdf/2301.13081.pdf)
@@ -313,6 +314,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FeatUp]** A Model-Agnostic Framework for Features at Any Resolution [[pdf]](https://arxiv.org/pdf/2403.10516.pdf) [[code]](https://github.com/mhamilton723/FeatUp) [[colab]](https://colab.research.google.com/github/mhamilton723/FeatUp/blob/main/example_usage.ipynb) [[website]](https://mhamilton.net/featup.html) [[demo]](https://huggingface.co/spaces/mhamilton723/FeatUp)
 - **[LENS]** A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation [[pdf]](https://arxiv.org/pdf/2306.07304.pdf) [[website]](https://serre-lab.github.io/Lens/)
 - **[CRAFT]** Concept Recursive Activation FacTorization for Explainability [[pdf]](https://arxiv.org/pdf/2211.10154.pdf) [[code]](https://github.com/deel-ai/Craft) [[website]](https://serre-lab.github.io/Lens/)
+- Disentangling Neuron Representations with Concept Vectors [[pdf]](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/OMahony_Disentangling_Neuron_Representations_With_Concept_Vectors_CVPRW_2023_paper.pdf)
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
@@ -422,8 +424,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Massive Activations in Large Language Models [[pdf]](https://arxiv.org/pdf/2402.17762.pdf) [[code]](https://github.com/locuslab/massive-activations) [[website]](https://eric-mingjie.github.io/massive-activations/index.html)
 - Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
 - Are self-explanations from Large Language Models faithful? [[pdf]](https://arxiv.org/pdf/2401.07927)
-- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK)
+- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://arxiv.org/pdf/2406.04093)
+- LLM Evaluators Recognize and Favor Their Own Generations [[pdf]](https://openreview.net/pdf?id=4NJBV6Wp0h)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 
 ## Review Papers
@@ -451,7 +454,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - [ViT-Prisma](https://github.com/soniajoseph/ViT-Prisma)
-- [CLIP Explainability](https://github.com/sMamooler/CLIP_Explainability)
+- [CLIP Explainability](https://github.com/sMamooler/CLIP_Explainability) [CLIP_GradCAM](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)
 
 ## XAI Libraries for NLP
 - [BertViz](https://github.com/jessevig/bertviz)
