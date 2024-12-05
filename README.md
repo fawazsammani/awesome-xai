@@ -112,7 +112,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Towards Generating Human-Centered Saliency Maps without Sacrificing Accuracy [[blog]](https://katelyn98.github.io/blog/2022/vlr-project/)
 - Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[pip]](https://pypi.org/project/weightwatcher/) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
-- Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf/20d17453a9f9281e31f378a6ea621aba004479a7.pdf) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces [[pdf]](https://arxiv.org/pdf/2212.14855.pdf)
 - Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf) [[code]](https://github.com/ytongbai/ViTs-vs-CNNs)
 - Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [[pdf]](https://arxiv.org/pdf/2106.13122.pdf) [[code]](https://github.com/katelyn98/CorruptionRobustness)
@@ -227,6 +226,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CNN Filter DB]** An Empirical Investigation of Trained Convolutional Filters [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf) [[code]](https://github.com/paulgavrikov/CNN-Filter-DB)
 - **[VLSlice]** Interactive Vision-and-Language Slice Discovery [[pdf]](https://arxiv.org/pdf/2309.06703.pdf) [[code]](https://github.com/slymane/vlslice) [[website]](https://ericslyman.com/vlslice/) [[demo]](https://drive.google.com/file/d/1JkbVXnCds6rOErUx-YWZmp3mQ3IDJuhi/view) [[video]](https://drive.google.com/file/d/1mOuvjphNb2xNDC7shoGbPwyjbfArwud4/view) [[video]](https://www.youtube.com/watch?v=2CMDcGGsMjo&list=PLUxOP3kBxs2JYA5KT0YEmNJEyjqAqLOf3&index=2&ab_channel=CollegeofEngineering-OregonStateUniversity)
 - **[Feature Sieve]** Overcoming Simplicity Bias in Deep Networks using a Feature Sieve [[pdf]](https://arxiv.org/pdf/2301.13293.pdf) [[blog]](https://blog.research.google/2024/02/intervening-on-early-readouts-for.html)
+- **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf/20d17453a9f9281e31f378a6ea621aba004479a7.pdf) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
