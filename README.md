@@ -186,6 +186,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ELUDE]** Generating interpretable explanations via a decomposition into labelled and unlabelled features [[pdf]](https://arxiv.org/pdf/2206.07690.pdf)
 - **[C3LT]** Cycle-Consistent Counterfactuals by Latent Transformations [[pdf]](https://arxiv.org/pdf/2203.15064.pdf)
 - **[B-cos]** Alignment is All We Need for Interpretability [[pdf]](https://arxiv.org/pdf/2205.10268.pdf) [[code]](https://github.com/moboehle/B-cos)
+- **[B-cosification]** Transforming Deep Neural Networks to be Inherently Interpretable [[pdf]](https://arxiv.org/pdf/2411.00715) [[code]](https://github.com/shrebox/B-cosification)
 - **[ShapNets]** Shapley Explanation Networks [[pdf]](https://arxiv.org/pdf/2104.02297.pdf) [[code]](https://github.com/inouye-lab/ShapleyExplanationNetworks)
 - **[CALM]** Keep CALM and Improve Visual Feature Attribution [[pdf]](https://arxiv.org/pdf/2106.07861.pdf) [[code]](https://github.com/naver-ai/calm)
 - **[SGLRP]** Explaining Convolutional Neural Networks using Softmax Gradient Layer-wise Relevance Propagation [[pdf]](https://arxiv.org/pdf/1908.04351.pdf)
