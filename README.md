@@ -143,6 +143,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216.pdf) [[website]](https://interpretdiffusion.github.io/)
 - Similarity of Neural Network Representations Revisited [[pdf]](https://arxiv.org/pdf/1905.00414)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
+- Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
+- Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
+- How Do Training Methods Influence the Utilization of Vision Models? [[pdf]](https://arxiv.org/pdf/2410.14470) [[code]](https://github.com/paulgavrikov/layer_criticality)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
 - **[VoG]** Estimating Example Difficulty using Variance of Gradients [[pdf]](https://arxiv.org/pdf/2008.11600.pdf) [[code]](https://github.com/chirag126/VOG) [[project]](https://varianceofgradients.github.io/)
@@ -229,6 +232,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VLSlice]** Interactive Vision-and-Language Slice Discovery [[pdf]](https://arxiv.org/pdf/2309.06703.pdf) [[code]](https://github.com/slymane/vlslice) [[website]](https://ericslyman.com/vlslice/) [[demo]](https://drive.google.com/file/d/1JkbVXnCds6rOErUx-YWZmp3mQ3IDJuhi/view) [[video]](https://drive.google.com/file/d/1mOuvjphNb2xNDC7shoGbPwyjbfArwud4/view) [[video]](https://www.youtube.com/watch?v=2CMDcGGsMjo&list=PLUxOP3kBxs2JYA5KT0YEmNJEyjqAqLOf3&index=2&ab_channel=CollegeofEngineering-OregonStateUniversity)
 - **[Feature Sieve]** Overcoming Simplicity Bias in Deep Networks using a Feature Sieve [[pdf]](https://arxiv.org/pdf/2301.13293.pdf) [[blog]](https://blog.research.google/2024/02/intervening-on-early-readouts-for.html)
 - **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf/20d17453a9f9281e31f378a6ea621aba004479a7.pdf) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
+- **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
+- **[TokenTM]** Towards Faithful Post-hoc Explanation for Vision Transformer [[pdf]](https://arxiv.org/pdf/2403.14552)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -272,6 +277,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ECBMs]** Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations [[pdf]](https://arxiv.org/pdf/2401.14142) [[code]](https://github.com/xmed-lab/ECBM)
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
+- Interactive Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2212.07430)
 
 ## Neuron Annotation
 - **[Network Dissection]**: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
@@ -282,12 +288,16 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CLIP-Decomposition]** Interpreting CLIP's Image Representation via Text-Based Decomposition [[pdf]](https://arxiv.org/pdf/2310.05916.pdf) [[code]](https://github.com/yossigandelsman/clip_text_span) [[website]](https://yossigandelsman.github.io/clip_decomposition/)
 - **[Second-Order CLIP-Decomposition]** Interpreting the Second-Order Effects of Neurons in CLIP [[pdf]](https://arxiv.org/pdf/2406.04341) [[code]](https://github.com/yossigandelsman/second_order_lens) [[website]](https://yossigandelsman.github.io/clip_neurons/)
 - **[CoSy]** Evaluating Textual Explanations of Neurons [[pdf]](https://openreview.net/pdf?id=R0bnWrpIeN) [[code]](https://github.com/lkopf/cosy)
-- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
 - **[STAIR]** Learning Sparse Text and Image Representation in Grounded Tokens [[pdf]](https://arxiv.org/pdf/2301.13081.pdf)
 - **[DISCOVER]** Making Vision Networks Interpretable via Competition and Dissection [[pdf]](https://openreview.net/pdf?id=sWNOvNXGLP)
 - **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
+- Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP [[pdf]](https://openreview.net/pdf?id=Vhh7ONtfvV) [[code]](https://github.com/SriramB-98/vit-decompose)
+
+## Feats2Text
+- Text-To-Concept (and Back) via Cross-Model Alignment [[pdf]](https://arxiv.org/pdf/2305.06386)
+- **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 
 ## Prototype/Concept-Based
 - **[ProtoTrees]** Neural Prototype Trees for Interpretable Fine-grained Image Recognition [[pdf]](https://arxiv.org/pdf/2012.02046.pdf) [[code]](https://github.com/M-Nauta/ProtoTree) 
