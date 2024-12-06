@@ -141,6 +141,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
 - Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193.pdf)
 - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216.pdf) [[website]](https://interpretdiffusion.github.io/)
+- Similarity of Neural Network Representations Revisited [[pdf]](https://arxiv.org/pdf/1905.00414)
+- Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
 - **[VoG]** Estimating Example Difficulty using Variance of Gradients [[pdf]](https://arxiv.org/pdf/2008.11600.pdf) [[code]](https://github.com/chirag126/VOG) [[project]](https://varianceofgradients.github.io/)
