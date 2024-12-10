@@ -17,6 +17,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Neural Networks via Feature Visualization: A survey [[pdf]](https://arxiv.org/pdf/1904.08939.pdf)
 - Conditional iterative generation of images in latent space [[pdf]](https://arxiv.org/pdf/1612.00005.pdf)
 - What do we learn from inverting CLIP models? [[pdf]](https://arxiv.org/pdf/2403.02580) [[code]](https://github.com/hamidkazemi22/CLIPInversion)
+- What do Vision Transformers Learn? A Visual Exploration [[pdf]](https://arxiv.org/pdf/2212.06727.pdf) [[code]](https://github.com/hamidkazemi22/vit-visualization)
+- On the (un)reliability of feature visualizations [[pdf]](https://arxiv.org/pdf/2306.04719)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation [[pdf]](https://arxiv.org/pdf/1704.03296.pdf) [[code]](https://github.com/jacobgil/pytorch-explain-black-box) [[code]](https://github.com/ruthcfong/pytorch-explain-black-box) [[code]](https://github.com/da2so/Interpretable-Explanations-of-Black-Boxes-by-Meaningful-Perturbation)
 - Gradient-Based Attribution Methods [[pdf]](https://cgl.ethz.ch/Downloads/Publications/Papers/2019/Anc19c/Anc19c.pdf)
 - Top-down Neural Attention by Excitation Backprop [[pdf]](https://arxiv.org/pdf/1608.00507.pdf) [[code]](https://github.com/ruthcfong/pointing_game)
@@ -100,7 +102,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Compositional Explanations of Neurons [[pdf]](https://arxiv.org/pdf/2006.14032.pdf)
 - What Does CNN Shift Invariance Look Like? A Visualization Study [[pdf]](https://arxiv.org/pdf/2011.04127.pdf) [[code]](https://github.com/jakehlee/interactive-invariance) [[project]](https://jakehlee.github.io/visualize-invariance)
 - Explainability Methods for Graph Convolutional Neural Networks [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) [[code]](https://github.com/ndey96/GCNN-Explainability)
-- What do Vision Transformers Learn? A Visual Exploration [[pdf]](https://arxiv.org/pdf/2212.06727.pdf) [[code]](https://github.com/hamidkazemi22/vit-visualization)
 - Learning Accurate and Interpretable Decision Rule Sets from Neural Networks [[pdf]](https://arxiv.org/pdf/2103.02826.pdf)
 - Visual Explanation for Deep Metric Learning [[pdf]](https://arxiv.org/pdf/1909.12977.pdf) [[code]](https://github.com/Jeff-Zilence/Explain_Metric_Learning)
 - Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [[pdf]](https://arxiv.org/pdf/1703.03717.pdf)
@@ -118,7 +119,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [[pdf]](https://arxiv.org/pdf/2106.13122.pdf) [[code]](https://github.com/katelyn98/CorruptionRobustness)
 - Explanatory Interactive Machine Learning [[pdf]](https://ml-research.github.io/papers/teso2019aies_XIML.pdf)
 - Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets [[pdf]](https://ceur-ws.org/Vol-2444/ialatecml_paper1.pdf)
-- Studying How to Efficiently and Effectively Guide Models with Explanations [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Rao_Studying_How_to_Efficiently_and_Effectively_Guide_Models_with_Explanations_ICCV_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Rao_Studying_How_to_ICCV_2023_supplemental.pdf)
+- Studying How to Efficiently and Effectively Guide Models with Explanations [[pdf]](https://arxiv.org/pdf/2303.11932) [[code]](https://github.com/sukrutrao/Model-Guidance)
+- Better Understanding Differences in Attribution Methods via Systematic Evaluations [[pdf]](https://arxiv.org/pdf/2303.11884) [[code]](https://github.com/sukrutrao/Attribution-Evaluation)
 - Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision [[pdf]](https://arxiv.org/pdf/2004.09034.pdf)
 - Fixing Localization Errors to Improve Image Classification [[pdf]](https://homes.esat.kuleuven.be/~konijn/publications/2020/sun2.pdf)
 - Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias [[pdf]](https://arxiv.org/pdf/2001.03152.pdf)
@@ -242,6 +244,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ConceptDrift]** Uncovering Biases through the Lens of Foundation Models [[pdf]](https://openreview.net/pdf?id=a78CZ8g85n)
 - **[PRIME]** Prioritizing Interpretability in Failure Mode Extraction [[pdf]](https://openreview.net/attachment?id=QrEHs9w5UF&name=pdf)
 - **[SRD]** Fine-grained and Robust Explanation with Sharing Ratio Decomposition [[pdf]](https://openreview.net/attachment?id=U7VW3KBm34&name=pdf)
+- **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
+- **[PURE]** Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits [[pdf]](https://xai4cv.github.io/assets/papers2024/P11.pdf) [[code]](https://github.com/maxdreyer/PURE)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -264,6 +268,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[HiResCAM]** Use HiResCAM instead of Grad-CAM for faithful explanations of convolutional neural networks [[pdf]](https://arxiv.org/pdf/2011.08891.pdf)
 - **[FAM]** Visual Explanations for the Feature Representations from Deep Convolutional Networks [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_FAM_Visual_Explanations_for_the_Feature_Representations_From_Deep_Convolutional_CVPR_2022_paper.pdf)
 - **[MinMaxCAM]** Improving object coverage for CAM-based Weakly Supervised Object Localization [[pdf]](https://arxiv.org/pdf/2104.14375.pdf)
+- **[ReciproCAM]** Lightweight Gradient-free Class Activation Map for Post-hoc Explanations [[pdf]](https://xai4cv.github.io/assets/papers2024/P01.pdf)
 
 ## LIME-based
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
@@ -300,6 +305,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[STAIR]** Learning Sparse Text and Image Representation in Grounded Tokens [[pdf]](https://arxiv.org/pdf/2301.13081.pdf)
 - **[DISCOVER]** Making Vision Networks Interpretable via Competition and Dissection [[pdf]](https://openreview.net/pdf?id=sWNOvNXGLP)
 - **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
+- **[DnD]** Interpreting Neurons in Vision Networks with Language Models [[pdf]](https://xai4cv.github.io/assets/papers2024/P19.pdf)
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
 - Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP [[pdf]](https://openreview.net/pdf?id=Vhh7ONtfvV) [[code]](https://github.com/SriramB-98/vit-decompose)
 
@@ -489,6 +495,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
 - [ViT-Prisma](https://github.com/soniajoseph/ViT-Prisma)
 - [CLIP Explainability](https://github.com/sMamooler/CLIP_Explainability) [CLIP_GradCAM](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)
+- [LVLM Interpret](https://github.com/IntelLabs/lvlm-interpret)
 
 ## XAI Libraries for NLP
 - [BertViz](https://github.com/jessevig/bertviz)
