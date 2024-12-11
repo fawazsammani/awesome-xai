@@ -131,6 +131,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Identifying Spurious Correlations and Correcting them with an Explanation-based Learning [[pdf]](https://arxiv.org/pdf/2211.08285.pdf)
 - Visual Attention Consistency under Image Transforms for Multi-Label Image Classification [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)
 - Improving performance of deep learning models with axiomatic attribution priors and expected gradients [[pdf]](https://arxiv.org/pdf/1906.10670.pdf)
+- Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193)
 - Fast Axiomatic Attribution for Neural Networks [[pdf]](https://arxiv.org/pdf/2111.07668.pdf) [[code]](https://github.com/visinf/fast-axiomatic-attribution)
 - Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation [[pdf]](https://arxiv.org/pdf/1902.00407.pdf)
 - Detecting Statistical Interactions from Neural Network Weights [[pdf]](https://arxiv.org/pdf/1705.04977.pdf)
@@ -404,7 +405,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks [[pdf]](https://openreview.net/attachment?id=A0HKeKl4Nl&name=pdf)
 - [TransformerLens](https://github.com/neelnanda-io/TransformerLens)
 
-## Natural Language Explanations (Supervised)
+## Natural Language Explanations 
 - **[GVE]** Generating visual explanations [[pdf]](https://arxiv.org/pdf/1603.08507.pdf)
 - **[PJ-X]** Multimodal Explanations: Justifying Decisions and Pointing to the Evidence [[pdf]](https://arxiv.org/pdf/1802.08129.pdf) [[code]](https://github.com/Seth-Park/MultimodalExplanations)
 - **[FME]** Faithful Multimodal Explanation for Visual Question Answering [[pdf]](https://arxiv.org/pdf/1809.02805.pdf) 
@@ -427,6 +428,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ReVisE]** A Recursive Approach Towards Vision-Language Explanation [[pdf]](https://arxiv.org/pdf/2311.12391.pdf) [[code]](https://github.com/para-lost/ReVisE)
 - **[Multimodal-CoT]** Multimodal Chain-of-Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2302.00923.pdf) [[code]](https://github.com/amazon-science/mm-cot)
 - **[CCoT]** Compositional Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://arxiv.org/pdf/2311.17076.pdf)
+- Faithful and Plausible Natural Language Explanations for Image Classification: A Pipeline Approach [[pdf]](https://www.arxiv.org/pdf/2407.20899)
 - Grounding Visual Explanations [[pdf]](https://arxiv.org/pdf/1807.09685.pdf)
 - Textual Explanations for Self-Driving Vehicles [[pdf]](https://arxiv.org/pdf/1807.11546.pdf) [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - Measuring Association Between Labels and Free-Text Rationales [[pdf]](https://arxiv.org/pdf/2010.12762.pdf) [[code]](https://github.com/allenai/label_rationale_association)
@@ -471,6 +473,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Interpreting and Mitigating Social Biases in Pre-trained Language Models [[pdf]](https://openreview.net/pdf?id=SQGUDc9tC8) [[code]](https://github.com/theNamek/Bias-Neurons)
 - What does the Knowledge Neuron Thesis Have to do with Knowledge? [[pdf]](https://openreview.net/attachment?id=2HJRwwbV3G&name=pdf)
 - Contrastive Explanations for Model Interpretability [[pdf]](https://arxiv.org/pdf/2103.01378) [[code]](https://github.com/allenai/contrastive-explanations)
+- Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
