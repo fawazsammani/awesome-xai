@@ -273,6 +273,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FAM]** Visual Explanations for the Feature Representations from Deep Convolutional Networks [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_FAM_Visual_Explanations_for_the_Feature_Representations_From_Deep_Convolutional_CVPR_2022_paper.pdf)
 - **[MinMaxCAM]** Improving object coverage for CAM-based Weakly Supervised Object Localization [[pdf]](https://arxiv.org/pdf/2104.14375.pdf)
 - **[ReciproCAM]** Lightweight Gradient-free Class Activation Map for Post-hoc Explanations [[pdf]](https://xai4cv.github.io/assets/papers2024/P01.pdf)
+- **[LICO]** Explainable Models with Language-Image COnsistency [[pdf]](https://openreview.net/pdf?id=apjOYp3mOa) [[code]](https://github.com/ymLeiFDU/LICO)
 
 ## LIME-based
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
@@ -304,6 +305,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[INViTE]** INterpret and Control Vision-Language Models with Text Explanations [[pdf]](https://openreview.net/pdf?id=5iENGLEJKG) [[code]](https://github.com/tonychenxyz/vit-interpret)
 - **[CLIP-Decomposition]** Interpreting CLIP's Image Representation via Text-Based Decomposition [[pdf]](https://arxiv.org/pdf/2310.05916.pdf) [[code]](https://github.com/yossigandelsman/clip_text_span) [[website]](https://yossigandelsman.github.io/clip_decomposition/)
 - **[Second-Order CLIP-Decomposition]** Interpreting the Second-Order Effects of Neurons in CLIP [[pdf]](https://arxiv.org/pdf/2406.04341) [[code]](https://github.com/yossigandelsman/second_order_lens) [[website]](https://yossigandelsman.github.io/clip_neurons/)
+- **[INVERT]** Labeling Neural Representations with Inverse Recognition [[pdf]](https://openreview.net/pdf?id=gLfgyIWiWW) 
 - **[CoSy]** Evaluating Textual Explanations of Neurons [[pdf]](https://openreview.net/pdf?id=R0bnWrpIeN) [[code]](https://github.com/lkopf/cosy)
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
 - **[WWW]**  A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concepts [[pdf]](https://arxiv.org/pdf/2402.18956) [[code]](https://github.com/ailab-kyunghee/WWW)
@@ -467,6 +469,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://arxiv.org/pdf/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
+- Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Extracting Concepts from LLMs: Anthropic’s recent discoveries [[blog]](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
 - LLM Evaluators Recognize and Favor Their Own Generations [[pdf]](https://openreview.net/pdf?id=4NJBV6Wp0h)
 - Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://openreview.net/pdf?id=vr5VRKq09l) [[code]](https://github.com/tim-lawson/mlsae)
