@@ -399,12 +399,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving Pixel-based MIM by Reducing Wasted Modeling Capability [[pdf]](https://arxiv.org/pdf/2308.00261.pdf) [[code]](https://github.com/open-mmlab/mmpretrain)
 - On Pretraining Data Diversity for Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2403.13808) [[code]](https://github.com/hammoudhasan/DiversitySSL)
 
-## Circuits/Mechanistic Interpretability
+## Circuits/Mechanistic Interpretability Series and Libraries
 - Circuits [[series]](https://distill.pub/2020/circuits/)
 - Transformer Circuits [[series]](https://transformer-circuits.pub/)
-- Progress measures for grokking via mechanistic interpretability [[pdf]](https://arxiv.org/pdf/2301.05217.pdf)
-- Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
-- Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks [[pdf]](https://openreview.net/attachment?id=A0HKeKl4Nl&name=pdf)
 - [TransformerLens](https://github.com/neelnanda-io/TransformerLens)
 
 ## Natural Language Explanations 
@@ -466,6 +463,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
 - Are self-explanations from Large Language Models faithful? [[pdf]](https://arxiv.org/pdf/2401.07927)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903)
+- Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
 - Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://arxiv.org/pdf/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
