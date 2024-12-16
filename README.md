@@ -464,7 +464,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are self-explanations from Large Language Models faithful? [[pdf]](https://arxiv.org/pdf/2401.07927)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903)
 - Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
-- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html)
+- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[code]](https://github.com/ai-safety-foundation/sparse_autoencoder/)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://openreview.net/pdf?id=tcsZt9ZNKD) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
 - Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
@@ -492,6 +492,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SLOT-Attention]** Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
 - **[SCOUTER]** Slot Attention-based Classifier for Explainable Image Recognition [[pdf]](https://arxiv.org/pdf/2009.06138.pdf) [[code]](https://github.com/wbw520/scouter)
 - **[SPOT]** Self-Training with Patch-Order Permutation for Object-Centric Learning with Autoregressive Transformers [[pdf]](https://arxiv.org/pdf/2312.00648.pdf) [[code]](https://github.com/gkakogeorgiou/spot)
+- **[SysBinder]** Neural Systematic Binder [[pdf]](https://arxiv.org/pdf/2211.01177) [[code]](https://github.com/singhgautam/sysbinder) [[website]](https://sites.google.com/view/neural-systematic-binder)
+- **[NCB]** Neural Concept Binder [[pdf]](https://openreview.net/pdf?id=ypPzyflbYs) [[code]](https://github.com/ml-research/NeuralConceptBinder?tab=readme-ov-file) [[website]](https://ml-research.github.io/NeuralConceptBinder/)
 
 ## XAI Libraries for Vision/Vision-Language
 - [Captum](https://captum.ai/)
