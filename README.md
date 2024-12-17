@@ -434,6 +434,15 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Reframing Human-AI Collaboration for Generating Free-Text Explanations [[pdf]](https://arxiv.org/pdf/2112.08674.pdf)
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
+## Understanding Model Failures
+- **[FACTS]** First Amplify Correlations and Then Slice to Discover Bias [[pdf]](https://arxiv.org/pdf/2309.17430) [[code]](https://github.com/yvsriram/FACTS)
+- **[DOMINO]** Discovering Systematic Errors with Cross-Modal Embeddings [[pdf]](https://arxiv.org/pdf/2203.14960)
+- **[PRIME]** Prioritizing Interpretability in Failure Mode Extraction [[pdf]](https://arxiv.org/pdf/2310.00164)
+- **[ProptAttack]** Identification of Systematic Errors of Image Classifiers on Rare Subgroups [[pdf]](https://arxiv.org/pdf/2303.05072)
+- **[B2T]** Discovering and Mitigating Visual Biases through Keyword Explanation [[pdf]](https://arxiv.org/pdf/2301.11104) [[code]](https://github.com/alinlab/b2t)
+- Discovering Bugs in Vision Models using Off-the-shelf Image Generation and Captioning [[pdf]](https://arxiv.org/pdf/2208.08831)
+- Distilling Model Failures as Directions in Latent Space [[pdf]](https://openreview.net/pdf?id=99RpBVpLiX) [[code]](https://www.catalyzex.com/paper/distilling-model-failures-as-directions-in/code)
+
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
 - Quantifying Attention Flow in Transformers [[pdf]](https://arxiv.org/pdf/2005.00928.pdf)
@@ -464,7 +473,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are self-explanations from Large Language Models faithful? [[pdf]](https://arxiv.org/pdf/2401.07927)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903)
 - Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
-- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[code]](https://github.com/ai-safety-foundation/sparse_autoencoder/)
+- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/ai-safety-foundation/sparse_autoencoder/) [[code]](https://github.com/jbloomAus/SAELens) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[SAEBench]](https://github.com/adamkarvonen/SAEBench)
+- BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[code]](https://github.com/bartbussmann/BatchTopK)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://openreview.net/pdf?id=tcsZt9ZNKD) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
 - Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
