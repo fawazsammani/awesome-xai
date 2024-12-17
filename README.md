@@ -157,7 +157,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
-- **[TrackStar]** Scalable Influence and Fact Tracing for Large Language Model Pretraining [[pdf]](https://openreview.net/pdf?id=gLa96FlWwn) [[blog]](https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da)
+- **[TrackStar]** Scalable Influence and Fact Tracing for Large Language Model Pretraining [[pdf]](https://openreview.net/pdf?id=gLa96FlWwn) [[code]](https://github.com/pair-code/pretraining-tda) [[blog]](https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da)
 - **[VoG]** Estimating Example Difficulty using Variance of Gradients [[pdf]](https://arxiv.org/pdf/2008.11600.pdf) [[code]](https://github.com/chirag126/VOG) [[project]](https://varianceofgradients.github.io/)
 - **[D-RISE]** Black-box Explanation of Object Detectors via Saliency Maps [[pdf]](https://arxiv.org/pdf/2006.03204.pdf)
 - **[SmoothGrad]** Removing noise by adding noise [[pdf]](https://arxiv.org/pdf/1706.03825.pdf) 
