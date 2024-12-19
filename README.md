@@ -174,6 +174,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SAGs]** One Explanation is Not Enough: Structured Attention Graphs for Image Classification [[pdf]](https://arxiv.org/pdf/2011.06733.pdf)
 - **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1051200417302385) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py) [[blog]](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
 - Axiomatic Explanations for Visual Search, Retrieval, and Similarity Learning [[pdf]](https://openreview.net/pdf?id=TqNsv1TuCX9)
+- Beyond Accuracy: Ensuring Correct Predictions With Correct Rationales [[pdf]](https://openreview.net/pdf?id=ADV0Pzi3Ol) [[code]](https://github.com/deep-real/DCP)
 - **[DeepDream]** Inceptionism: Going Deeper into Neural Networks [[blog]](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) [[code]](https://github.com/eriklindernoren/PyTorch-Deep-Dream) [[code]](https://github.com/gordicaleksa/pytorch-deepdream) [[code]](https://github.com/ProGamerGov/neural-dream)
 - **[Archipelago]** How does this interaction affect me? Interpretable attribution for feature interactions [[pdf]](https://arxiv.org/pdf/2006.10965.pdf)
 - **[RISE]** Randomized Input Sampling for Explanation of Black-box Models [[pdf]](https://arxiv.org/pdf/1806.07421.pdf) [[code]](https://github.com/eclique/RISE) [[website]](https://cs-people.bu.edu/vpetsiuk/rise/)
@@ -252,6 +253,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SRD]** Fine-grained and Robust Explanation with Sharing Ratio Decomposition [[pdf]](https://openreview.net/attachment?id=U7VW3KBm34&name=pdf)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
 - **[PURE]** Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits [[pdf]](https://xai4cv.github.io/assets/papers2024/P11.pdf) [[code]](https://github.com/maxdreyer/PURE)
+- **[Edge Pruning]** Finding Transformer Circuits With Edge Pruning [[pdf]](https://openreview.net/pdf?id=8oSY3rA9jY) [[code]](https://github.com/princeton-nlp/Edge-Pruning)
+- **[InterpBench]** Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques [[pdf]](https://openreview.net/pdf?id=R9gR9MPuD5)
+- **[COMET]** Inherently Explainable Vision Model with Feature Detector [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10537.pdf) [[code]](https://github.com/Zood123/COMET)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -295,9 +299,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[FVLC]** Faithful Vision-Language Interpretation via Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=rp0EdI8X4e)
 - **[DN-CBM]** Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery [[pdf]](https://arxiv.org/pdf/2407.14499) [[code]](https://github.com/neuroexplicit-saar/Discover-then-Name)
 - **[ECBMs]** Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations [[pdf]](https://arxiv.org/pdf/2401.14142) [[code]](https://github.com/xmed-lab/ECBM)
+- **[OpenCBM]** Concept Bottleneck Model with Open Vocabulary Concepts [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11588.pdf) 
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 - Interactive Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2212.07430)
+- Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable? [[pdf]](https://openreview.net/pdf?id=KYHma7hzjr)
 
 ## Neuron Annotation
 - **[Network Dissection]**: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
@@ -401,7 +407,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving Pixel-based MIM by Reducing Wasted Modeling Capability [[pdf]](https://arxiv.org/pdf/2308.00261.pdf) [[code]](https://github.com/open-mmlab/mmpretrain)
 - On Pretraining Data Diversity for Self-Supervised Learning [[pdf]](https://arxiv.org/pdf/2403.13808) [[code]](https://github.com/hammoudhasan/DiversitySSL)
 
-## Circuits/Mechanistic Interpretability Series and Libraries
+## Circuits Series and Libraries
 - Circuits [[series]](https://distill.pub/2020/circuits/)
 - Transformer Circuits [[series]](https://transformer-circuits.pub/)
 - [TransformerLens](https://github.com/neelnanda-io/TransformerLens)
@@ -477,6 +483,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
 - Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/ai-safety-foundation/sparse_autoencoder/) [[code]](https://github.com/jbloomAus/SAELens) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[SAEBench]](https://github.com/adamkarvonen/SAEBench)
 - BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[code]](https://github.com/bartbussmann/BatchTopK)
+- Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=zLBlin2zvW)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://openreview.net/pdf?id=tcsZt9ZNKD) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
 - Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
