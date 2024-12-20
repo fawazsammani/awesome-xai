@@ -300,6 +300,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DN-CBM]** Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery [[pdf]](https://arxiv.org/pdf/2407.14499) [[code]](https://github.com/neuroexplicit-saar/Discover-then-Name)
 - **[ECBMs]** Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations [[pdf]](https://arxiv.org/pdf/2401.14142) [[code]](https://github.com/xmed-lab/ECBM)
 - **[OpenCBM]** Concept Bottleneck Model with Open Vocabulary Concepts [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11588.pdf) 
+- **[VLG-CBM]** Training Concept Bottleneck Models with Vision-Language Guidance [[pdf]](https://openreview.net/pdf?id=Jm2aK3sDJD) [[code]](https://github.com/Trustworthy-ML-Lab/VLG-CBM)
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 - Interactive Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2212.07430)
