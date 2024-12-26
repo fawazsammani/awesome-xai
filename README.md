@@ -216,7 +216,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MeGe, ReCo]** How Good is your Explanation? Algorithmic Stability Measures to Assess the Quality of Explanations for Deep Neural Networks [[pdf]](https://arxiv.org/pdf/2009.04521.pdf)
 - **[FCDD]** Explainable Deep One-Class Classification [[pdf]](https://arxiv.org/pdf/2007.01760.pdf) [[code]](https://github.com/liznerski/fcdd)
 - **[DiCE]** Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/1905.07697.pdf) [[code]](https://github.com/interpretml/DiCE) [[blog]](https://www.microsoft.com/en-us/research/blog/open-source-library-provides-explanation-for-machine-learning-through-diverse-counterfactuals/)
-- **[ARM]** Blending Anti-Aliasing into Vision Transformer [[pdf]](https://arxiv.org/pdf/2110.15156.pdf) [[code]](https://github.com/amazon-research/anti-aliasing-transformer)
+- **[ARM]** Blending Anti-Aliasing into Vision Transformer [[pdf]](https://openreview.net/pdf?id=0-0Wk0t6A_Z) [[code]](https://github.com/amazon-research/anti-aliasing-transformer)
+- **[ACE]** Adversarial Counterfactual Visual Explanations [[pdf]](https://arxiv.org/pdf/2303.09962) [[code]](https://github.com/guillaumejs2403/ACE)
+- **[OCTET]** Object-aware Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/2211.12380) [[code]](https://github.com/valeoai/OCTET)
 - **[RelEx]** Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation [[pdf]](https://arxiv.org/pdf/2103.14332.pdf) [[code]](https://github.com/JBNU-VL/RelEx)
 - **[X-Pruner]** eXplainable Pruning for Vision Transformers [[pdf]](https://arxiv.org/pdf/2303.04935.pdf) [[code]](https://github.com/vickyyu90/XPruner)
 - **[ShearletX]** Explaining Image Classifiers with Multiscale Directional Image Representation [[pdf]](https://arxiv.org/pdf/2211.12857.pdf)
@@ -370,6 +372,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ICE]** Invertible Concept-based Explanations for CNN Models with Non-negative Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/2006.15417) 
 - Disentangling Neuron Representations with Concept Vectors [[pdf]](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/OMahony_Disentangling_Neuron_Representations_With_Concept_Vectors_CVPRW_2023_paper.pdf)
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
+- A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
 ## Distill Papers
@@ -506,6 +509,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Robust Detection of Lies in LLMs [[pdf]](https://openreview.net/pdf?id=1Fc2Xa2cDK)
 - Where does In-context Learning \ Happen in Large Language Models? [[pdf]](https://openreview.net/pdf?id=LLuSjg59an) [[code]](https://github.com/suzyahyah/where_does_in-context-learning_happen_in_LLMs)
+- Interpreting Learned Feedback Patterns in Large Language Models [[pdf]](https://openreview.net/pdf?id=xUoNgR1Byy)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
