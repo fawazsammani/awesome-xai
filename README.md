@@ -154,6 +154,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
 - How Do Training Methods Influence the Utilization of Vision Models? [[pdf]](https://arxiv.org/pdf/2410.14470) [[code]](https://github.com/paulgavrikov/layer_criticality)
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
+- Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
