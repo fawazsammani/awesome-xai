@@ -472,7 +472,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Extracting Concepts from LLMs: Anthropic’s recent discoveries [[blog]](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
 - Sparse Autoencoders Reveal Selective Remapping of Visual Concepts During Adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae) [[website]](https://dynamical-inference.ai/patchsae/)
 - Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning [[pdf]](https://openreview.net/pdf?id=7txPaUpUnc) [[code]](https://github.com/ApolloResearch/e2e_sae)
-- Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://openreview.net/pdf?id=XAjfjizaKs) [[code]](https://github.com/tim-lawson/mlsae)
+- Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://arxiv.org/pdf/2409.04185) [[code]](https://github.com/tim-lawson/mlsae)
 - Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [[pdf]](https://arxiv.org/pdf/2408.05147)
 
 ## XAI for NLP
