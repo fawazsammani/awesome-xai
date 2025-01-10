@@ -488,6 +488,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Attention is Not Only a Weight: Analyzing Transformers with Vector Norms [[pdf]](https://arxiv.org/pdf/2004.10102.pdf)
 - Attention is not Explanation [[pdf]](https://arxiv.org/pdf/1902.10186.pdf)
 - Attention is not not Explanation [[pdf]](https://arxiv.org/pdf/1908.04626.pdf)
+- Source and Target Interpretations of the Transformer [[pdf]](https://arxiv.org/pdf/2205.11631) [[code]](https://github.com/mt-upc/transformer-contributions-nmt)
 - Analyzing Individual Neurons in Pre-trained Language Models [[pdf]](https://arxiv.org/pdf/2010.02695.pdf)
 - Identifying and Controlling Important Neurons in Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1811.01157.pdf)
 - “Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification [[pdf]](https://arxiv.org/pdf/2111.07367.pdf) [[blog]](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
