@@ -462,7 +462,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Distilling Model Failures as Directions in Latent Space [[pdf]](https://openreview.net/pdf?id=99RpBVpLiX) [[code]](https://www.catalyzex.com/paper/distilling-model-failures-as-directions-in/code)
 
 ## Sparse Autoencoders for LLMs
-- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/ai-safety-foundation/sparse_autoencoder/) [[code]](https://github.com/jbloomAus/SAELens) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[SAEBench]](https://github.com/adamkarvonen/SAEBench) [[video]](https://www.youtube.com/watch?app=desktop&v=UGO_Ehywuxc)
+- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/ai-safety-foundation/sparse_autoencoder/) [[code]](https://github.com/jbloomAus/SAELens) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[SAEBench]](https://github.com/adamkarvonen/SAEBench) [[video]](https://www.youtube.com/watch?app=desktop&v=UGO_Ehywuxc) [[llama3.1-sae]](https://huggingface.co/Goodfire/Llama-3.1-8B-Instruct-SAE-l19) [[llama3.3-sae]](https://huggingface.co/Goodfire/Llama-3.3-70B-Instruct-SAE-l50)
 - BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[code]](https://github.com/bartbussmann/BatchTopK)
 - Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=zLBlin2zvW)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
@@ -549,6 +549,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [LVLM Interpret](https://github.com/IntelLabs/lvlm-interpret)
 
 ## XAI Libraries for NLP
+- [[nnsight]](https://github.com/ndif-team/nnsight)
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
 - [Ecco](https://github.com/jalammar/ecco)
