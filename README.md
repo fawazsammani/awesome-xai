@@ -307,6 +307,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[OpenCBM]** Concept Bottleneck Model with Open Vocabulary Concepts [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11588.pdf) 
 - **[VLG-CBM]** Training Concept Bottleneck Models with Vision-Language Guidance [[pdf]](https://openreview.net/pdf?id=Jm2aK3sDJD) [[code]](https://github.com/Trustworthy-ML-Lab/VLG-CBM)
 - **[SCBM]** Stochastic Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=iSjqTQ5S1f)
+- **[CBGM]** Concept Bottleneck Generative Models [[pdf]](https://openreview.net/pdf?id=L9U5MJJleF) [[code]](https://github.com/prescient-design/CBGM)
 - Coarse-to-Fine Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=RMdnTnffou) [[code]](https://github.com/konpanousis/Coarse-To-Fine-CBMs)
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
