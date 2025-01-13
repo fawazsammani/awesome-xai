@@ -469,6 +469,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=zLBlin2zvW)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://openreview.net/pdf?id=tcsZt9ZNKD) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
+- Towards Monosemanticity: Decomposing Language Models With Dictionary Learning [[blog]](https://transformer-circuits.pub/2023/monosemantic-features) [[code]](https://github.com/shehper/sparse-dictionary-learning)
 - Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet [[blog]](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 - Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Extracting Concepts from LLMs: Anthropic’s recent discoveries [[blog]](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
