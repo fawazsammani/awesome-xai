@@ -260,7 +260,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[InterpBench]** Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques [[pdf]](https://openreview.net/pdf?id=R9gR9MPuD5)
 - **[COMET]** Inherently Explainable Vision Model with Feature Detector [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10537.pdf) [[code]](https://github.com/Zood123/COMET)
 - **[Model LEGO]** Creating Models Like Disassembling and Assembling Building Blocks [[pdf]](https://openreview.net/pdf?id=nxL7eazKBI) [[code]](https://github.com/jiaconghu/Model-LEGO)
-- **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://arxiv.org/pdf/2412.05276) [[code]](https://github.com/dynamical-inference/patchsae)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -471,12 +470,17 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Scaling and evaluating sparse autoencoders [[pdf]](https://openreview.net/pdf?id=tcsZt9ZNKD) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
 - Towards Monosemanticity: Decomposing Language Models With Dictionary Learning [[blog]](https://transformer-circuits.pub/2023/monosemantic-features) [[code]](https://github.com/shehper/sparse-dictionary-learning)
 - Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet [[blog]](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-- Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Extracting Concepts from LLMs: Anthropic’s recent discoveries [[blog]](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
-- Sparse Autoencoders Reveal Selective Remapping of Visual Concepts During Adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae) [[website]](https://dynamical-inference.ai/patchsae/)
+- Taking features out of superposition with sparse autoencoders [[blog]](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
+- Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning [[pdf]](https://openreview.net/pdf?id=7txPaUpUnc) [[code]](https://github.com/ApolloResearch/e2e_sae)
 - Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://arxiv.org/pdf/2409.04185) [[code]](https://github.com/tim-lawson/mlsae)
 - Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [[pdf]](https://arxiv.org/pdf/2408.05147)
+
+## Sparse Autoencoders for Vision
+- Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
+- Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
+- **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://arxiv.org/pdf/2412.05276) [[code]](https://github.com/dynamical-inference/patchsae)
 
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
