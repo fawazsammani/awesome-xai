@@ -466,17 +466,17 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## Sparse Autoencoders for LLMs
 - Towards Monosemanticity: Decomposing Language Models With Dictionary Learning [[blog]](https://transformer-circuits.pub/2023/monosemantic-features) [[code]](https://github.com/ai-safety-foundation/sparse_autoencoder) [[code]](https://github.com/shehper/sparse-dictionary-learning) [[code]](https://github.com/jbloomAus/SAELens) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[SAEBench]](https://github.com/adamkarvonen/SAEBench) [[video]](https://www.youtube.com/watch?app=desktop&v=UGO_Ehywuxc) 
 - Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet [[blog]](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
-- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/HoagyC/sparse_coding) 
+- Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/HoagyC/sparse_coding)
+- Scaling and evaluating sparse autoencoders [[pdf]](https://arxiv.org/pdf/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
+- Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [[pdf]](https://arxiv.org/pdf/2408.05147)
 - BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[code]](https://github.com/bartbussmann/BatchTopK)
 - Improving Sparse Decomposition of Language Model Activations with Gated Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=zLBlin2zvW)
+- Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
+- Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://arxiv.org/pdf/2409.04185) [[code]](https://github.com/tim-lawson/mlsae)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
-- Scaling and evaluating sparse autoencoders [[pdf]](https://arxiv.org/pdf/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
 - Extracting Concepts from LLMs: Anthropic’s recent discoveries [[blog]](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
 - Taking features out of superposition with sparse autoencoders [[blog]](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
-- Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning [[pdf]](https://openreview.net/pdf?id=7txPaUpUnc) [[code]](https://github.com/ApolloResearch/e2e_sae)
-- Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://arxiv.org/pdf/2409.04185) [[code]](https://github.com/tim-lawson/mlsae)
-- Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [[pdf]](https://arxiv.org/pdf/2408.05147)
 - Llama SAE [[llama3.1-sae]](https://huggingface.co/Goodfire/Llama-3.1-8B-Instruct-SAE-l19) [[llama3.3-sae]](https://huggingface.co/Goodfire/Llama-3.3-70B-Instruct-SAE-l50)
 
 ## Sparse Autoencoders for Vision
