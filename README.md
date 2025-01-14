@@ -260,6 +260,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[InterpBench]** Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques [[pdf]](https://openreview.net/pdf?id=R9gR9MPuD5)
 - **[COMET]** Inherently Explainable Vision Model with Feature Detector [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10537.pdf) [[code]](https://github.com/Zood123/COMET)
 - **[Model LEGO]** Creating Models Like Disassembling and Assembling Building Blocks [[pdf]](https://openreview.net/pdf?id=nxL7eazKBI) [[code]](https://github.com/jiaconghu/Model-LEGO)
+- **[ACDC]** Towards Automated Circuit Discovery for Mechanistic Interpretability [[pdf]](https://openreview.net/pdf?id=89ia77nZ8u) [[code]](https://github.com/ArthurConmy/Automatic-Circuit-Discovery)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
