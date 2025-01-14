@@ -479,6 +479,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [[pdf]](https://arxiv.org/pdf/2408.05147)
 
 ## Sparse Autoencoders for Vision
+- Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers [[blog]](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2)
 - Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
 - Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://arxiv.org/pdf/2412.05276) [[code]](https://github.com/dynamical-inference/patchsae)
