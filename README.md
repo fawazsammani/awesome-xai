@@ -524,6 +524,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Robust Detection of Lies in LLMs [[pdf]](https://openreview.net/pdf?id=1Fc2Xa2cDK)
 - Where does In-context Learning \ Happen in Large Language Models? [[pdf]](https://openreview.net/pdf?id=LLuSjg59an) [[code]](https://github.com/suzyahyah/where_does_in-context-learning_happen_in_LLMs)
 - Interpreting Learned Feedback Patterns in Large Language Models [[pdf]](https://openreview.net/pdf?id=xUoNgR1Byy)
+- How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model [[pdf]](https://openreview.net/pdf?id=p4PckNQR8k)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
