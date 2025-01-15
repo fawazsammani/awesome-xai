@@ -110,7 +110,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Unmasking Clever Hans predictors and assessing what machines really learn [[pdf]](https://www.nature.com/articles/s41467-019-08987-4.pdf)
 - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Quantitative Evaluations on Saliency Methods: An Experimental Study [[pdf]](https://arxiv.org/pdf/2012.15616.pdf)
-- Metrics for saliency map evaluation of deep learning explanation methods [[pdf]](https://arxiv.org/pdf/2201.13291.pdf)
+- Metrics for saliency map evaluation of deep learning explanation methods [[pdf]](https://arxiv.org/pdf/2201.13291.pdf) [[code]](https://github.com/TristanGomez44/metrics-saliency-maps)
 - Towards Generating Human-Centered Saliency Maps without Sacrificing Accuracy [[blog]](https://katelyn98.github.io/blog/2022/vlr-project/)
 - Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[pip]](https://pypi.org/project/weightwatcher/) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
