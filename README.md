@@ -157,6 +157,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
+- **[M4]** A Unified XAI Benchmark for Faithfulness Evaluation of Feature Attribution Methods across Metrics, Modalities and Models [[pdf]](https://openreview.net/pdf?id=6zcfrSz98y) [[code]](https://github.com/PaddlePaddle/InterpretDL)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
 - **[TrackStar]** Scalable Influence and Fact Tracing for Large Language Model Pretraining [[pdf]](https://openreview.net/pdf?id=gLa96FlWwn) [[code]](https://github.com/pair-code/pretraining-tda) [[blog]](https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da)
 - **[VoG]** Estimating Example Difficulty using Variance of Gradients [[pdf]](https://arxiv.org/pdf/2008.11600.pdf) [[code]](https://github.com/chirag126/VOG) [[project]](https://varianceofgradients.github.io/)
@@ -260,7 +261,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[InterpBench]** Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques [[pdf]](https://openreview.net/pdf?id=R9gR9MPuD5)
 - **[COMET]** Inherently Explainable Vision Model with Feature Detector [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10537.pdf) [[code]](https://github.com/Zood123/COMET)
 - **[Model LEGO]** Creating Models Like Disassembling and Assembling Building Blocks [[pdf]](https://openreview.net/pdf?id=nxL7eazKBI) [[code]](https://github.com/jiaconghu/Model-LEGO)
-- **[ACDC]** Towards Automated Circuit Discovery for Mechanistic Interpretability [[pdf]](https://openreview.net/pdf?id=89ia77nZ8u) [[code]](https://github.com/ArthurConmy/Automatic-Circuit-Discovery)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -519,7 +519,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - LLM Evaluators Recognize and Favor Their Own Generations [[pdf]](https://openreview.net/pdf?id=4NJBV6Wp0h)
 - Interpreting and Mitigating Social Biases in Pre-trained Language Models [[pdf]](https://openreview.net/pdf?id=SQGUDc9tC8) [[code]](https://github.com/theNamek/Bias-Neurons)
 - What does the Knowledge Neuron Thesis Have to do with Knowledge? [[pdf]](https://openreview.net/attachment?id=2HJRwwbV3G&name=pdf)
+- Are Sixteen Heads Really Better than One? [[pdf]](https://arxiv.org/pdf/1905.10650) [[code]](https://github.com/pmichel31415/are-16-heads-really-better-than-1)
+- Causal Scrubbing: a method for rigorously testing interpretability hypotheses [[blog]](https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing)
 - Contrastive Explanations for Model Interpretability [[pdf]](https://arxiv.org/pdf/2103.01378) [[code]](https://github.com/allenai/contrastive-explanations)
+- Low-Complexity Probing via Finding Subnetworks [[pdf]](https://arxiv.org/pdf/2104.03514) [[code]](https://github.com/stevenxcao/subnetwork-probing)
+- Towards Automated Circuit Discovery for Mechanistic Interpretability [[pdf]](https://openreview.net/pdf?id=89ia77nZ8u) [[code]](https://github.com/ArthurConmy/Automatic-Circuit-Discovery)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Robust Detection of Lies in LLMs [[pdf]](https://openreview.net/pdf?id=1Fc2Xa2cDK)
 - Where does In-context Learning \ Happen in Large Language Models? [[pdf]](https://openreview.net/pdf?id=LLuSjg59an) [[code]](https://github.com/suzyahyah/where_does_in-context-learning_happen_in_LLMs)
