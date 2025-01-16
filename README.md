@@ -337,7 +337,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Text-To-Concept (and Back) via Cross-Model Alignment [[pdf]](https://arxiv.org/pdf/2305.06386)
 - **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 
-## Prototype/Concept-Based
+## Prototype and Concept-Based
 - **[ProtoTrees]** Neural Prototype Trees for Interpretable Fine-grained Image Recognition [[pdf]](https://arxiv.org/pdf/2012.02046.pdf) [[code]](https://github.com/M-Nauta/ProtoTree) 
 - **[ProtoPNet]** This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf]](https://arxiv.org/pdf/1806.10574.pdf) [[code]](https://github.com/cfchen-duke/ProtoPNet)
 - **[PIP-Net]** Patch-Based Intuitive Prototypes for Interpretable Image Classification [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.pdf) [[code]](https://github.com/M-Nauta/PIPNet)
