@@ -1,5 +1,7 @@
 # Awesome Explainable AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+An up-to-date library on all explainable and interpretable deep learning papers with codes. 
+<br>
 If you find some overlooked papers, please open issues or pull requests, and provide the paper(s) in this format:
 ```
 - **[]** Paper Name [[pdf]]() [[code]]()
@@ -570,7 +572,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
 - [Ecco](https://github.com/jalammar/ecco)
-- LIT [[github]](https://github.com/PAIR-code/lit) [[website]](https://pair-code.github.io/lit/) [[blog]](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
+- [LIT](https://github.com/PAIR-code/lit)
 
 ## SAE Libraries for NLP
 - [sparse_autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder)
