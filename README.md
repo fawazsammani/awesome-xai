@@ -566,17 +566,17 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [LVLM Interpret](https://github.com/IntelLabs/lvlm-interpret)
 
 ## XAI Libraries for NLP
-- [[nnsight]](https://github.com/ndif-team/nnsight)
+- [nnsight](https://github.com/ndif-team/nnsight)
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
 - [Ecco](https://github.com/jalammar/ecco)
 - LIT [[github]](https://github.com/PAIR-code/lit) [[website]](https://pair-code.github.io/lit/) [[blog]](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
 
 ## SAE Libraries for NLP
-- [[sparse_autoencoder]](https://github.com/ai-safety-foundation/sparse_autoencoder)
-- [[dictionary_learning]](https://github.com/saprmarks/dictionary_learning)
-- [[SAELens]](https://github.com/jbloomAus/SAELens)
-- [[SAEBench]](https://github.com/adamkarvonen/SAEBench)
+- [sparse_autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder)
+- [dictionary_learning](https://github.com/saprmarks/dictionary_learning)
+- [SAELens](https://github.com/jbloomAus/SAELens)
+- [SAEBench](https://github.com/adamkarvonen/SAEBench)
 
 ## Other Resources
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
