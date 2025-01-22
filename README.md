@@ -487,6 +487,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers [[blog]](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2)
 - Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
 - Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
+- Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Beyond_Interpretability)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://arxiv.org/pdf/2412.05276) [[code]](https://github.com/dynamical-inference/patchsae)
 
 ## XAI for NLP
@@ -533,6 +534,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Where does In-context Learning \ Happen in Large Language Models? [[pdf]](https://openreview.net/pdf?id=LLuSjg59an) [[code]](https://github.com/suzyahyah/where_does_in-context-learning_happen_in_LLMs)
 - Interpreting Learned Feedback Patterns in Large Language Models [[pdf]](https://openreview.net/pdf?id=xUoNgR1Byy)
 - How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model [[pdf]](https://openreview.net/pdf?id=p4PckNQR8k)
+- The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation [[pdf]](https://arxiv.org/pdf/2412.04318)
+- The Same but Different: Structural Similarities and Differences in Multilingual Language Modeling [[pdf]](https://openreview.net/pdf?id=NCrFA7dq8T)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
