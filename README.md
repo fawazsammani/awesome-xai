@@ -376,6 +376,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VCC]** Visual Concept Connectome: Open World Concept Discovery and their Interlayer Connections in Deep Models [[pdf]](https://arxiv.org/pdf/2404.02233) [[code]](https://github.com/YorkUCVIL/VCC) [[demo]](https://mkowal2.github.io/VCC_Demo/) [[website]](https://yorkucvil.github.io/VCC/)
 - **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 - **[ICE]** Invertible Concept-based Explanations for CNN Models with Non-negative Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/2006.15417) 
+- **[DEAL]** Disentangle and Localize Concept-level Explanations for VLMs [[pdf]](https://arxiv.org/pdf/2407.14412) [[code]](https://github.com/tangli-udel/DEAL)
 - Post-hoc Part-prototype Networks [[pdf]](https://arxiv.org/pdf/2406.03421) 
 - Disentangling Neuron Representations with Concept Vectors [[pdf]](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/OMahony_Disentangling_Neuron_Representations_With_Concept_Vectors_CVPRW_2023_paper.pdf)
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
