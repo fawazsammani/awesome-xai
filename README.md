@@ -134,6 +134,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visual Attention Consistency under Image Transforms for Multi-Label Image Classification [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)
 - Improving performance of deep learning models with axiomatic attribution priors and expected gradients [[pdf]](https://arxiv.org/pdf/1906.10670.pdf)
 - Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193)
+- Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf)
 - Fast Axiomatic Attribution for Neural Networks [[pdf]](https://arxiv.org/pdf/2111.07668.pdf) [[code]](https://github.com/visinf/fast-axiomatic-attribution)
 - Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation [[pdf]](https://arxiv.org/pdf/1902.00407.pdf)
 - Detecting Statistical Interactions from Neural Network Weights [[pdf]](https://arxiv.org/pdf/1705.04977.pdf)
