@@ -157,6 +157,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
 - Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
+- Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[M4]** A Unified XAI Benchmark for Faithfulness Evaluation of Feature Attribution Methods across Metrics, Modalities and Models [[pdf]](https://openreview.net/pdf?id=6zcfrSz98y) [[code]](https://github.com/PaddlePaddle/InterpretDL)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
