@@ -533,7 +533,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Towards Automated Circuit Discovery for Mechanistic Interpretability [[pdf]](https://openreview.net/pdf?id=89ia77nZ8u) [[code]](https://github.com/ArthurConmy/Automatic-Circuit-Discovery)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Robust Detection of Lies in LLMs [[pdf]](https://openreview.net/pdf?id=1Fc2Xa2cDK)
-- Where does In-context Learning \ Happen in Large Language Models? [[pdf]](https://openreview.net/pdf?id=LLuSjg59an) [[code]](https://github.com/suzyahyah/where_does_in-context-learning_happen_in_LLMs)
+- Where does In-context Learning Happen in Large Language Models? [[pdf]](https://openreview.net/pdf?id=LLuSjg59an) [[code]](https://github.com/suzyahyah/where_does_in-context-learning_happen_in_LLMs)
 - Interpreting Learned Feedback Patterns in Large Language Models [[pdf]](https://openreview.net/pdf?id=xUoNgR1Byy)
 - How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model [[pdf]](https://openreview.net/pdf?id=p4PckNQR8k)
 - The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation [[pdf]](https://arxiv.org/pdf/2412.04318)
