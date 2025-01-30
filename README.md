@@ -510,7 +510,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Identifying and Controlling Important Neurons in Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1811.01157.pdf)
 - “Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification [[pdf]](https://arxiv.org/pdf/2111.07367.pdf) [[blog]](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
 - Interpreting Language Models with Contrastive Explanations [[pdf]](https://arxiv.org/pdf/2202.10419.pdf) [[code]](https://github.com/kayoyin/interpret-lm)
-- Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers [[pdf]](https://arxiv.org/pdf/2212.10559.pdf) [[pdf]](https://openreview.net/pdf?id=fzbHRjAd8U) [[code]](https://github.com/microsoft/LMOps)
+- Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers [[pdf]](https://openreview.net/pdf?id=fzbHRjAd8U) [[code]](https://github.com/microsoft/LMOps)
 - Discretized Integrated Gradients for Explaining Language Models [[pdf]](https://arxiv.org/pdf/2108.13654.pdf) [[code]](https://github.com/INK-USC/DIG)
 - Did the Model Understand the Question? [[pdf]](https://arxiv.org/pdf/1805.05492.pdf)
 - Explaining Compositional Semantics for Neural Sequence Models [[pdf]](https://arxiv.org/pdf/1911.06194.pdf) [[code]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)
