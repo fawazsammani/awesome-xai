@@ -476,7 +476,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/HoagyC/sparse_coding)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://arxiv.org/pdf/2406.04093) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
 - Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [[pdf]](https://arxiv.org/pdf/2408.05147)
-- BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[code]](https://github.com/bartbussmann/BatchTopK)
+- BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[blog]](https://www.lesswrong.com/posts/Nkx6yWZNbAsfvic98/batchtopk-a-simple-improvement-for-topk-saes) [[code]](https://github.com/bartbussmann/BatchTopK)
 - Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://arxiv.org/pdf/2409.04185) [[code]](https://github.com/tim-lawson/mlsae)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
