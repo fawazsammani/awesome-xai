@@ -479,6 +479,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[blog]](https://www.lesswrong.com/posts/Nkx6yWZNbAsfvic98/batchtopk-a-simple-improvement-for-topk-saes) [[code]](https://github.com/bartbussmann/BatchTopK)
 - Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://arxiv.org/pdf/2409.04185) [[code]](https://github.com/tim-lawson/mlsae)
+- Towards Interpretable Scientific Foundation Models: Sparse Autoencoders for Disentangling Dense Embeddings of Scientific Concepts [[pdf]](https://openreview.net/pdf?id=mPq3R6jdtD)
 - Language models can explain neurons in language models [[paper]](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html) [[code]](https://github.com/openai/automated-interpretability) [[blog]](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) [[demo]](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html)
 - Extracting Concepts from LLMs: Anthropic’s recent discoveries [[blog]](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
 - Taking features out of superposition with sparse autoencoders [[blog]](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
