@@ -326,7 +326,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MILAN]** Natural Language Descriptions of Deep Visual Features [[pdf]](https://arxiv.org/pdf/2201.11114.pdf) [[code]](https://github.com/evandez/neuron-descriptions) [[website]](http://milan.csail.mit.edu/)
 - **[INViTE]** INterpret and Control Vision-Language Models with Text Explanations [[pdf]](https://openreview.net/pdf?id=5iENGLEJKG) [[code]](https://github.com/tonychenxyz/vit-interpret)
 - **[CLIP-Decomposition]** Interpreting CLIP's Image Representation via Text-Based Decomposition [[pdf]](https://arxiv.org/pdf/2310.05916.pdf) [[code]](https://github.com/yossigandelsman/clip_text_span) [[website]](https://yossigandelsman.github.io/clip_decomposition/)
-- **[Second-Order CLIP-Decomposition]** Interpreting the Second-Order Effects of Neurons in CLIP [[pdf]](https://arxiv.org/pdf/2406.04341) [[code]](https://github.com/yossigandelsman/second_order_lens) [[website]](https://yossigandelsman.github.io/clip_neurons/)
+- **[Second-Order CLIP-Decomposition]** Interpreting the Second-Order Effects of Neurons in CLIP [[pdf]](https://openreview.net/pdf?id=GPDcvoFGOL) [[code]](https://github.com/yossigandelsman/second_order_lens) [[website]](https://yossigandelsman.github.io/clip_neurons/)
 - **[INVERT]** Labeling Neural Representations with Inverse Recognition [[pdf]](https://openreview.net/pdf?id=gLfgyIWiWW) 
 - **[CoSy]** Evaluating Textual Explanations of Neurons [[pdf]](https://openreview.net/pdf?id=R0bnWrpIeN) [[code]](https://github.com/lkopf/cosy)
 - **[FALCON]** Identifying Interpretable Subspaces in Image Representations [[pdf]](https://arxiv.org/pdf/2307.10504.pdf) [[code]](https://github.com/NehaKalibhat/falcon-explain)
