@@ -472,7 +472,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Distilling Model Failures as Directions in Latent Space [[pdf]](https://openreview.net/pdf?id=99RpBVpLiX) [[code]](https://www.catalyzex.com/paper/distilling-model-failures-as-directions-in/code)
 
 ## Sparse Autoencoders for LLMs
-- Towards Monosemanticity: Decomposing Language Models With Dictionary Learning [[blog]](https://transformer-circuits.pub/2023/monosemantic-features) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[video]](https://www.youtube.com/watch?app=desktop&v=UGO_Ehywuxc) [[code]](https://github.com/shehper/sparse-dictionary-learning) [[code]](https://github.com/neelnanda-io/1L-Sparse-Autoencoder)
+- Towards Monosemanticity: Decomposing Language Models With Dictionary Learning [[blog]](https://transformer-circuits.pub/2023/monosemantic-features) [[blog]](https://adamkarvonen.github.io/machine_learning/2024/06/11/sae-intuitions.html) [[video]](https://www.youtube.com/watch?app=desktop&v=UGO_Ehywuxc) [[code]](https://github.com/shehper/sparse-dictionary-learning)
 - Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet [[blog]](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 - Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/HoagyC/sparse_coding)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://openreview.net/pdf?id=tcsZt9ZNKD) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
