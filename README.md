@@ -20,7 +20,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Conditional iterative generation of images in latent space [[pdf]](https://arxiv.org/pdf/1612.00005.pdf)
 - What do we learn from inverting CLIP models? [[pdf]](https://arxiv.org/pdf/2403.02580) [[code]](https://github.com/hamidkazemi22/CLIPInversion)
 - What do Vision Transformers Learn? A Visual Exploration [[pdf]](https://arxiv.org/pdf/2212.06727.pdf) [[code]](https://github.com/hamidkazemi22/vit-visualization)
-- On the (un)reliability of feature visualizations [[pdf]](https://arxiv.org/pdf/2306.04719)
 - Interpretable Explanations of Black Boxes by Meaningful Perturbation [[pdf]](https://arxiv.org/pdf/1704.03296.pdf) [[code]](https://github.com/jacobgil/pytorch-explain-black-box) [[code]](https://github.com/ruthcfong/pytorch-explain-black-box) [[code]](https://github.com/da2so/Interpretable-Explanations-of-Black-Boxes-by-Meaningful-Perturbation)
 - Gradient-Based Attribution Methods [[pdf]](https://cgl.ethz.ch/Downloads/Publications/Papers/2019/Anc19c/Anc19c.pdf)
 - Top-down Neural Attention by Excitation Backprop [[pdf]](https://arxiv.org/pdf/1608.00507.pdf) [[code]](https://github.com/ruthcfong/pointing_game)
