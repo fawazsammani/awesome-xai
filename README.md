@@ -250,7 +250,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MAGI]** Multi-Annotated Explanation-Guided Learning [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MAGI_Multi-Annotated_Explanation-Guided_Learning_ICCV_2023_paper.pdf)
 - **[CCE]** Towards Visual Contrastive Explanations for Neural Networks [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf)
 - **[CNN Filter DB]** An Empirical Investigation of Trained Convolutional Filters [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf) [[code]](https://github.com/paulgavrikov/CNN-Filter-DB)
-- **[VLSlice]** Interactive Vision-and-Language Slice Discovery [[pdf]](https://arxiv.org/pdf/2309.06703.pdf) [[code]](https://github.com/slymane/vlslice) [[website]](https://ericslyman.com/vlslice/) [[demo]](https://drive.google.com/file/d/1JkbVXnCds6rOErUx-YWZmp3mQ3IDJuhi/view) [[video]](https://drive.google.com/file/d/1mOuvjphNb2xNDC7shoGbPwyjbfArwud4/view) [[video]](https://www.youtube.com/watch?v=2CMDcGGsMjo&list=PLUxOP3kBxs2JYA5KT0YEmNJEyjqAqLOf3&index=2&ab_channel=CollegeofEngineering-OregonStateUniversity)
 - **[Feature Sieve]** Overcoming Simplicity Bias in Deep Networks using a Feature Sieve [[pdf]](https://arxiv.org/pdf/2301.13293.pdf) [[blog]](https://blog.research.google/2024/02/intervening-on-early-readouts-for.html)
 - **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
@@ -463,6 +462,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
 ## Understanding Model Failures
+- **[VLSlice]** Interactive Vision-and-Language Slice Discovery [[pdf]](https://arxiv.org/pdf/2309.06703.pdf) [[code]](https://github.com/slymane/vlslice) [[website]](https://ericslyman.com/vlslice/) [[demo]](https://drive.google.com/file/d/1JkbVXnCds6rOErUx-YWZmp3mQ3IDJuhi/view) [[video]](https://drive.google.com/file/d/1mOuvjphNb2xNDC7shoGbPwyjbfArwud4/view) [[video]](https://www.youtube.com/watch?v=2CMDcGGsMjo&list=PLUxOP3kBxs2JYA5KT0YEmNJEyjqAqLOf3&index=2&ab_channel=CollegeofEngineering-OregonStateUniversity)
 - **[FACTS]** First Amplify Correlations and Then Slice to Discover Bias [[pdf]](https://arxiv.org/pdf/2309.17430) [[code]](https://github.com/yvsriram/FACTS)
 - **[DOMINO]** Discovering Systematic Errors with Cross-Modal Embeddings [[pdf]](https://arxiv.org/pdf/2203.14960)
 - **[PRIME]** Prioritizing Interpretability in Failure Mode Extraction [[pdf]](https://arxiv.org/pdf/2310.00164)
