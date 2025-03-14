@@ -581,7 +581,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [LIT](https://github.com/PAIR-code/lit)
 
 ## SAE Libraries for NLP
-- [sparse_autoencoder](https://github.com/ai-safety-foundation/sparse_autoencoder)
 - [dictionary_learning](https://github.com/saprmarks/dictionary_learning)
 - [SAELens](https://github.com/jbloomAus/SAELens)
 - [SAEBench](https://github.com/adamkarvonen/SAEBench)
