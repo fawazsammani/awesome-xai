@@ -29,7 +29,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Do semantic parts emerge in Convolutional Neural Networks? [[pdf]](https://arxiv.org/pdf/1607.03738.pdf)
 - Do Convolutional Neural Networks Learn Class Hierarchy? [[pdf]](https://arxiv.org/pdf/1710.06501.pdf)
 - On the Robustness of Interpretability Methods [[pdf]](https://arxiv.org/pdf/1806.08049.pdf)
-- Sanity Checks for Saliency Maps [[pdf]](https://arxiv.org/pdf/1810.03292.pdf)
 - Sanity Checks for Saliency Metrics [[pdf]](https://arxiv.org/pdf/1912.01451.pdf)
 - Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1904.00605.pdf)
 - Transformer Interpretability Beyond Attention Visualization [[pdf]](https://arxiv.org/pdf/2012.09838.pdf) [[code]](https://github.com/hila-chefer/Transformer-Explainability) [[video]](https://www.youtube.com/watch?v=a0O_QhE9XFM&ab_channel=DataScienceBond)
@@ -404,6 +403,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Evaluation of XAI
 - On the (In)fidelity and Sensitivity of Explanations [[pdf]](https://arxiv.org/pdf/1901.09392.pdf) [[code]](https://github.com/chihkuanyeh/saliency_evaluation)
+- Sanity Checks for Saliency Maps [[pdf]](https://arxiv.org/pdf/1810.03292.pdf)
 - Revisiting The Evaluation of Class Activation Mapping for Explainability: A Novel Metric and Experimental Analysis [[pdf]](https://arxiv.org/pdf/2104.10252.pdf)
 - The effectiveness of feature attribution methods and its correlation with automatic evaluation scores [[pdf]](https://arxiv.org/pdf/2105.14944.pdf)
 - Do Feature Attribution Methods Correctly Attribute Features? [[pdf]](https://arxiv.org/pdf/2104.14403.pdf) [[code]](https://github.com/YilunZhou/feature-attribution-evaluation)
