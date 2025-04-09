@@ -142,7 +142,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Interpreting Vision and Language Generative Models with Semantic Visual Priors [[pdf]](https://arxiv.org/pdf/2304.14986v2.pdf)
 - Learning Concise and Descriptive Attributes for Visual Recognition [[pdf]](https://arxiv.org/pdf/2308.03685.pdf)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
--  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
 - Representation Engineering: A Top-Down Approach to AI Transparency [[pdf]](https://arxiv.org/pdf/2310.01405.pdf) [[code]](https://github.com/andyzoujm/representation-engineering) [[website]](https://www.ai-transparency.org/) 
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
 - Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193.pdf)
@@ -155,7 +154,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
 - Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
-- Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
+- Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/pdf?id=Pj4Aid3XqL)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[M4]** A Unified XAI Benchmark for Faithfulness Evaluation of Feature Attribution Methods across Metrics, Modalities and Models [[pdf]](https://openreview.net/pdf?id=6zcfrSz98y) [[code]](https://github.com/PaddlePaddle/InterpretDL)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
@@ -393,6 +392,14 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Concept Algebra for (Score-Based) Text-Controlled Generative Models [[pdf]](https://openreview.net/pdf?id=SGlrCuwdsB) [[code]](https://github.com/zihao12/concept-algebra-code)
 - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216) [[code]](https://github.com/hangligit/InterpretDiffusion) [[website]](https://interpretdiffusion.github.io/)
 - Your Diffusion Model is Secretly a Zero-Shot Classifier [[pdf]](https://arxiv.org/pdf/2303.16203) [[code]](https://github.com/diffusion-classifier/diffusion-classifier) [[website]](https://diffusion-classifier.github.io/)
+
+## Modality Gap in VLMs
+-  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
+-  Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models [[pdf]](https://openreview.net/pdf?id=uAFHCZRmXk) [[code]](https://github.com/lmb-freiburg/two-effects-one-trigger)
+-  Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs [[pdf]](https://openreview.net/pdf?id=9622QfVSAb) [[code]](https://github.com/mshukor/ima-lmms)
+
+## Hallucinations in VLMs
+- Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
 
 ## Distill Papers
 - [Distill](https://distill.pub/) 
