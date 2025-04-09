@@ -394,6 +394,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=DgaY5mDdmT) [[code]](https://github.com/saccharomycetes/mllms_know)
 - Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf) [[code]](https://github.com/Heidelberg-NLP/CC-SHAP-VLM)
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
+- **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
