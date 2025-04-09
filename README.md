@@ -118,6 +118,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - Simple Yet Effective Techniques for Improving Post-hoc Explanations [[pdf]](https://openreview.net/pdf?id=57NfyYxh5f) [[code]](https://github.com/sidgairo18/how-to-probe)
+- Vision Transformers Need Registers [[pdf]](https://openreview.net/pdf?id=2dnO3LLiJ1) 
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
 - **[TrackStar]** Scalable Influence and Fact Tracing for Large Language Model Pretraining [[pdf]](https://openreview.net/pdf?id=gLa96FlWwn) [[code]](https://github.com/pair-code/pretraining-tda) [[blog]](https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da)
 - **[VoG]** Estimating Example Difficulty using Variance of Gradients [[pdf]](https://arxiv.org/pdf/2008.11600.pdf) [[code]](https://github.com/chirag126/VOG) [[project]](https://varianceofgradients.github.io/)
@@ -135,6 +136,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MoreauGrad]** Sparse and Robust Interpretation of Neural Networks via Moreau Envelope [[pdf]](https://arxiv.org/pdf/2302.05294.pdf) [[code]](https://github.com/buyeah1109/MoreauGrad)
 - **[SAGs]** One Explanation is Not Enough: Structured Attention Graphs for Image Classification [[pdf]](https://arxiv.org/pdf/2011.06733.pdf)
 - **[LRP]** On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [[pdf]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable) [[pdf]](https://iphome.hhi.de/samek/pdf/MonXAI19.pdf) [[pdf]](https://www.sciencedirect.com/science/article/pii/S1051200417302385) [[tutorial]](https://git.tu-berlin.de/gmontavon/lrp-tutorial) [[code]](https://github.com/fhvilshoj/TorchLRP) [[code]](https://github.com/deepfindr/xai-series/blob/master/05_lrp.py) [[blog]](https://towardsdatascience.com/indepth-layer-wise-relevance-propagation-340f95deb1ea)
+- **[AttnLRP]** Attention-Aware Layer-Wise Relevance Propagation for Transformers [[pdf]](https://openreview.net/pdf?id=emtXYlBrNF) [[code]](https://github.com/rachtibat/LRP-eXplains-Transformers)
 - Axiomatic Explanations for Visual Search, Retrieval, and Similarity Learning [[pdf]](https://openreview.net/pdf?id=TqNsv1TuCX9)
 - Beyond Accuracy: Ensuring Correct Predictions With Correct Rationales [[pdf]](https://openreview.net/pdf?id=ADV0Pzi3Ol) [[code]](https://github.com/deep-real/DCP)
 - **[Archipelago]** How does this interaction affect me? Interpretable attribution for feature interactions [[pdf]](https://arxiv.org/pdf/2006.10965.pdf)
@@ -181,6 +183,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MACO]** Unlocking Feature Visualization for Deeper Networks with MAgnitude Constrained Optimization [[pdf]](https://arxiv.org/pdf/2306.06805.pdf) [[website]](https://serre-lab.github.io/Lens/)
 - **[Guided Zoom]** Questioning Network Evidence for Fine-Grained Classification [[pdf]](https://arxiv.org/pdf/1812.02626.pdf) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335497) [[code]](https://github.com/andreazuna89/Guided-Zoom)
 - **[CNC]** Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations [[pdf]](https://arxiv.org/pdf/2203.01517.pdf)
+- **[SalientImageNet]** How to discover spurious features in Deep Learning? [[pdf]](https://openreview.net/pdf/078e6e26ef046a2af14430f17a7b149613824cc7.pdf) [[code]](https://github.com/singlasahil14/salient_imagenet)
 - **[AMC]** Improving Visual Grounding by Encouraging Consistent Gradient-based Explanations [[pdf]](https://arxiv.org/pdf/2206.15462.pdf)
 - **[MaskTune]** Mitigating Spurious Correlations by Forcing to Explore [[pdf]](https://arxiv.org/pdf/2210.00055.pdf)
 - **[CoDA-Nets]** Convolutional Dynamic Alignment Networks for Interpretable Classifications [[pdf]](https://arxiv.org/pdf/2104.00032.pdf)
@@ -199,6 +202,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SRD]** Fine-grained and Robust Explanation with Sharing Ratio Decomposition [[pdf]](https://openreview.net/attachment?id=U7VW3KBm34&name=pdf)
 - **[COMET]** Inherently Explainable Vision Model with Feature Detector [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10537.pdf) [[code]](https://github.com/Zood123/COMET)
 - **[Model LEGO]** Creating Models Like Disassembling and Assembling Building Blocks [[pdf]](https://openreview.net/pdf?id=nxL7eazKBI) [[code]](https://github.com/jiaconghu/Model-LEGO)
+- **[MDA]** Metric-Driven Attributions for Vision Transformers [[pdf]](https://openreview.net/pdf?id=rGP2jbWt0l) [[code]](https://github.com/chasewalker26/MDA-Metric-Driven-Attributions-for-ViT)
 
 ## CAM Papers
 - **[CAM]** Learning Deep Features for Discriminative Localization [[pdf]](https://arxiv.org/pdf/1512.04150.pdf)
@@ -340,6 +344,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Rosetta Neurons]** Mining the Common Units in a Model Zoo [[pdf]](https://arxiv.org/pdf/2306.09346.pdf) [[code]](https://github.com/yossigandelsman/rosetta_neurons) [[website]](https://yossigandelsman.github.io/rosetta_neurons/)
 - **[DEAL]** Disentangle and Localize Concept-level Explanations for VLMs [[pdf]](https://arxiv.org/pdf/2407.14412) [[code]](https://github.com/tangli-udel/DEAL)
 - **[RSVC]** Representational Similarity via Interpretable Visual Concepts [[pdf]](https://openreview.net/pdf?id=ih3BJmIZbC) [[code]](https://github.com/nkondapa/RSVC)
+- **[CounTEX]** Grounding Counterfactual Explanation of Image Classifiers to Textual Concept Space [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Grounding_Counterfactual_Explanation_of_Image_Classifiers_to_Textual_Concept_Space_CVPR_2023_paper.pdf) 
 - Post-hoc Part-prototype Networks [[pdf]](https://arxiv.org/pdf/2406.03421) 
 - Disentangling Neuron Representations with Concept Vectors [[pdf]](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/OMahony_Disentangling_Neuron_Representations_With_Concept_Vectors_CVPRW_2023_paper.pdf)
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
@@ -530,6 +535,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Taking features out of superposition with sparse autoencoders [[blog]](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
 - Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning [[pdf]](https://openreview.net/pdf?id=7txPaUpUnc) [[code]](https://github.com/ApolloResearch/e2e_sae)
 - Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words [[pdf]](https://openreview.net/pdf?id=HpUs2EXjOl) [[code]](https://github.com/gouki510/PS-Eval)
+- Negative Results for Sparse Autoencoders On Downstream Tasks and Deprioritising SAE Research (Mechanistic Interpretability Team Progress Update) [[blog]](https://deepmindsafetyresearch.medium.com/negative-results-for-sparse-autoencoders-on-downstream-tasks-and-deprioritising-sae-research-6cadcfc125b9)
 - Llama SAE [[llama3.1-sae]](https://huggingface.co/Goodfire/Llama-3.1-8B-Instruct-SAE-l19) [[llama3.3-sae]](https://huggingface.co/Goodfire/Llama-3.3-70B-Instruct-SAE-l50)
 
 ## Sparse Autoencoders for Vision
@@ -563,6 +569,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining Compositional Semantics for Neural Sequence Models [[pdf]](https://arxiv.org/pdf/1911.06194.pdf) [[code]](https://github.com/INK-USC/hierarchical-explanation-neural-sequence-models)
 - Fooling Explanations in Text Classifiers [[pdf]](https://openreview.net/pdf?id=j3krplz_4w6)
 - Interpreting GPT: The Logit Lens [[blog]](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
+- Eliciting Latent Predictions from Transformers with the Tuned Lens [[pdf]](https://arxiv.org/pdf/2303.08112) [[code]](https://github.com/AlignmentResearch/tuned-lens)
 - Inside BERT from BERT-related-papers Github [[link]](https://github.com/tomohideshibata/BERT-related-papers#inside-bert)
 - Massive Activations in Large Language Models [[pdf]](https://arxiv.org/pdf/2402.17762.pdf) [[code]](https://github.com/locuslab/massive-activations) [[website]](https://eric-mingjie.github.io/massive-activations/index.html)
 - Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
@@ -593,6 +600,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI [[pdf]](https://arxiv.org/pdf/2201.08164.pdf)
 - Leveraging Explanations in Interactive Machine Learning: An Overview [[pdf]](https://arxiv.org/pdf/2207.14526.pdf)
 - Mechanistic Interpretability for AI Safety — A Review [[blog]](https://leonardbereska.github.io/blog/2024/mechinterpreview/)
+- A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models [[pdf]](https://arxiv.org/pdf/2502.17516)
 
 ## Object-Centric Learning
 - **[SLOT-Attention]** Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
@@ -623,10 +631,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [Ecco](https://github.com/jalammar/ecco)
 - [LIT](https://github.com/PAIR-code/lit)
 
-## SAE Libraries for NLP
+## SAE Libraries for NLP and Vision
 - [dictionary_learning](https://github.com/saprmarks/dictionary_learning)
 - [SAELens](https://github.com/jbloomAus/SAELens)
 - [SAEBench](https://github.com/adamkarvonen/SAEBench)
+- [overcomplete](https://github.com/KempnerInstitute/overcomplete)
 
 ## Other Resources
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
