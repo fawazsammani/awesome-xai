@@ -155,6 +155,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/pdf?id=Pj4Aid3XqL)
+- Simple Yet Effective Techniques for Improving Post-hoc Explanations [[pdf]](https://openreview.net/pdf?id=57NfyYxh5f) [[code]](https://github.com/sidgairo18/how-to-probe)
 - **[OpenXAI]** Towards a Transparent Evaluation of Model Explanations [[pdf]](https://arxiv.org/pdf/2206.11104.pdf) [[code]](https://github.com/AI4LIFE-GROUP/OpenXAI) [[website]](https://open-xai.github.io/)
 - **[M4]** A Unified XAI Benchmark for Faithfulness Evaluation of Feature Attribution Methods across Metrics, Modalities and Models [[pdf]](https://openreview.net/pdf?id=6zcfrSz98y) [[code]](https://github.com/PaddlePaddle/InterpretDL)
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
@@ -305,6 +306,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DCR]** Interpretable Neural-Symbolic Concept Reasoning [[pdf]](https://arxiv.org/pdf/2304.14068) [[code]](https://github.com/pietrobarbiero/pytorch_explain)
 - **[SALF-CBM]** Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2502.20134) 
 - **[CEM]** Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off [[pdf]](https://openreview.net/pdf?id=HXCPA2GXf_)
+- **[CONDA]** Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts [[pdf]](https://openreview.net/pdf?id=8sfc8MwG5v) [[code]](https://github.com/jihyechoi77/CONDA)
 - Coarse-to-Fine Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=RMdnTnffou) [[code]](https://github.com/konpanousis/Coarse-To-Fine-CBMs)
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
@@ -406,6 +408,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## Hallucinations in VLMs
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
 - Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
+- Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs) [[pdf]](https://openreview.net/pdf?id=oStNAMWELS) [[code]](https://github.com/ExplainableML/vla-gender-bias)
 - **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
 - **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
 
@@ -501,6 +504,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Sparse Autoencoders Find Highly Interpretable Features in Language Models [[pdf]](https://openreview.net/pdf?id=F76bwRSLeK) [[code]](https://github.com/HoagyC/sparse_coding)
 - Scaling and evaluating sparse autoencoders [[pdf]](https://openreview.net/pdf?id=tcsZt9ZNKD) [[code]](https://github.com/openai/sparse_autoencoder) [[blog]](https://openai.com/index/extracting-concepts-from-gpt-4/) [[demo]](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
 - Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 [[pdf]](https://arxiv.org/pdf/2408.05147)
+- Efficient Dictionary Learning with Switch Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=k2ZVAzVeMP)
 - BatchTopK Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2412.06410) [[blog]](https://www.lesswrong.com/posts/Nkx6yWZNbAsfvic98/batchtopk-a-simple-improvement-for-topk-saes) [[code]](https://github.com/bartbussmann/BatchTopK)
 - Improving Dictionary Learning with Gated Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2404.16014)
 - Residual Stream Analysis with Multi-Layer SAEs [[pdf]](https://openreview.net/pdf?id=XAjfjizaKs) [[code]](https://github.com/tim-lawson/mlsae)
@@ -509,6 +513,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Extracting Concepts from LLMs: Anthropic’s recent discoveries [[blog]](https://huggingface.co/blog/m-ric/extracting-concepts-from-llms)
 - Taking features out of superposition with sparse autoencoders [[blog]](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
 - Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning [[pdf]](https://openreview.net/pdf?id=7txPaUpUnc) [[code]](https://github.com/ApolloResearch/e2e_sae)
+- Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words [[pdf]](https://openreview.net/pdf?id=HpUs2EXjOl) [[code]](https://github.com/gouki510/PS-Eval)
 - Llama SAE [[llama3.1-sae]](https://huggingface.co/Goodfire/Llama-3.1-8B-Instruct-SAE-l19) [[llama3.3-sae]](https://huggingface.co/Goodfire/Llama-3.3-70B-Instruct-SAE-l50)
 
 ## Sparse Autoencoders for Vision
