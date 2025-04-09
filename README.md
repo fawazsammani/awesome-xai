@@ -304,6 +304,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SCBM]** Stochastic Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=iSjqTQ5S1f)
 - **[DCR]** Interpretable Neural-Symbolic Concept Reasoning [[pdf]](https://arxiv.org/pdf/2304.14068) [[code]](https://github.com/pietrobarbiero/pytorch_explain)
 - **[SALF-CBM]** Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2502.20134) 
+- **[CEM]** Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off [[pdf]](https://openreview.net/pdf?id=HXCPA2GXf_)
 - Coarse-to-Fine Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=RMdnTnffou) [[code]](https://github.com/konpanousis/Coarse-To-Fine-CBMs)
 - Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
@@ -373,6 +374,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
 - **[Rosetta Neurons]** Mining the Common Units in a Model Zoo [[pdf]](https://arxiv.org/pdf/2306.09346.pdf) [[code]](https://github.com/yossigandelsman/rosetta_neurons) [[website]](https://yossigandelsman.github.io/rosetta_neurons/)
 - **[DEAL]** Disentangle and Localize Concept-level Explanations for VLMs [[pdf]](https://arxiv.org/pdf/2407.14412) [[code]](https://github.com/tangli-udel/DEAL)
+- **[RSVC]** Representational Similarity via Interpretable Visual Concepts [[pdf]](https://openreview.net/pdf?id=ih3BJmIZbC) [[code]](https://github.com/nkondapa/RSVC)
 - Post-hoc Part-prototype Networks [[pdf]](https://arxiv.org/pdf/2406.03421) 
 - Disentangling Neuron Representations with Concept Vectors [[pdf]](https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/OMahony_Disentangling_Neuron_Representations_With_Concept_Vectors_CVPRW_2023_paper.pdf)
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
@@ -380,6 +382,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Interpreting Generative Models
 - **[GAN Dissection]**: Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://openreview.net/pdf?id=Hyg_X2C5FX) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
+- **[GANSpace]** Discovering Interpretable GAN Controls [[pdf]](https://proceedings.neurips.cc/paper/2020/file/6fe43269967adbb64ec6149852b5cc3e-Paper.pdf) [[code]](https://github.com/harskish/ganspace)
 - **[CBGM]** Concept Bottleneck Generative Models [[pdf]](https://openreview.net/pdf?id=L9U5MJJleF) [[code]](https://github.com/prescient-design/CBGM)
 - **[Conceptor]** The Hidden Language of Diffusion Models [[pdf]](https://openreview.net/pdf?id=awWpHnEJDw) [[code]](https://github.com/hila-chefer/Conceptor) [[website]](https://hila-chefer.github.io/Conceptor/)
 - **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
@@ -389,6 +392,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VisCoIN]** Restyling Unsupervised Concept Based Interpretable Networks with Generative Models [[pdf]](https://openreview.net/pdf?id=CexatBp6rx) [[code]](https://github.com/GnRlLeclerc/VisCoIN) [[website]](https://jayneelparekh.github.io/VisCoIN_project_page/)
 - **[Diffusion Explainer]** Visual Explanation for Text-to-image Stable Diffusion [[pdf]](https://arxiv.org/pdf/2305.03509.pdf) [[website]](https://poloclub.github.io/diffusion-explainer/) [[video]](https://www.youtube.com/watch?v=Zg4gxdIWDds&ab_channel=PoloClubofDataScience)
 - **[DiffEx]** Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models [[pdf]](https://arxiv.org/pdf/2412.18604) [[website]](https://explain-in-diffusion.github.io/)
+- **[ConceptExpress]** Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction [[pdf]](https://arxiv.org/pdf/2407.07077) [[code]](https://github.com/haoosz/ConceptExpress)
+- **[ConceptAttention]** Diffusion Transformers Learn Highly Interpretable Features [[pdf]](https://arxiv.org/pdf/2502.04320) [[code]](https://github.com/helblazer811/ConceptAttention) [[website]](https://alechelbling.com/ConceptAttention/) [[demo]](https://huggingface.co/spaces/helblazer811/ConceptAttention)
 - Concept Algebra for (Score-Based) Text-Controlled Generative Models [[pdf]](https://openreview.net/pdf?id=SGlrCuwdsB) [[code]](https://github.com/zihao12/concept-algebra-code)
 - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216) [[code]](https://github.com/hangligit/InterpretDiffusion) [[website]](https://interpretdiffusion.github.io/)
 - Your Diffusion Model is Secretly a Zero-Shot Classifier [[pdf]](https://arxiv.org/pdf/2303.16203) [[code]](https://github.com/diffusion-classifier/diffusion-classifier) [[website]](https://diffusion-classifier.github.io/)
@@ -399,7 +404,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 -  Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs [[pdf]](https://openreview.net/pdf?id=9622QfVSAb) [[code]](https://github.com/mshukor/ima-lmms)
 
 ## Hallucinations in VLMs
+- Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
 - Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
+- **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
+- **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
 
 ## Distill Papers
 - [Distill](https://distill.pub/) 
