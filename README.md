@@ -180,7 +180,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[RelEx]** Building Reliable Explanations of Unreliable Neural Networks: Locally Smoothing Perspective of Model Interpretation [[pdf]](https://arxiv.org/pdf/2103.14332.pdf) [[code]](https://github.com/JBNU-VL/RelEx)
 - **[X-Pruner]** eXplainable Pruning for Vision Transformers [[pdf]](https://arxiv.org/pdf/2303.04935.pdf) [[code]](https://github.com/vickyyu90/XPruner)
 - **[ShearletX]** Explaining Image Classifiers with Multiscale Directional Image Representation [[pdf]](https://arxiv.org/pdf/2211.12857.pdf)
-- **[MACO]** Unlocking Feature Visualization for Deeper Networks with MAgnitude Constrained Optimization [[pdf]](https://arxiv.org/pdf/2306.06805.pdf) [[website]](https://serre-lab.github.io/Lens/)
 - **[Guided Zoom]** Questioning Network Evidence for Fine-Grained Classification [[pdf]](https://arxiv.org/pdf/1812.02626.pdf) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335497) [[code]](https://github.com/andreazuna89/Guided-Zoom)
 - **[CNC]** Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations [[pdf]](https://arxiv.org/pdf/2203.01517.pdf)
 - **[SalientImageNet]** How to discover spurious features in Deep Learning? [[pdf]](https://openreview.net/pdf/078e6e26ef046a2af14430f17a7b149613824cc7.pdf) [[code]](https://github.com/singlasahil14/salient_imagenet)
@@ -278,7 +277,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[GradViT]** Gradient Inversion of Vision Transformers [[pdf]](https://arxiv.org/pdf/2203.11894.pdf)
 - **[Plug-In Inversion]** Model-Agnostic Inversion for Vision with Data Augmentations [[pdf]](https://proceedings.mlr.press/v162/ghiasi22a/ghiasi22a.pdf) 
 - **[GIFD]** A Generative Gradient Inversion Method with Feature Domain Optimization [[pdf]](https://arxiv.org/pdf/2308.04699.pdf)
-
+- **[MACO]** Unlocking Feature Visualization for Deeper Networks with MAgnitude Constrained Optimization [[pdf]](https://arxiv.org/pdf/2306.06805.pdf) [[website]](https://serre-lab.github.io/Lens/)
 
 ## Neuron Annotation
 - **[Network Dissection]**: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
