@@ -34,7 +34,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1904.00605.pdf)
 - Transformer Interpretability Beyond Attention Visualization [[pdf]](https://arxiv.org/pdf/2012.09838.pdf) [[code]](https://github.com/hila-chefer/Transformer-Explainability) [[video]](https://www.youtube.com/watch?v=a0O_QhE9XFM&ab_channel=DataScienceBond)
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
-- Optimizing Relevance Maps of Vision Transformers Improves Robustness [[pdf]](https://arxiv.org/pdf/2206.01161.pdf) [[code]](https://github.com/hila-chefer/RobustViT)
 - Investigating the influence of noise and distractors on the interpretation of neural networks [[pdf]](https://arxiv.org/pdf/1611.07270.pdf)
 - Do Explanations Explain? Model Knows Best [[pdf]](https://arxiv.org/pdf/2203.02269.pdf) [[code]](https://github.com/CAMP-eXplain-AI/Do-Explanations-Explain)
 - Visualizing Deep Neural Network Decisions: Prediction Difference Analysis [[pdf]](https://arxiv.org/pdf/1702.04595.pdf) [[code]](https://github.com/lmzintgraf/DeepVis-PredDiff)
@@ -63,8 +62,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Monitoring Shortcut Learning using Mutual Information [[pdf]](https://arxiv.org/pdf/2206.13034.pdf)
 - Dissecting Deep Learning Networks - Visualizing Mutual Information [[pdf]](https://www.mdpi.com/1099-4300/20/11/823)
 - Revisiting Backpropagation Saliency Methods [[pdf]](https://arxiv.org/pdf/2004.02866.pdf)
-- Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
-- Understanding Integrated Gradients with SmoothTaylor for Deep Neural Network Attribution [[pdf]](https://arxiv.org/pdf/2004.10484.pdf)
 - Understanding Deep Networks via Extremal Perturbations and Smooth Masks [[pdf]](https://arxiv.org/pdf/1910.08485.pdf) [[code]](https://github.com/facebookresearch/TorchRay)
 - Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/1908.02686.pdf)
 - Towards Robust Interpretability with Self-Explaining Neural Networks [[pdf]](https://arxiv.org/pdf/1806.07538.pdf)
@@ -92,14 +89,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [[pdf]](https://arxiv.org/pdf/1703.03717.pdf)
 - Understanding Black-box Predictions via Influence Functions [[pdf]](https://arxiv.org/pdf/1703.04730.pdf) [[code]](https://github.com/nimarb/pytorch_influence_functions)
 - Unmasking Clever Hans predictors and assessing what machines really learn [[pdf]](https://www.nature.com/articles/s41467-019-08987-4.pdf)
-- Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation [[pdf]](https://arxiv.org/pdf/1903.10992.pdf)
 - Towards Generating Human-Centered Saliency Maps without Sacrificing Accuracy [[blog]](https://katelyn98.github.io/blog/2022/vlr-project/)
 - Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[pip]](https://pypi.org/project/weightwatcher/) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
 - How Do Training Methods Influence the Utilization of Vision Models? [[pdf]](https://openreview.net/pdf?id=zJFvjdW9JS) [[code]](https://github.com/paulgavrikov/layer_criticality)
 - Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces [[pdf]](https://arxiv.org/pdf/2212.14855.pdf)
-- Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf) [[code]](https://github.com/ytongbai/ViTs-vs-CNNs)
-- Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [[pdf]](https://arxiv.org/pdf/2106.13122.pdf) [[code]](https://github.com/katelyn98/CorruptionRobustness)
 - Explanatory Interactive Machine Learning [[pdf]](https://ml-research.github.io/papers/teso2019aies_XIML.pdf)
 - Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets [[pdf]](https://ceur-ws.org/Vol-2444/ialatecml_paper1.pdf)
 - Studying How to Efficiently and Effectively Guide Models with Explanations [[pdf]](https://arxiv.org/pdf/2303.11932) [[code]](https://github.com/sukrutrao/Model-Guidance)
@@ -112,7 +106,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Identifying Spurious Correlations and Correcting them with an Explanation-based Learning [[pdf]](https://arxiv.org/pdf/2211.08285.pdf)
 - Visual Attention Consistency under Image Transforms for Multi-Label Image Classification [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)
 - Improving performance of deep learning models with axiomatic attribution priors and expected gradients [[pdf]](https://arxiv.org/pdf/1906.10670.pdf)
-- Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf)
 - Fast Axiomatic Attribution for Neural Networks [[pdf]](https://arxiv.org/pdf/2111.07668.pdf) [[code]](https://github.com/visinf/fast-axiomatic-attribution)
 - Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation [[pdf]](https://arxiv.org/pdf/1902.00407.pdf)
 - Detecting Statistical Interactions from Neural Network Weights [[pdf]](https://arxiv.org/pdf/1705.04977.pdf)
@@ -123,7 +116,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Similarity of Neural Network Representations Revisited [[pdf]](https://arxiv.org/pdf/1905.00414)
 - Benchmarking the Attribution Quality of Vision Models [[pdf]](https://arxiv.org/pdf/2407.11910) [[code]](https://github.com/visinf/idsds)
 - How Do Training Methods Influence the Utilization of Vision Models? [[pdf]](https://arxiv.org/pdf/2410.14470) [[code]](https://github.com/paulgavrikov/layer_criticality)
-- Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
 - Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - Simple Yet Effective Techniques for Improving Post-hoc Explanations [[pdf]](https://openreview.net/pdf?id=57NfyYxh5f) [[code]](https://github.com/sidgairo18/how-to-probe)
@@ -306,6 +298,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Feats2Text
 - Text-To-Concept (and Back) via Cross-Model Alignment [[pdf]](https://arxiv.org/pdf/2305.06386)
+- **[LVX]** Language Model as Visual Explainer [[pdf]](https://openreview.net/pdf?id=Dsi8Ibxg9H)
 - **[ZS-A2T]** Zero-shot Translation of Attention Patterns in VQA Models to Natural Language [[pdf]](https://arxiv.org/pdf/2311.05043.pdf) [[code]](https://github.com/ExplainableML/ZS-A2T)
 
 ## Prototype and Concept-Based
@@ -370,6 +363,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Concept Algebra for (Score-Based) Text-Controlled Generative Models [[pdf]](https://openreview.net/pdf?id=SGlrCuwdsB) [[code]](https://github.com/zihao12/concept-algebra-code)
 - Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation [[pdf]](https://arxiv.org/pdf/2311.17216) [[code]](https://github.com/hangligit/InterpretDiffusion) [[website]](https://interpretdiffusion.github.io/)
 - Your Diffusion Model is Secretly a Zero-Shot Classifier [[pdf]](https://arxiv.org/pdf/2303.16203) [[code]](https://github.com/diffusion-classifier/diffusion-classifier) [[website]](https://diffusion-classifier.github.io/)
+- Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models [[pdf]](https://arxiv.org/pdf/2306.05357) [[code]](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery) [[website]](https://energy-based-model.github.io/unsupervised-concept-discovery/)
+- Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
 
 ## Modality Gap in VLMs
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
@@ -380,6 +375,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
 - Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
 - Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs) [[pdf]](https://openreview.net/pdf?id=oStNAMWELS) [[code]](https://github.com/ExplainableML/vla-gender-bias)
+- **[VTI]** Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering [[pdf]](https://openreview.net/pdf?id=LBl7Hez0fF) [[code]](https://github.com/shengliu66/VTI)
 - **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
 - **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
 
@@ -391,12 +387,16 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/pdf?id=Pj4Aid3XqL)
 - Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
 - Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
+- MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=DgaY5mDdmT) [[code]](https://github.com/saccharomycetes/mllms_know)
+- Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf) [[code]](https://github.com/Heidelberg-NLP/CC-SHAP-VLM)
+- Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
 - **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
 - **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
+- **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
 
 ## Evaluation of XAI
 - On the (In)fidelity and Sensitivity of Explanations [[pdf]](https://arxiv.org/pdf/1901.09392.pdf) [[code]](https://github.com/chihkuanyeh/saliency_evaluation)
@@ -415,6 +415,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SAFARI]** Versatile and Efficient Evaluations for Robustness of Interpretability [[pdf]](https://arxiv.org/pdf/2208.09418.pdf)
 - **[InterpBench]** Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques [[pdf]](https://openreview.net/pdf?id=R9gR9MPuD5)
 - **[FunnyBirds]** A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods [[pdf]](https://arxiv.org/pdf/2308.06248.pdf) [[code]](https://github.com/visinf/funnybirds/)
+
+## Robsuness of ViTs
+- Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf) [[code]](https://github.com/ytongbai/ViTs-vs-CNNs)
+- Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [[pdf]](https://arxiv.org/pdf/2106.13122.pdf) [[code]](https://github.com/katelyn98/CorruptionRobustness)
+- Missingness Bias in Model Debugging [[pdf]](https://openreview.net/pdf?id=Te5ytkqsnl) [[code]](https://github.com/MadryLab/missingness)
+- Are Vision Transformers Robust to Patch Perturbations? [[pdf]](https://arxiv.org/pdf/2111.10659)
+- Optimizing Relevance Maps of Vision Transformers Improves Robustness [[pdf]](https://arxiv.org/pdf/2206.01161.pdf) [[code]](https://github.com/hila-chefer/RobustViT)
 
 ## Distill Papers
 - [Distill](https://distill.pub/) 
