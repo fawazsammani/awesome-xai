@@ -79,7 +79,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visualizing Deep Similarity Networks [[pdf]](https://arxiv.org/pdf/1901.00536.pdf) [[code]](https://github.com/GWUvision/Similarity-Visualization)
 - Improving Deep Learning Interpretability by Saliency Guided Training [[pdf]](https://arxiv.org/pdf/2111.14338.pdf) [[code]](https://github.com/ayaabdelsalam91/saliency_guided_training)
 - Understanding Prediction Discrepancies in Machine Learning Classifiers [[pdf]](https://arxiv.org/pdf/2104.05467.pdf)
-- Intriguing Properties of Vision Transformers [[pdf]](https://arxiv.org/pdf/2105.10497.pdf) [[code]](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)
 - From Clustering to Cluster Explanations via Neural Networks [[pdf]](https://arxiv.org/pdf/1906.07633.pdf)
 - Compositional Explanations of Neurons [[pdf]](https://arxiv.org/pdf/2006.14032.pdf)
 - What Does CNN Shift Invariance Look Like? A Visualization Study [[pdf]](https://arxiv.org/pdf/2011.04127.pdf) [[code]](https://github.com/jakehlee/interactive-invariance) [[project]](https://jakehlee.github.io/visualize-invariance)
@@ -422,6 +421,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Missingness Bias in Model Debugging [[pdf]](https://openreview.net/pdf?id=Te5ytkqsnl) [[code]](https://github.com/MadryLab/missingness)
 - Are Vision Transformers Robust to Patch Perturbations? [[pdf]](https://arxiv.org/pdf/2111.10659)
 - Optimizing Relevance Maps of Vision Transformers Improves Robustness [[pdf]](https://arxiv.org/pdf/2206.01161.pdf) [[code]](https://github.com/hila-chefer/RobustViT)
+- Intriguing Properties of Vision Transformers [[pdf]](https://arxiv.org/pdf/2105.10497.pdf) [[code]](https://github.com/Muzammal-Naseer/Intriguing-Properties-of-Vision-Transformers)
 
 ## Distill Papers
 - [Distill](https://distill.pub/) 
