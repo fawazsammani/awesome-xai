@@ -70,7 +70,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
 - How Do Training Methods Influence the Utilization of Vision Models? [[pdf]](https://openreview.net/pdf?id=zJFvjdW9JS) [[code]](https://github.com/paulgavrikov/layer_criticality)
 - Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces [[pdf]](https://arxiv.org/pdf/2212.14855.pdf)
-- Explanatory Interactive Machine Learning [[pdf]](https://ml-research.github.io/papers/teso2019aies_XIML.pdf)
 - Toward Faithful Explanatory Active Learning with Self-explainable Neural Nets [[pdf]](https://ceur-ws.org/Vol-2444/ialatecml_paper1.pdf)
 - Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias [[pdf]](https://arxiv.org/pdf/2001.03152.pdf)
 - On Guiding Visual Attention with Language Specification [[pdf]](https://arxiv.org/pdf/2202.08926.pdf)
