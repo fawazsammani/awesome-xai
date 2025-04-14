@@ -542,6 +542,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
 - Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
 - Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Beyond_Interpretability)
+- Steering CLIP’s vision transformer with sparse autoencoders [[pdf]](https://arxiv.org/pdf/2504.08729)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae)
 
 ## XAI for NLP
