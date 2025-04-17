@@ -343,6 +343,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Your Diffusion Model is Secretly a Zero-Shot Classifier [[pdf]](https://arxiv.org/pdf/2303.16203) [[code]](https://github.com/diffusion-classifier/diffusion-classifier) [[website]](https://diffusion-classifier.github.io/)
 - Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models [[pdf]](https://arxiv.org/pdf/2306.05357) [[code]](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery) [[website]](https://energy-based-model.github.io/unsupervised-concept-discovery/)
 - Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
+- Extracting Training Data from Diffusion Models [[pdf]](https://arxiv.org/pdf/2301.13188) 
 
 ## Modality Gap in VLMs
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
