@@ -360,7 +360,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
-- Are Vision Language Models Texture or Shape Biased and Can We Steer Them? [[pdf]](https://arxiv.org/pdf/2403.09193)
 - Can we talk models into seeing the world differently? [[pdf]](https://openreview.net/pdf?id=iVMcYxTiVM) [[code]](https://github.com/paulgavrikov/vlm_shapebias)
 - Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
 - Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
