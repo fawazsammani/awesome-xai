@@ -215,7 +215,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ECBMs]** Energy-Based Concept Bottleneck Models: Unifying Prediction, Concept Intervention, and Probabilistic Interpretations [[pdf]](https://arxiv.org/pdf/2401.14142) [[code]](https://github.com/xmed-lab/ECBM)
 - **[OpenCBM]** Concept Bottleneck Model with Open Vocabulary Concepts [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11588.pdf) 
 - **[VLG-CBM]** Training Concept Bottleneck Models with Vision-Language Guidance [[pdf]](https://openreview.net/pdf?id=Jm2aK3sDJD) [[code]](https://github.com/Trustworthy-ML-Lab/VLG-CBM)
-- **[SCBM]** Stochastic Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=iSjqTQ5S1f)
 - **[DCR]** Interpretable Neural-Symbolic Concept Reasoning [[pdf]](https://arxiv.org/pdf/2304.14068) [[code]](https://github.com/pietrobarbiero/pytorch_explain)
 - **[SALF-CBM]** Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2502.20134) 
 - **[CEM]** Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off [[pdf]](https://openreview.net/pdf?id=HXCPA2GXf_)
