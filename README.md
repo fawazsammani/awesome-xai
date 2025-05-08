@@ -219,7 +219,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CEM]** Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off [[pdf]](https://openreview.net/pdf?id=HXCPA2GXf_)
 - **[CONDA]** Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts [[pdf]](https://openreview.net/pdf?id=8sfc8MwG5v) [[code]](https://github.com/jihyechoi77/CONDA)
 - Coarse-to-Fine Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=RMdnTnffou) [[code]](https://github.com/konpanousis/Coarse-To-Fine-CBMs)
-- Promises and Pitfalls of Black-Box Concept Learning Models [[pdf]](https://arxiv.org/pdf/2106.13314.pdf)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 - Interactive Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2212.07430)
 - Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable? [[pdf]](https://openreview.net/pdf?id=KYHma7hzjr)
