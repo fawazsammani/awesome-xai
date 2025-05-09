@@ -315,6 +315,14 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
+## Hallucinations in VLMs
+- Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
+- Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
+- Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs) [[pdf]](https://openreview.net/pdf?id=oStNAMWELS) [[code]](https://github.com/ExplainableML/vla-gender-bias)
+- **[VTI]** Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering [[pdf]](https://openreview.net/pdf?id=LBl7Hez0fF) [[code]](https://github.com/shengliu66/VTI)
+- **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
+- **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
+
 ## Activation Steering
 - **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
@@ -350,14 +358,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
 -  Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models [[pdf]](https://openreview.net/pdf?id=uAFHCZRmXk) [[code]](https://github.com/lmb-freiburg/two-effects-one-trigger)
 -  Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs [[pdf]](https://openreview.net/pdf?id=9622QfVSAb) [[code]](https://github.com/mshukor/ima-lmms)
-
-## Hallucinations in VLMs
-- Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
-- Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
-- Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs) [[pdf]](https://openreview.net/pdf?id=oStNAMWELS) [[code]](https://github.com/ExplainableML/vla-gender-bias)
-- **[VTI]** Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering [[pdf]](https://openreview.net/pdf?id=LBl7Hez0fF) [[code]](https://github.com/shengliu66/VTI)
-- **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
-- **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
