@@ -328,6 +328,31 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 
+## Interpreting and Analyzing VLMs
+- Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
+- Can we talk models into seeing the world differently? [[pdf]](https://openreview.net/pdf?id=iVMcYxTiVM) [[code]](https://github.com/paulgavrikov/vlm_shapebias)
+- Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
+- Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
+- Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/pdf?id=Pj4Aid3XqL)
+- Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
+- Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
+- MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=DgaY5mDdmT) [[code]](https://github.com/saccharomycetes/mllms_know)
+- Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf) [[code]](https://github.com/Heidelberg-NLP/CC-SHAP-VLM)
+- Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
+- **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
+- **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
+- **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
+- Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
+- **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
+- **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
+- **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
+- **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
+
+## Modality Gap in VLMs
+-  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
+-  Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models [[pdf]](https://openreview.net/pdf?id=uAFHCZRmXk) [[code]](https://github.com/lmb-freiburg/two-effects-one-trigger)
+-  Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs [[pdf]](https://openreview.net/pdf?id=9622QfVSAb) [[code]](https://github.com/mshukor/ima-lmms)
+
 ## Interpreting Generative Models
 - **[GAN Dissection]**: Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://openreview.net/pdf?id=Hyg_X2C5FX) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
 - **[GANSpace]** Discovering Interpretable GAN Controls [[pdf]](https://proceedings.neurips.cc/paper/2020/file/6fe43269967adbb64ec6149852b5cc3e-Paper.pdf) [[code]](https://github.com/harskish/ganspace)
@@ -353,31 +378,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models [[pdf]](https://arxiv.org/pdf/2306.05357) [[code]](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery) [[website]](https://energy-based-model.github.io/unsupervised-concept-discovery/)
 - Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
 - Extracting Training Data from Diffusion Models [[pdf]](https://arxiv.org/pdf/2301.13188) 
-
-## Modality Gap in VLMs
--  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
--  Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models [[pdf]](https://openreview.net/pdf?id=uAFHCZRmXk) [[code]](https://github.com/lmb-freiburg/two-effects-one-trigger)
--  Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs [[pdf]](https://openreview.net/pdf?id=9622QfVSAb) [[code]](https://github.com/mshukor/ima-lmms)
-
-## Interpreting and Analyzing VLMs
-- Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
-- Can we talk models into seeing the world differently? [[pdf]](https://openreview.net/pdf?id=iVMcYxTiVM) [[code]](https://github.com/paulgavrikov/vlm_shapebias)
-- Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
-- Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
-- Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/pdf?id=Pj4Aid3XqL)
-- Visual Classification via Description from Large Language Models [[pdf]](https://arxiv.org/pdf/2210.07183.pdf) [[code]](https://github.com/sachit-menon/classify_by_description_release) [[website]](https://cv.cs.columbia.edu/sachit/classviadescr/)
-- Disentangling visual and written concepts in CLIP [[pdf]](https://arxiv.org/pdf/2206.07835.pdf) [[code]](https://github.com/joaanna/disentangling_spelling_in_clip) [[website]](https://joaanna.github.io/disentangling_spelling_in_clip/)
-- MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=DgaY5mDdmT) [[code]](https://github.com/saccharomycetes/mllms_know)
-- Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf) [[code]](https://github.com/Heidelberg-NLP/CC-SHAP-VLM)
-- Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
-- **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
-- **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
-- **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
-- Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
-- **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
-- **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
-- **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
-- **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
 
 ## Evaluation of XAI
 - On the (In)fidelity and Sensitivity of Explanations [[pdf]](https://arxiv.org/pdf/1901.09392.pdf) [[code]](https://github.com/chihkuanyeh/saliency_evaluation)
