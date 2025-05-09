@@ -85,7 +85,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Similarity of Neural Network Representations Revisited [[pdf]](https://arxiv.org/pdf/1905.00414)
 - How Do Training Methods Influence the Utilization of Vision Models? [[pdf]](https://arxiv.org/pdf/2410.14470) [[code]](https://github.com/paulgavrikov/layer_criticality)
 - Understanding Visual Feature Reliance through the Lens of Complexity [[pdf]](https://openreview.net/pdf?id=NhqZpst42I) 
-- Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - Vision Transformers Need Registers [[pdf]](https://openreview.net/pdf?id=2dnO3LLiJ1) 
 - **[TracIn]** Estimating Training Data Influence by Tracing Gradient Descent [[pdf]](https://arxiv.org/pdf/2002.08484.pdf) [[code]](https://github.com/frederick0329/TracIn) [[code]](https://github.com/ovyan/TracIn)
 - **[TrackStar]** Scalable Influence and Fact Tracing for Large Language Model Pretraining [[pdf]](https://openreview.net/pdf?id=gLa96FlWwn) [[code]](https://github.com/pair-code/pretraining-tda) [[blog]](https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da)
@@ -316,6 +315,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
+## Activation Steering
+- **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
+- Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
+- Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
+
 ## Interpreting Generative Models
 - **[GAN Dissection]**: Visualizing and Understanding Generative Adversarial Networks [[pdf]](https://openreview.net/pdf?id=Hyg_X2C5FX) [[code]](https://github.com/CSAILVision/GANDissect) [[website]](http://gandissect.csail.mit.edu/)
 - **[GANSpace]** Discovering Interpretable GAN Controls [[pdf]](https://proceedings.neurips.cc/paper/2020/file/6fe43269967adbb64ec6149852b5cc3e-Paper.pdf) [[code]](https://github.com/harskish/ganspace)
@@ -324,7 +328,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DAAM]** Interpreting Stable Diffusion Using Cross Attention [[pdf]](https://arxiv.org/pdf/2210.04885.pdf) [[code]](https://github.com/castorini/daam) [[demo]](https://huggingface.co/spaces/tetrisd/Diffusion-Attentive-Attribution-Maps)
 - **[CB-AE]** Interpretable Generative Models through Post-hoc Concept Bottlenecks [[pdf]](https://arxiv.org/pdf/2503.19377) [[code]](https://github.com/Trustworthy-ML-Lab/posthoc-generative-cbm) [[website]](https://lilywenglab.github.io/posthoc-generative-cbm/)
 - **[Cones]** Concept Neurons in Diffusion Models for Customized Generation [[pdf]](https://proceedings.mlr.press/v202/liu23j/liu23j.pdf)
-- **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - **[VisCoIN]** Restyling Unsupervised Concept Based Interpretable Networks with Generative Models [[pdf]](https://openreview.net/pdf?id=CexatBp6rx) [[code]](https://github.com/GnRlLeclerc/VisCoIN) [[website]](https://jayneelparekh.github.io/VisCoIN_project_page/)
 - **[Diffusion Explainer]** Visual Explanation for Text-to-image Stable Diffusion [[pdf]](https://arxiv.org/pdf/2305.03509.pdf) [[website]](https://poloclub.github.io/diffusion-explainer/) [[video]](https://www.youtube.com/watch?v=Zg4gxdIWDds&ab_channel=PoloClubofDataScience)
 - **[DiffEx]** Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models [[pdf]](https://arxiv.org/pdf/2412.18604) [[website]](https://explain-in-diffusion.github.io/)
@@ -586,7 +589,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Causal Scrubbing: a method for rigorously testing interpretability hypotheses [[blog]](https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing)
 - Contrastive Explanations for Model Interpretability [[pdf]](https://arxiv.org/pdf/2103.01378) [[code]](https://github.com/allenai/contrastive-explanations)
 - Low-Complexity Probing via Finding Subnetworks [[pdf]](https://arxiv.org/pdf/2104.03514) [[code]](https://github.com/stevenxcao/subnetwork-probing)
-- Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Robust Detection of Lies in LLMs [[pdf]](https://openreview.net/pdf?id=1Fc2Xa2cDK)
 - Where does In-context Learning Happen in Large Language Models? [[pdf]](https://openreview.net/pdf?id=LLuSjg59an) [[code]](https://github.com/suzyahyah/where_does_in-context-learning_happen_in_LLMs)
 - Interpreting Learned Feedback Patterns in Large Language Models [[pdf]](https://openreview.net/pdf?id=xUoNgR1Byy)
