@@ -317,6 +317,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Activation Steering
 - **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
+- **[ActAdd]** Steering Language Models Without Optimization [[pdf]](https://arxiv.org/pdf/2308.10248v4)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 
@@ -329,6 +330,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
 - **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
 - **[PerturboLLaVA]** Reducing Multimodal Hallucinations with Perturbative Visual Training [[pdf]](https://openreview.net/pdf?id=j4LITBSUjs) [[code]](https://github.com/aim-uofa/PerturboLLaVA)
+- **[SID]** Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=rsZwwjYHuD)
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
@@ -375,6 +377,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[STEREO]** A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models [[pdf]](https://arxiv.org/pdf/2408.16807) [[code]](https://github.com/koushiksrivats/robust-concept-erasing)
 - **[CONFORM]** Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models [[pdf]](https://arxiv.org/pdf/2312.06059) [[code]](https://github.com/gemlab-vt/CONFORM) [[website]](https://conform-diffusion.github.io/)
 - **[Self-Guidance]** Diffusion Self-Guidance for Controllable Image Generation [[pdf]](https://openreview.net/pdf?id=qgv56R2YJ7) [[website]](https://dave.ml/selfguidance/)
+- **[DIFT]** Emergent Correspondence from Image Diffusion [[pdf]](https://openreview.net/pdf?id=ypOiXjdfnU) [[code]](https://github.com/Tsingularity/dift) [[website]](https://diffusionfeatures.github.io/) [[colab]](https://colab.research.google.com/drive/1km6MGafhAvbPOouD3oo64aUXgLlWM6L1?usp=sharing)
+- **[Asyrp]** Diffusion Models Already Have A Semantic Latent Space [[pdf]](https://openreview.net/pdf?id=pd1P2eUBVfq) [[code]](https://github.com/kwonminki/Asyrp_official) [[website]](https://kwonminki.github.io/Asyrp/)
+- **[I2AM]** Interpreting Image-to-Image Latent Diffusion Models via Bi-Attribution Maps [[pdf]](https://openreview.net/pdf?id=bBNUiErs26)
+- **[SAeUron]** Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2501.18052) [[code]](https://github.com/cywinski/SAeUron)
+- **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://arxiv.org/pdf/2502.03714) 
+- Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
+- Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
 - Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing [[pdf]](https://arxiv.org/pdf/2403.03431) [[code]](https://github.com/alibaba/EasyNLP/tree/master/diffusion/FreePromptEditing)
 - Training-Free Layout Control with Cross-Attention Guidance [[pdf]](https://arxiv.org/pdf/2304.03373) [[code]](https://github.com/silent-chen/layout-guidance) [[website]](https://silent-chen.github.io/layout-guidance/)
 - Prompt-to-Prompt Image Editing with Cross Attention Control [[pdf]](https://arxiv.org/pdf/2208.01626) [[code]](https://github.com/google/prompt-to-prompt/) [[website]](https://prompt-to-prompt.github.io/)
@@ -406,6 +415,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SAFARI]** Versatile and Efficient Evaluations for Robustness of Interpretability [[pdf]](https://arxiv.org/pdf/2208.09418.pdf)
 - **[InterpBench]** Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques [[pdf]](https://openreview.net/pdf?id=R9gR9MPuD5)
 - **[FunnyBirds]** A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods [[pdf]](https://arxiv.org/pdf/2308.06248.pdf) [[code]](https://github.com/visinf/funnybirds/)
+- **[F-Fidelity]** A Robust Framework for Faithfulness Evaluation of Explainable AI [[pdf]](https://openreview.net/pdf?id=X0r4BN50Dv)
 
 ## Robsuness of ViTs
 - Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf) [[code]](https://github.com/ytongbai/ViTs-vs-CNNs)
@@ -547,16 +557,16 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Taking features out of superposition with sparse autoencoders [[blog]](https://www.lesswrong.com/posts/z6QQJbtpkEAX3Aojj/interim-research-report-taking-features-out-of-superposition)
 - Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning [[pdf]](https://openreview.net/pdf?id=7txPaUpUnc) [[code]](https://github.com/ApolloResearch/e2e_sae)
 - Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words [[pdf]](https://openreview.net/pdf?id=HpUs2EXjOl) [[code]](https://github.com/gouki510/PS-Eval)
+- Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control [[pdf]](https://arxiv.org/pdf/2405.08366)
 - Negative Results for Sparse Autoencoders On Downstream Tasks and Deprioritising SAE Research (Mechanistic Interpretability Team Progress Update) [[blog]](https://deepmindsafetyresearch.medium.com/negative-results-for-sparse-autoencoders-on-downstream-tasks-and-deprioritising-sae-research-6cadcfc125b9)
 - Llama SAE [[llama3.1-sae]](https://huggingface.co/Goodfire/Llama-3.1-8B-Instruct-SAE-l19) [[llama3.3-sae]](https://huggingface.co/Goodfire/Llama-3.3-70B-Instruct-SAE-l50)
 
 ## Sparse Autoencoders for Vision
 - Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers [[blog]](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2)
-- Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
-- Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
 - Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Beyond_Interpretability)
 - Steering CLIP’s vision transformer with sparse autoencoders [[pdf]](https://arxiv.org/pdf/2504.08729)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae)
+- **[MSAE]** Interpreting CLIP with Hierarchical Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2502.20578)
 
 ## XAI for NLP
 - Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned [[pdf]](https://arxiv.org/pdf/1905.09418.pdf) [[code]](https://github.com/lena-voita/the-story-of-heads)
@@ -601,6 +611,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model [[pdf]](https://openreview.net/pdf?id=p4PckNQR8k)
 - The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation [[pdf]](https://arxiv.org/pdf/2412.04318)
 - Measuring the Faithfulness of Large Language Model Explanations [[pdf]](https://openreview.net/pdf?id=4ub9gpx9xw)
+- Do LLMs ``know'' internally when they follow instructions? [[pdf]](https://openreview.net/pdf?id=qIN5VDdEOr) [[code]](https://github.com/apple/ml-internal-llms-instruction-following)
 - Visualizing the Reasoning Process of Large Language Models [[pdf]](https://arxiv.org/pdf/2503.22165) [[code]](https://github.com/tmlr-group/landscape-of-thoughts)
 - The Same but Different: Structural Similarities and Differences in Multilingual Language Modeling [[pdf]](https://openreview.net/pdf?id=NCrFA7dq8T)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
