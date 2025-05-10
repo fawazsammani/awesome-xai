@@ -100,6 +100,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP) [[video]](https://www.youtube.com/watch?v=RLaiomLMK9I&ab_channel=AICoffeeBreakwithLetitia)
 - **[BiLRP]** Building and Interpreting Deep Similarity Models [[pdf]](https://arxiv.org/pdf/2003.05431.pdf) [[code]](https://github.com/oeberle/BiLRP_explain_similarity)
 - **[CGC]** Consistent Explanations by Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.00527.pdf) [[code]](https://github.com/UCDvision/CGC)
+- **[IIS]** Enhancing Pre-trained Representation Classifiability can Boost its Interpretability [[pdf]](https://openreview.net/pdf?id=GjfIZan5jN) [[code]](https://github.com/ssfgunner/IIS)
 - **[X-OIA]** Explainable Object-induced Action Decision for Autonomous Vehicles [[pdf]](https://arxiv.org/pdf/2003.09405.pdf) [[code]](https://github.com/Twizwei/bddoia_project) [[website]](https://twizwei.github.io/bddoia_project/) 
 - **[CAT-XPLAIN]** Causality for Inherently Explainable Transformers [[pdf]](https://arxiv.org/pdf/2206.14841.pdf) [[code]](https://github.com/mvrl/CAT-XPLAIN)
 - **[REX]** Reasoning-aware and Grounded Explanation [[pdf]](https://arxiv.org/pdf/2203.06107) [[code]](https://github.com/szzexpoi/rex)
@@ -632,6 +633,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - The Same but Different: Structural Similarities and Differences in Multilingual Language Modeling [[pdf]](https://openreview.net/pdf?id=NCrFA7dq8T)
 - Weight Ensembling Improves Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2504.10478)
 - Demystifying Long Chain-of-Thought Reasoning in LLMs [[pdf]](https://openreview.net/pdf?id=AgtQlhMQ0V)
+- Idiosyncrasies in Large Language Models [[pdf]](https://arxiv.org/pdf/2502.12150) [[code]](https://github.com/locuslab/llm-idiosyncrasies) [[website]](https://eric-mingjie.github.io/llm-idiosyncrasies/index.html)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
