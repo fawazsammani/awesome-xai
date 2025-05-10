@@ -67,6 +67,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Unmasking Clever Hans predictors and assessing what machines really learn [[pdf]](https://www.nature.com/articles/s41467-019-08987-4.pdf)
 - Towards Generating Human-Centered Saliency Maps without Sacrificing Accuracy [[blog]](https://katelyn98.github.io/blog/2022/vlr-project/)
 - Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data [[pdf]](https://arxiv.org/pdf/2002.06716.pdf) [[code]](https://github.com/CalculatedContent/ww-trends-2020) [[code]](https://github.com/CalculatedContent/WeightWatcher) [[pip]](https://pypi.org/project/weightwatcher/) [[powerlaw]](https://github.com/jeffalstott/powerlaw)
+- Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction [[pdf]](https://arxiv.org/pdf/2503.17138)
 - Exploring Explainability for Vision Transformers [[blog]](https://jacobgil.github.io/deeplearning/vision-transformer-explainability) [[code]](https://github.com/jacobgil/vit-explain)
 - How Do Training Methods Influence the Utilization of Vision Models? [[pdf]](https://openreview.net/pdf?id=zJFvjdW9JS) [[code]](https://github.com/paulgavrikov/layer_criticality)
 - Disentangled Explanations of Neural Network Predictions by Finding Relevant Subspaces [[pdf]](https://arxiv.org/pdf/2212.14855.pdf)
@@ -94,6 +95,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Beyond Accuracy: Ensuring Correct Predictions With Correct Rationales [[pdf]](https://openreview.net/pdf?id=ADV0Pzi3Ol) [[code]](https://github.com/deep-real/DCP)
 - **[Layer Masking]** Towards Improved Input Masking for Convolutional Neural Networks [[pdf]](https://arxiv.org/pdf/2211.14646.pdf) [[code]](https://github.com/SriramB-98/layer_masking)
 - **[Summit]** Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations [[pdf]](https://arxiv.org/pdf/1904.02323.pdf)
+- **[NeurFlow]** Interpreting Neural Networks through Neuron Groups and Functional Interactions [[pdf]](https://openreview.net/pdf?id=GdbQyFOUlJ) [[code]](https://github.com/tue147/neurflow)
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP) [[video]](https://www.youtube.com/watch?v=RLaiomLMK9I&ab_channel=AICoffeeBreakwithLetitia)
 - **[BiLRP]** Building and Interpreting Deep Similarity Models [[pdf]](https://arxiv.org/pdf/2003.05431.pdf) [[code]](https://github.com/oeberle/BiLRP_explain_similarity)
@@ -217,6 +219,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SALF-CBM]** Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2502.20134) 
 - **[CEM]** Concept Embedding Models: Beyond the Accuracy-Explainability Trade-Off [[pdf]](https://openreview.net/pdf?id=HXCPA2GXf_)
 - **[CONDA]** Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts [[pdf]](https://openreview.net/pdf?id=8sfc8MwG5v) [[code]](https://github.com/jihyechoi77/CONDA)
+- **[CB-LLMs]** Concept Bottleneck Large Language Models [[pdf]](https://openreview.net/pdf?id=RC5FPYVQaH) [[code]](https://github.com/Trustworthy-ML-Lab/CB-LLMs)
 - Coarse-to-Fine Concept Bottleneck Models [[pdf]](https://openreview.net/pdf?id=RMdnTnffou) [[code]](https://github.com/konpanousis/Coarse-To-Fine-CBMs)
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 - Interactive Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2212.07430)
@@ -320,6 +323,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ActAdd]** Steering Language Models Without Optimization [[pdf]](https://arxiv.org/pdf/2308.10248v4)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
+- Improving Reasoning Performance in Large Language Models via Representation Engineering [[pdf]](https://openreview.net/pdf?id=IssPhpUsKt) [[code]](https://github.com/bertramhojer/improve-reasoning-iclr-2025)
 
 ## Hallucinations in VLMs
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
@@ -331,6 +335,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
 - **[PerturboLLaVA]** Reducing Multimodal Hallucinations with Perturbative Visual Training [[pdf]](https://openreview.net/pdf?id=j4LITBSUjs) [[code]](https://github.com/aim-uofa/PerturboLLaVA)
 - **[SID]** Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=rsZwwjYHuD)
+- **[DeCo]** Dynamic Correction Decoding for Hallucination Mitigation [[pdf]](https://openreview.net/pdf?id=4z3IguA4Zg) [[code]](https://github.com/zjunlp/DeCo)
+- **[ED]** Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding [[pdf]](https://openreview.net/pdf?id=ziw5bzg2NO) 
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
@@ -565,6 +571,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers [[blog]](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2)
 - Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Beyond_Interpretability)
 - Steering CLIP’s vision transformer with sparse autoencoders [[pdf]](https://arxiv.org/pdf/2504.08729)
+- Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Monosemanticity-Robustness)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae)
 - **[MSAE]** Interpreting CLIP with Hierarchical Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2502.20578)
 
@@ -614,6 +621,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Do LLMs ``know'' internally when they follow instructions? [[pdf]](https://openreview.net/pdf?id=qIN5VDdEOr) [[code]](https://github.com/apple/ml-internal-llms-instruction-following)
 - Visualizing the Reasoning Process of Large Language Models [[pdf]](https://arxiv.org/pdf/2503.22165) [[code]](https://github.com/tmlr-group/landscape-of-thoughts)
 - The Same but Different: Structural Similarities and Differences in Multilingual Language Modeling [[pdf]](https://openreview.net/pdf?id=NCrFA7dq8T)
+- Weight Ensembling Improves Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2504.10478)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
