@@ -321,6 +321,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 ## Activation Steering
 - **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - **[ActAdd]** Steering Language Models Without Optimization [[pdf]](https://arxiv.org/pdf/2308.10248v4)
+- **[FGAA]** Interpretable Steering of Large Language Models with Feature Guided Activation Additions [[pdf]](https://openreview.net/pdf?id=swRxS7s4rB)
+- **[CAA]** Steering Llama 2 via Contrastive Activation Addition [[pdf]](https://arxiv.org/pdf/2312.06681)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - Improving Reasoning Performance in Large Language Models via Representation Engineering [[pdf]](https://openreview.net/pdf?id=IssPhpUsKt) [[code]](https://github.com/bertramhojer/improve-reasoning-iclr-2025)
@@ -336,7 +338,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[PerturboLLaVA]** Reducing Multimodal Hallucinations with Perturbative Visual Training [[pdf]](https://openreview.net/pdf?id=j4LITBSUjs) [[code]](https://github.com/aim-uofa/PerturboLLaVA)
 - **[SID]** Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=rsZwwjYHuD)
 - **[DeCo]** Dynamic Correction Decoding for Hallucination Mitigation [[pdf]](https://openreview.net/pdf?id=4z3IguA4Zg) [[code]](https://github.com/zjunlp/DeCo)
-- **[ED]** Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding [[pdf]](https://openreview.net/pdf?id=ziw5bzg2NO) 
+- **[ED]** Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding [[pdf]](https://openreview.net/pdf?id=ziw5bzg2NO)
+- **[VDGD]** Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs [[pdf]](https://openreview.net/pdf?id=3PRvlT8b1R) 
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
@@ -352,6 +355,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=DgaY5mDdmT) [[code]](https://github.com/saccharomycetes/mllms_know)
 - Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf) [[code]](https://github.com/Heidelberg-NLP/CC-SHAP-VLM)
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
+- Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas [[pdf]](https://arxiv.org/pdf/2503.01773) [[code]](https://github.com/shiqichen17/AdaptVis)
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
@@ -386,8 +390,11 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DIFT]** Emergent Correspondence from Image Diffusion [[pdf]](https://openreview.net/pdf?id=ypOiXjdfnU) [[code]](https://github.com/Tsingularity/dift) [[website]](https://diffusionfeatures.github.io/) [[colab]](https://colab.research.google.com/drive/1km6MGafhAvbPOouD3oo64aUXgLlWM6L1?usp=sharing)
 - **[Asyrp]** Diffusion Models Already Have A Semantic Latent Space [[pdf]](https://openreview.net/pdf?id=pd1P2eUBVfq) [[code]](https://github.com/kwonminki/Asyrp_official) [[website]](https://kwonminki.github.io/Asyrp/)
 - **[I2AM]** Interpreting Image-to-Image Latent Diffusion Models via Bi-Attribution Maps [[pdf]](https://openreview.net/pdf?id=bBNUiErs26)
+- **[Attend-and-Excite]** Attention-Based Semantic Guidance for Text-to-Image Diffusion Models [[pdf]](https://arxiv.org/pdf/2301.13826) [[code]](https://github.com/yuval-alaluf/Attend-and-Excite) [[demo]](https://huggingface.co/spaces/AttendAndExcite/Attend-and-Excite) [[website]](https://yuval-alaluf.github.io/Attend-and-Excite/) 
 - **[SAeUron]** Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2501.18052) [[code]](https://github.com/cywinski/SAeUron)
 - **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://arxiv.org/pdf/2502.03714) 
+- **[UCE]** Unified Concept Editing in Diffusion Models [[pdf]](https://arxiv.org/pdf/2308.14761) [[code]](ohitgandikota/unified-concept-editing) [[website]](https://unified.baulab.info/)
+- **[Add-it]** Training-Free Object Insertion in Images With Pretrained Diffusion Models [[pdf]](https://openreview.net/pdf?id=ZeaTvXw080)
 - Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
 - Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
 - Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing [[pdf]](https://arxiv.org/pdf/2403.03431) [[code]](https://github.com/alibaba/EasyNLP/tree/master/diffusion/FreePromptEditing)
@@ -439,7 +446,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[OCTET]** Object-aware Counterfactual Explanations [[pdf]](https://arxiv.org/pdf/2211.12380) [[code]](https://github.com/valeoai/OCTET)
 - **[LANCE]** Stress-testing Visual Models by Generating Language-guided Counterfactual Images [[pdf]](https://arxiv.org/pdf/2305.19164.pdf) [[code]](https://github.com/virajprabhu/LANCE) [[website]](https://virajprabhu.github.io//lance-web/)
 - **[CCE]** Towards Visual Contrastive Explanations for Neural Networks [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf)
-- **[CounTEX]** Grounding Counterfactual Explanation of Image Classifiers to Textual Concept Space [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Grounding_Counterfactual_Explanation_of_Image_Classifiers_to_Textual_Concept_Space_CVPR_2023_paper.pdf) 
+- **[CounTEX]** Grounding Counterfactual Explanation of Image Classifiers to Textual Concept Space [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Grounding_Counterfactual_Explanation_of_Image_Classifiers_to_Textual_Concept_Space_CVPR_2023_paper.pdf)
+- **[RVCEs]** Rethinking Visual Counterfactual Explanations Through Region Constraint [[pdf]](https://openreview.net/pdf?id=gqeXXrIMr0)
 
 ## Explanation-Guided Models
 - Studying How to Efficiently and Effectively Guide Models with Explanations [[pdf]](https://arxiv.org/pdf/2303.11932) [[code]](https://github.com/sukrutrao/Model-Guidance)
@@ -504,6 +512,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
 - Towards Automated Circuit Discovery for Mechanistic Interpretability [[pdf]](https://openreview.net/pdf?id=89ia77nZ8u) [[code]](https://github.com/ArthurConmy/Automatic-Circuit-Discovery)
 - **[PURE]** Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits [[pdf]](https://xai4cv.github.io/assets/papers2024/P11.pdf) [[code]](https://github.com/maxdreyer/PURE)
+- **[CD-T]** Efficient Automated Circuit Discovery in Transformers using Contextual Decomposition [[pdf]](https://openreview.net/pdf?id=41HlN8XYM5) [[code]](https://github.com/adelaidehsu/CD_Circuit)
 - **[Edge Pruning]** Finding Transformer Circuits With Edge Pruning [[pdf]](https://openreview.net/pdf?id=8oSY3rA9jY) [[code]](https://github.com/princeton-nlp/Edge-Pruning)
 - [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
 
@@ -622,6 +631,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Visualizing the Reasoning Process of Large Language Models [[pdf]](https://arxiv.org/pdf/2503.22165) [[code]](https://github.com/tmlr-group/landscape-of-thoughts)
 - The Same but Different: Structural Similarities and Differences in Multilingual Language Modeling [[pdf]](https://openreview.net/pdf?id=NCrFA7dq8T)
 - Weight Ensembling Improves Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2504.10478)
+- Demystifying Long Chain-of-Thought Reasoning in LLMs [[pdf]](https://openreview.net/pdf?id=AgtQlhMQ0V)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
