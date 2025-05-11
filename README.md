@@ -171,6 +171,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[IIA]** Visual Explanations via Iterated Integrated Attributions [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Barkan_Visual_Explanations_via_Iterated_Integrated_Attributions_ICCV_2023_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Barkan_Visual_Explanations_via_ICCV_2023_supplemental.pdf) [[code]](https://github.com/iia-iccv23/iia)
 - **[Integrated Hessians]** Explaining Explanations: Axiomatic Feature Interactions for Deep Networks [[pdf]](https://arxiv.org/pdf/2002.04138.pdf) [[code]](https://github.com/suinleelab/path_explain)
 - **[I-GOS]** Visualizing Deep Networks by Optimizing with Integrated Gradients [[pdf]](https://arxiv.org/pdf/1905.00954.pdf)
+- **[UNI]** Unlearning-based Neural Interpretations [[pdf]](https://openreview.net/pdf?id=PBjCTeDL6o) 
 - Fast Axiomatic Attribution for Neural Networks [[pdf]](https://arxiv.org/pdf/2111.07668.pdf) [[code]](https://github.com/visinf/fast-axiomatic-attribution)
 #### LIME-based
 - **[LIME]** "Why Should I Trust You?": Explaining the Predictions of Any Classifier [[pdf]](https://arxiv.org/pdf/1602.04938.pdf) [[code]](https://github.com/marcotcr/lime)
@@ -307,7 +308,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LENS]** A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation [[pdf]](https://arxiv.org/pdf/2306.07304.pdf) [[website]](https://serre-lab.github.io/Lens/)
 - **[CRAFT]** Concept Recursive Activation FacTorization for Explainability [[pdf]](https://arxiv.org/pdf/2211.10154.pdf) [[code]](https://github.com/deel-ai/Craft) [[website]](https://serre-lab.github.io/Lens/)
 - **[VCC]** Visual Concept Connectome: Open World Concept Discovery and their Interlayer Connections in Deep Models [[pdf]](https://arxiv.org/pdf/2404.02233) [[code]](https://github.com/YorkUCVIL/VCC) [[demo]](https://mkowal2.github.io/VCC_Demo/) [[website]](https://yorkucvil.github.io/VCC/)
-- **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 - **[ICE]** Invertible Concept-based Explanations for CNN Models with Non-negative Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/2006.15417) 
 - **[Rosetta Neurons]** Mining the Common Units in a Model Zoo [[pdf]](https://arxiv.org/pdf/2306.09346.pdf) [[code]](https://github.com/yossigandelsman/rosetta_neurons) [[website]](https://yossigandelsman.github.io/rosetta_neurons/)
 - **[DEAL]** Disentangle and Localize Concept-level Explanations for VLMs [[pdf]](https://arxiv.org/pdf/2407.14412) [[code]](https://github.com/tangli-udel/DEAL)
@@ -357,6 +357,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf) [[code]](https://github.com/Heidelberg-NLP/CC-SHAP-VLM)
 - Why Is Prompt Tuning for Vision-Language Models Robust to Noisy Labels? [[pdf]](https://arxiv.org/pdf/2307.11978) [[code]](https://github.com/CEWu/PTNL)
 - Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas [[pdf]](https://arxiv.org/pdf/2503.01773) [[code]](https://github.com/shiqichen17/AdaptVis)
+- Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations? [[pdf]](https://openreview.net/pdf?id=lCasyP21Bf) [[code]](https://github.com/Heidelberg-NLP/CC-SHAP-VLM)
+- A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models [[pdf]](https://arxiv.org/pdf/2502.17516)
+- Mechanistic Interpretability for AI Safety — A Review [[blog]](https://leonardbereska.github.io/blog/2024/mechinterpreview/)
+- **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
@@ -366,6 +370,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
 - **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
+- **[GLOV]** Guided Large Language Models as Implicit Optimizers for Vision Language Models [[pdf]](https://arxiv.org/pdf/2410.06154) [[code]](https://github.com/jmiemirza/GLOV)
 
 ## Modality Gap in VLMs
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
@@ -419,6 +424,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Better Understanding Differences in Attribution Methods via Systematic Evaluations [[pdf]](https://arxiv.org/pdf/2303.11884) [[code]](https://github.com/sukrutrao/Attribution-Evaluation)
 - What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods [[pdf]](https://arxiv.org/pdf/2112.04417.pdf) [[code]](https://github.com/serre-lab/Meta-predictor) [[blog]](https://serre-lab.github.io/Meta-predictor/)
 - Benchmarking the Attribution Quality of Vision Models [[pdf]](https://arxiv.org/pdf/2407.11910) [[code]](https://github.com/visinf/idsds)
+- From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI [[pdf]](https://arxiv.org/pdf/2201.08164.pdf)
 - **[Pointing Game]** Top-down Neural Attention by Excitation Backprop [[pdf]](https://arxiv.org/pdf/1608.00507.pdf) [[code]](https://github.com/ruthcfong/pointing_game)
 - **[ROAR]** A Benchmark for Interpretability Methods in Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1806.10758.pdf)
 - **[ROAD]** A Consistent and Efficient Evaluation Strategy for Attribution Methods [[pdf]](https://arxiv.org/pdf/2202.00449.pdf) [[code]](https://github.com/tleemann/road_evaluation)
@@ -634,6 +640,10 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Weight Ensembling Improves Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2504.10478)
 - Demystifying Long Chain-of-Thought Reasoning in LLMs [[pdf]](https://openreview.net/pdf?id=AgtQlhMQ0V)
 - Idiosyncrasies in Large Language Models [[pdf]](https://arxiv.org/pdf/2502.12150) [[code]](https://github.com/locuslab/llm-idiosyncrasies) [[website]](https://eric-mingjie.github.io/llm-idiosyncrasies/index.html)
+- Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning [[pdf]](https://openreview.net/pdf?id=4FWAwZtd2n)
+- Safety Alignment Should be Made More Than Just a Few Tokens Deep [[pdf]](https://openreview.net/pdf?id=6Mxhg9PtDE)
+- On the Role of Attention Heads in Large Language Model Safety [[pdf]](https://openreview.net/pdf?id=h0Ak8A5yqw) [[code]](https://github.com/ydyjya/SafetyHeadAttribution)
+- AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models [[pdf]](https://openreview.net/pdf?id=HvSytvg3Jh) [[code]](https://github.com/jianghoucheng/AlphaEdit)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
@@ -641,11 +651,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications [[pdf]](https://arxiv.org/pdf/2003.07631.pdf)
 - Benchmarking and Survey of Explanation Methods for Black Box Models [[pdf]](https://arxiv.org/pdf/2102.13076.pdf)
 - An Empirical Study of Deep Neural Network Explanation Methods [[pdf]](https://proceedings.neurips.cc/paper/2020/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf) [[code]](https://github.com/nesl/Explainability-Study)
-- Methods for Interpreting and Understanding Deep Neural Networks [[pdf]](https://arxiv.org/pdf/1706.07979.pdf)
-- From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI [[pdf]](https://arxiv.org/pdf/2201.08164.pdf)
 - Leveraging Explanations in Interactive Machine Learning: An Overview [[pdf]](https://arxiv.org/pdf/2207.14526.pdf)
-- Mechanistic Interpretability for AI Safety — A Review [[blog]](https://leonardbereska.github.io/blog/2024/mechinterpreview/)
-- A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models [[pdf]](https://arxiv.org/pdf/2502.17516)
 
 ## Object-Centric Learning
 - **[SLOT-Attention]** Object-Centric Learning with Slot Attention [[pdf]](https://arxiv.org/pdf/2006.15055.pdf) [[code]](https://github.com/lucidrains/slot-attention) [[code]](https://github.com/evelinehong/slot-attention-pytorch)
