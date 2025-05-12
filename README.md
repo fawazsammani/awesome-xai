@@ -400,6 +400,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://arxiv.org/pdf/2502.03714) 
 - **[UCE]** Unified Concept Editing in Diffusion Models [[pdf]](https://arxiv.org/pdf/2308.14761) [[code]](ohitgandikota/unified-concept-editing) [[website]](https://unified.baulab.info/)
 - **[Add-it]** Training-Free Object Insertion in Images With Pretrained Diffusion Models [[pdf]](https://openreview.net/pdf?id=ZeaTvXw080)
+- **[weights2weights]** Interpreting the Weight Space of Customized Diffusion Models [[pdf]](https://arxiv.org/pdf/2406.09413) [[code]](https://github.com/snap-research/weights2weights) [[website]](https://snap-research.github.io/weights2weights/) [[demo]](https://huggingface.co/spaces/snap-research/weights2weights) [[video]](https://www.youtube.com/watch?v=95raWv_k08c)
 - Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
 - Interpreting, Manipulating, and Controlling CLIP With Sparse Autoencoders [[blog]](https://www.lesswrong.com/posts/iYFuZo9BMvr6GgMs5/case-study-interpreting-manipulating-and-controlling-clip)
 - Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing [[pdf]](https://arxiv.org/pdf/2403.03431) [[code]](https://github.com/alibaba/EasyNLP/tree/master/diffusion/FreePromptEditing)
