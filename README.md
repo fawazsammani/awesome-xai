@@ -369,6 +369,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
 - **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
+- **[MM1.5]** Methods, Analysis & Insights from Multimodal LLM Fine-tuning [[pdf]](https://openreview.net/pdf?id=HVtu26XDAA)
 - **[GLOV]** Guided Large Language Models as Implicit Optimizers for Vision Language Models [[pdf]](https://arxiv.org/pdf/2410.06154) [[code]](https://github.com/jmiemirza/GLOV)
 
 ## Modality Gap in VLMs
