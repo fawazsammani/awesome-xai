@@ -347,7 +347,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2401.06209)
 - Why are Visually-Grounded Language Models Bad at Image Classification? [[pdf]](https://arxiv.org/pdf/2405.18415) [[code]](https://github.com/yuhui-zh15/VLMClassifier) [[website]](https://yuhui-zh15.github.io/VLMClassifier-Website/)
 - Multimodal Neurons in Pretrained Text-Only Transformers [[pdf]](https://arxiv.org/pdf/2308.01544.pdf) [[website]](https://multimodal-interpretability.csail.mit.edu/Multimodal-Neurons-in-Text-Only-Transformers/)
-- Towards Interpreting Visual Information Processing in Vision-Language Models [[pdf]](https://openreview.net/pdf?id=chanJGoa7f) [[code]](https://github.com/clemneo/llava-interp) 
+- Towards Interpreting Visual Information Processing in Vision-Language Models [[pdf]](https://openreview.net/pdf?id=chanJGoa7f) [[code]](https://github.com/clemneo/llava-interp) [[demo]](https://clementneo.com/llava_logit_lens/) 
 - Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations [[blog]](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/)
 - A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models [[pdf]](https://arxiv.org/pdf/2502.17516)
 - Should VLMs be Pre-trained with Image Data? [[pdf]](https://openreview.net/pdf?id=Pj4Aid3XqL)
