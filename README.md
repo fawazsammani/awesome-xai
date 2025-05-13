@@ -643,6 +643,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Safety Alignment Should be Made More Than Just a Few Tokens Deep [[pdf]](https://openreview.net/pdf?id=6Mxhg9PtDE)
 - On the Role of Attention Heads in Large Language Model Safety [[pdf]](https://openreview.net/pdf?id=h0Ak8A5yqw) [[code]](https://github.com/ydyjya/SafetyHeadAttribution)
 - AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models [[pdf]](https://openreview.net/pdf?id=HvSytvg3Jh) [[code]](https://github.com/jianghoucheng/AlphaEdit)
+- Repetition Improves Language Model Embeddings [[pdf]](https://openreview.net/pdf?id=Ahlrf2HGJR)
 - [Awesome LLM Interpretability](https://github.com/JShollaj/awesome-llm-interpretability)
 - [Awesome Interpretability in LLMs](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
