@@ -310,7 +310,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VCC]** Visual Concept Connectome: Open World Concept Discovery and their Interlayer Connections in Deep Models [[pdf]](https://arxiv.org/pdf/2404.02233) [[code]](https://github.com/YorkUCVIL/VCC) [[demo]](https://mkowal2.github.io/VCC_Demo/) [[website]](https://yorkucvil.github.io/VCC/)
 - **[ICE]** Invertible Concept-based Explanations for CNN Models with Non-negative Concept Activation Vectors [[pdf]](https://arxiv.org/pdf/2006.15417) 
 - **[Rosetta Neurons]** Mining the Common Units in a Model Zoo [[pdf]](https://arxiv.org/pdf/2306.09346.pdf) [[code]](https://github.com/yossigandelsman/rosetta_neurons) [[website]](https://yossigandelsman.github.io/rosetta_neurons/)
-- **[DEAL]** Disentangle and Localize Concept-level Explanations for VLMs [[pdf]](https://arxiv.org/pdf/2407.14412) [[code]](https://github.com/tangli-udel/DEAL)
 - **[RSVC]** Representational Similarity via Interpretable Visual Concepts [[pdf]](https://openreview.net/pdf?id=ih3BJmIZbC) [[code]](https://github.com/nkondapa/RSVC)
 - **[BotCL]** Learning Bottleneck Concepts in Image Classification [[pdf]](https://arxiv.org/pdf/2304.10131.pdf) [[code]](https://github.com/wbw520/BotCL)
 - Unsupervised learning of object semantic parts from internal states of CNNs by population encoding [[pdf]](https://arxiv.org/pdf/1511.06855.pdf)
