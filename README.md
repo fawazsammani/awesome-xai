@@ -668,12 +668,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - TorchCAM [[github]](https://github.com/frgfm/torch-cam) [[docs]](https://frgfm.github.io/torch-cam/) [[demo]](https://huggingface.co/spaces/frgfm/torch-cam)
 - [pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
 - VL-InterpreT [[pdf]](https://arxiv.org/pdf/2203.17247.pdf) [[github]](https://github.com/IntelLabs/VL-InterpreT) [[demo]](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) [[video]](https://www.youtube.com/watch?v=4Rj15Hi_Pdo&ab_channel=CognitiveAI)
+- LVLM Interpret [[pdf]](https://arxiv.org/pdf/2404.03118) [[github]](https://github.com/IntelLabs/lvlm-interpret) [[website]](https://intellabs.github.io/multimodal_cognitive_ai/lvlm_interpret/)
 - [DeepExplain](https://github.com/marcoancona/DeepExplain)
 - TorchRay [[github]](https://github.com/facebookresearch/TorchRay) [[docs]](https://facebookresearch.github.io/TorchRay/)
 - [grad-cam-pytorch](https://github.com/kazuto1011/grad-cam-pytorch)
-- [ViT-Prisma](https://github.com/soniajoseph/ViT-Prisma)
+- [ViT-Prisma](https://github.com/Prisma-Multimodal/ViT-Prisma)
 - [CLIP Explainability](https://github.com/sMamooler/CLIP_Explainability) [CLIP_GradCAM](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)
-- [LVLM Interpret](https://github.com/IntelLabs/lvlm-interpret)
 
 ## XAI Libraries for NLP
 - [nnsight](https://github.com/ndif-team/nnsight)
