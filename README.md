@@ -319,7 +319,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
 ## Activation Steering
-- **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - **[ActAdd]** Steering Language Models Without Optimization [[pdf]](https://arxiv.org/pdf/2308.10248v4)
 - **[FGAA]** Interpretable Steering of Large Language Models with Feature Guided Activation Additions [[pdf]](https://openreview.net/pdf?id=swRxS7s4rB)
 - **[CAA]** Steering Llama 2 via Contrastive Activation Addition [[pdf]](https://arxiv.org/pdf/2312.06681)
@@ -400,6 +399,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SAeUron]** Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2501.18052) [[code]](https://github.com/cywinski/SAeUron)
 - **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://arxiv.org/pdf/2502.03714) 
 - **[UCE]** Unified Concept Editing in Diffusion Models [[pdf]](https://arxiv.org/pdf/2308.14761) [[code]](ohitgandikota/unified-concept-editing) [[website]](https://unified.baulab.info/)
+- **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - **[Add-it]** Training-Free Object Insertion in Images With Pretrained Diffusion Models [[pdf]](https://openreview.net/pdf?id=ZeaTvXw080)
 - **[weights2weights]** Interpreting the Weight Space of Customized Diffusion Models [[pdf]](https://arxiv.org/pdf/2406.09413) [[code]](https://github.com/snap-research/weights2weights) [[website]](https://snap-research.github.io/weights2weights/) [[demo]](https://huggingface.co/spaces/snap-research/weights2weights) [[video]](https://www.youtube.com/watch?v=95raWv_k08c)
 - Interpreting and Steering Features in Images [[blog]](https://www.lesswrong.com/posts/Quqekpvx8BGMMcaem/interpreting-and-steering-features-in-images)
