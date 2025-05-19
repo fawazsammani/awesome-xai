@@ -360,6 +360,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas [[pdf]](https://arxiv.org/pdf/2503.01773) [[code]](https://github.com/shiqichen17/AdaptVis)
 - Mechanistic Interpretability for AI Safety — A Review [[blog]](https://leonardbereska.github.io/blog/2024/mechinterpreview/)
 - Understanding Information Storage and Transfer in Multi-modal Large Language Models [[pdf]](https://openreview.net/pdf?id=s63dtq0mwA)
+- **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
 - **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
