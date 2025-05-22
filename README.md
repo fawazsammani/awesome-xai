@@ -324,7 +324,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ActAdd]** Steering Language Models Without Optimization [[pdf]](https://arxiv.org/pdf/2308.10248v4)
 - **[FGAA]** Interpretable Steering of Large Language Models with Feature Guided Activation Additions [[pdf]](https://openreview.net/pdf?id=swRxS7s4rB)
 - **[CAA]** Steering Llama 2 via Contrastive Activation Addition [[pdf]](https://arxiv.org/pdf/2312.06681)
+- **[ICV]** In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering [[pdf]](https://arxiv.org/pdf/2311.06668) [[code]](https://github.com/shengliu66/ICV)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
+- In-Context Learning Creates Task Vectors [[pdf]](https://arxiv.org/pdf/2310.15916) [[code]](https://github.com/roeehendel/icl_task_vectors)
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - Improving Reasoning Performance in Large Language Models via Representation Engineering [[pdf]](https://openreview.net/pdf?id=IssPhpUsKt) [[code]](https://github.com/bertramhojer/improve-reasoning-iclr-2025)
 
