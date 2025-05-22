@@ -569,6 +569,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Few-Shot Out-of-Domain Transfer Learning of Natural Language Explanations [[pdf]](https://arxiv.org/pdf/2112.06204.pdf)
 
 ## Understanding Model Failures
+- **[MultiMon]** Mass-Producing Failures of Multimodal Systems with Language Models [[pdf]](https://openreview.net/pdf?id=T6iiOqsGOh) [[code]](https://github.com/tsb0601/MultiMon)
 - **[VLSlice]** Interactive Vision-and-Language Slice Discovery [[pdf]](https://arxiv.org/pdf/2309.06703.pdf) [[code]](https://github.com/slymane/vlslice) [[website]](https://ericslyman.com/vlslice/) [[demo]](https://drive.google.com/file/d/1JkbVXnCds6rOErUx-YWZmp3mQ3IDJuhi/view) [[video]](https://drive.google.com/file/d/1mOuvjphNb2xNDC7shoGbPwyjbfArwud4/view) [[video]](https://www.youtube.com/watch?v=2CMDcGGsMjo&list=PLUxOP3kBxs2JYA5KT0YEmNJEyjqAqLOf3&index=2&ab_channel=CollegeofEngineering-OregonStateUniversity)
 - **[FACTS]** First Amplify Correlations and Then Slice to Discover Bias [[pdf]](https://arxiv.org/pdf/2309.17430) [[code]](https://github.com/yvsriram/FACTS)
 - **[DOMINO]** Discovering Systematic Errors with Cross-Modal Embeddings [[pdf]](https://arxiv.org/pdf/2203.14960)
