@@ -328,6 +328,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - **[Steered Diffusion]** A Generalized Framework for Plug-and-Play Conditional Image Synthesis [[pdf]](https://arxiv.org/pdf/2310.00224) 
 - **[CASteer]** Steering Diffusion Models for Controllable Generation [[pdf]](https://arxiv.org/pdf/2503.09630) [[code]](https://github.com/Atmyre/CASteer)
+- **[SEGA]** Instructing Text-to-Image Models using Semantic Guidance [[pdf]](https://openreview.net/pdf?id=KIPAIy329j) [[code]](https://github.com/ml-research/semantic-image-editing) [[code]](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - In-Context Learning Creates Task Vectors [[pdf]](https://arxiv.org/pdf/2310.15916) [[code]](https://github.com/roeehendel/icl_task_vectors)
 - Style Vectors for Steering Generative Large Language Models [[pdf]](https://aclanthology.org/2024.findings-eacl.52.pdf) [[code]](https://github.com/DLR-SC/style-vectors-for-steering-llms)
