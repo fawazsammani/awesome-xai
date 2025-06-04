@@ -369,6 +369,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Understanding Information Storage and Transfer in Multi-modal Large Language Models [[pdf]](https://openreview.net/pdf?id=s63dtq0mwA)
 - How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
 - Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
+- When and why vision-language models behave like bags-of-words, and what to do about it? [[pdf]](https://openreview.net/pdf?id=KRLUvxh8uaX) [[code]](https://github.com/mertyg/vision-language-models-are-bows)
+- Learn “No” to Say “Yes” Better: Improving Vision-Language Models via Negations [[pdf]](https://arxiv.org/pdf/2403.20312) [[code]](https://github.com/jaisidhsingh/CoN-CLIP)
 - **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
 - **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
