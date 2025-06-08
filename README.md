@@ -371,6 +371,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
 - When and why vision-language models behave like bags-of-words, and what to do about it? [[pdf]](https://openreview.net/pdf?id=KRLUvxh8uaX) [[code]](https://github.com/mertyg/vision-language-models-are-bows)
 - Learn “No” to Say “Yes” Better: Improving Vision-Language Models via Negations [[pdf]](https://arxiv.org/pdf/2403.20312) [[code]](https://github.com/jaisidhsingh/CoN-CLIP)
+- Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective [[pdf]](https://cdn.aaai.org/ojs/21375/21375-13-25388-1-2-20220628.pdf) [[code]](https://github.com/ejsalin/vlm-probing)
+- Probing Image–Language Transformers for Verb Understanding [[pdf]](https://arxiv.org/pdf/2106.09141)
 - **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
 - **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
@@ -383,6 +385,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
 - **[MMNeuron]** Discovering Neuron-Level Domain-Specific Interpretation in Multimodal Large Language Model [[pdf]](https://arxiv.org/pdf/2406.11193) [[code]](https://github.com/Z1zs/MMNeuron)
 - **[MM1.5]** Methods, Analysis & Insights from Multimodal LLM Fine-tuning [[pdf]](https://openreview.net/pdf?id=HVtu26XDAA)
+- **[VALUE]** Revealing the Secrets of Pre-trained Vision-and-Language Models [[pdf]](https://arxiv.org/pdf/2005.07310) [[code]](https://github.com/JizeCao/VALUE)
 - **[GLOV]** Guided Large Language Models as Implicit Optimizers for Vision Language Models [[pdf]](https://arxiv.org/pdf/2410.06154) [[code]](https://github.com/jmiemirza/GLOV)
 
 ## Modality Gap in VLMs
