@@ -371,6 +371,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
 - When and why vision-language models behave like bags-of-words, and what to do about it? [[pdf]](https://openreview.net/pdf?id=KRLUvxh8uaX) [[code]](https://github.com/mertyg/vision-language-models-are-bows)
 - Learn “No” to Say “Yes” Better: Improving Vision-Language Models via Negations [[pdf]](https://arxiv.org/pdf/2403.20312) [[code]](https://github.com/jaisidhsingh/CoN-CLIP)
+- Teaching Structured Vision & Language Concepts to Vision & Language Models [[pdf]](https://arxiv.org/pdf/2211.11733) [[code]](https://github.com/SivanDoveh/TSVLC)
 - Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective [[pdf]](https://cdn.aaai.org/ojs/21375/21375-13-25388-1-2-20220628.pdf) [[code]](https://github.com/ejsalin/vlm-probing)
 - Probing Image–Language Transformers for Verb Understanding [[pdf]](https://arxiv.org/pdf/2106.09141)
 - **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
