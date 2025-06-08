@@ -333,6 +333,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Finding Visual Task Vectors [[pdf]](https://arxiv.org/pdf/2404.05729) [[code]](https://github.com/alhojel/visual_task_vectors)
 - Improving Reasoning Performance in Large Language Models via Representation Engineering [[pdf]](https://openreview.net/pdf?id=IssPhpUsKt) [[code]](https://github.com/bertramhojer/improve-reasoning-iclr-2025)
 - Improving Instruction-Following in Language Models through Activation Steering [[pdf]](https://openreview.net/pdf?id=wozhdnRCtw) [[code]](https://github.com/microsoft/llm-steer-instruct)
+- Do LLMs ``know'' internally when they follow instructions? [[pdf]](https://openreview.net/pdf?id=qIN5VDdEOr) [[code]](https://github.com/apple/ml-internal-llms-instruction-following)
 
 ## Hallucinations in VLMs
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
@@ -665,7 +666,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model [[pdf]](https://openreview.net/pdf?id=p4PckNQR8k)
 - The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation [[pdf]](https://arxiv.org/pdf/2412.04318)
 - Measuring the Faithfulness of Large Language Model Explanations [[pdf]](https://openreview.net/pdf?id=4ub9gpx9xw)
-- Do LLMs ``know'' internally when they follow instructions? [[pdf]](https://openreview.net/pdf?id=qIN5VDdEOr) [[code]](https://github.com/apple/ml-internal-llms-instruction-following)
 - Visualizing the Reasoning Process of Large Language Models [[pdf]](https://arxiv.org/pdf/2503.22165) [[code]](https://github.com/tmlr-group/landscape-of-thoughts)
 - The Same but Different: Structural Similarities and Differences in Multilingual Language Modeling [[pdf]](https://openreview.net/pdf?id=NCrFA7dq8T)
 - Weight Ensembling Improves Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2504.10478)
