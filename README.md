@@ -415,7 +415,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Attend-and-Excite]** Attention-Based Semantic Guidance for Text-to-Image Diffusion Models [[pdf]](https://arxiv.org/pdf/2301.13826) [[code]](https://github.com/yuval-alaluf/Attend-and-Excite) [[demo]](https://huggingface.co/spaces/AttendAndExcite/Attend-and-Excite) [[website]](https://yuval-alaluf.github.io/Attend-and-Excite/) 
 - **[SEGA]** Instructing Text-to-Image Models using Semantic Guidance [[pdf]](https://openreview.net/pdf?id=KIPAIy329j) [[code]](https://github.com/ml-research/semantic-image-editing) [[code]](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion)
 - **[SAeUron]** Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2501.18052) [[code]](https://github.com/cywinski/SAeUron)
-- **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://arxiv.org/pdf/2502.03714) 
 - **[RECE]** Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models [[pdf]](https://arxiv.org/pdf/2407.12383) [[code]](https://github.com/CharlesGong12/RECE)
 - **[UCE]** Unified Concept Editing in Diffusion Models [[pdf]](https://arxiv.org/pdf/2308.14761) [[code]](https://github.com/rohitgandikota/unified-concept-editing) [[website]](https://unified.baulab.info/)
 - **[Add-it]** Training-Free Object Insertion in Images With Pretrained Diffusion Models [[pdf]](https://openreview.net/pdf?id=ZeaTvXw080)
@@ -618,6 +617,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Monosemanticity-Robustness)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae)
 - **[MSAE]** Interpreting CLIP with Hierarchical Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2502.20578)
+- **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://openreview.net/pdf?id=UoaxRN88oR) 
 
 ## XAI for NLP
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
