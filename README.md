@@ -350,6 +350,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ED]** Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding [[pdf]](https://openreview.net/pdf?id=ziw5bzg2NO)
 - **[VDGD]** Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs [[pdf]](https://openreview.net/pdf?id=3PRvlT8b1R)
 - **[LURE]** Analyzing and Mitigating Object Hallucination in Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=oZDJKTlOUe) [[code]](https://github.com/YiyangZhou/LURE)
+- **[HIO]** Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization [[pdf]](https://openreview.net/pdf?id=SF2GlFhVsS) [[code]](https://github.com/BT-C/HIO)
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
@@ -395,6 +396,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - NegVQA: Can Vision Language Models Understand Negation? [[pdf]](https://arxiv.org/pdf/2505.22946) [[code]](https://github.com/yuhui-zh15/NegVQA) [[website]](https://yuhui-zh15.github.io/NegVQA/)
 - VALSE: A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena [[pdf]](https://arxiv.org/pdf/2112.07566) [[code]](https://github.com/Heidelberg-NLP/VALSE)
 - SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality [[pdf]](https://arxiv.org/pdf/2306.14610) [[code]](https://github.com/RAIVNLab/sugar-crepe)
+- NeIn: Telling What You Don’t Want [[pdf]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Bui_NeIn_Telling_What_You_Dont_Want_CVPRW_2025_paper.pdf) [[code]](https://github.com/tanbuinhat/NeIn) [[website]](https://tanbuinhat.github.io/NeIn/)
 
 ## Modality Gap in VLMs
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
@@ -442,6 +444,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Your Diffusion Model is Secretly a Zero-Shot Classifier [[pdf]](https://arxiv.org/pdf/2303.16203) [[code]](https://github.com/diffusion-classifier/diffusion-classifier) [[website]](https://diffusion-classifier.github.io/)
 - Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models [[pdf]](https://arxiv.org/pdf/2306.05357) [[code]](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery) [[website]](https://energy-based-model.github.io/unsupervised-concept-discovery/)
 - Towards Visually Explaining Variational Autoencoders [[pdf]](https://arxiv.org/pdf/1911.07389.pdf) [[code]](https://github.com/liuem607/expVAE) [[code]](https://github.com/FrankBrongers/Reproducing_expVAE) [[video]](https://www.youtube.com/watch?v=6FqVcSAfSkI&ab_channel=ComputerVisionFoundationVideos) [[video]](https://www.youtube.com/watch?v=3XOgqhf-GZM&t=1034s&ab_channel=VipulVaibhaw)
+- Localizing Knowledge in Diffusion Transformers [[pdf]](https://arxiv.org/pdf/2505.18832) [[code]](https://github.com/ArmanZarei/DiT-Knowledge-Localization) [[website]](https://armanzarei.github.io/Localizing-Knowledge-in-DiTs/)
 - Extracting Training Data from Diffusion Models [[pdf]](https://arxiv.org/pdf/2301.13188) 
 
 ## Evaluation of XAI
@@ -549,6 +552,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - A Circuit for Indirect Object Identification in GPT-2 small [[pdf]](https://openreview.net/pdf?id=NpsVSN6o4ul)
 - Circuit Component Reuse Across Tasks in Transformer Language Models [[pdf]](https://openreview.net/attachment?id=fpoAYV6Wsk&name=pdf)
 - Towards Automated Circuit Discovery for Mechanistic Interpretability [[pdf]](https://openreview.net/pdf?id=89ia77nZ8u) [[code]](https://github.com/ArthurConmy/Automatic-Circuit-Discovery)
+- Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs [[pdf]](https://arxiv.org/pdf/2506.09047) [[code]](https://github.com/technion-cs-nlp/vlm-circuits-analysis)
 - **[PURE]** Turning Polysemantic Neurons Into Pure Features by Identifying Relevant Circuits [[pdf]](https://xai4cv.github.io/assets/papers2024/P11.pdf) [[code]](https://github.com/maxdreyer/PURE)
 - **[CD-T]** Efficient Automated Circuit Discovery in Transformers using Contextual Decomposition [[pdf]](https://openreview.net/pdf?id=41HlN8XYM5) [[code]](https://github.com/adelaidehsu/CD_Circuit)
 - **[Edge Pruning]** Finding Transformer Circuits With Edge Pruning [[pdf]](https://openreview.net/pdf?id=8oSY3rA9jY) [[code]](https://github.com/princeton-nlp/Edge-Pruning)
