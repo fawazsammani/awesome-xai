@@ -250,6 +250,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Plug-In Inversion]** Model-Agnostic Inversion for Vision with Data Augmentations [[pdf]](https://proceedings.mlr.press/v162/ghiasi22a/ghiasi22a.pdf) 
 - **[GIFD]** A Generative Gradient Inversion Method with Feature Domain Optimization [[pdf]](https://arxiv.org/pdf/2308.04699.pdf)
 - **[MACO]** Unlocking Feature Visualization for Deeper Networks with MAgnitude Constrained Optimization [[pdf]](https://arxiv.org/pdf/2306.06805.pdf) [[website]](https://serre-lab.github.io/Lens/)
+- **[VITAL]** More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow [[pdf]](https://arxiv.org/pdf/2503.22399) [[code]](https://github.com/adagorgun/VITAL) [[website]](https://adagorgun.github.io/VITAL-Project/)
 
 ## Neuron Annotation
 - **[Network Dissection]**: Quantifying Interpretability of Deep Visual Representations [[pdf]](https://arxiv.org/pdf/1704.05796.pdf) [[code]](https://github.com/CSAILVision/NetDissect) [[website]](http://netdissect.csail.mit.edu/)
@@ -347,7 +348,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SID]** Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=rsZwwjYHuD)
 - **[DeCo]** Dynamic Correction Decoding for Hallucination Mitigation [[pdf]](https://openreview.net/pdf?id=4z3IguA4Zg) [[code]](https://github.com/zjunlp/DeCo)
 - **[ED]** Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding [[pdf]](https://openreview.net/pdf?id=ziw5bzg2NO)
-- **[VDGD]** Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs [[pdf]](https://openreview.net/pdf?id=3PRvlT8b1R) 
+- **[VDGD]** Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs [[pdf]](https://openreview.net/pdf?id=3PRvlT8b1R)
+- **[LURE]** Analyzing and Mitigating Object Hallucination in Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=oZDJKTlOUe) [[code]](https://github.com/YiyangZhou/LURE)
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
