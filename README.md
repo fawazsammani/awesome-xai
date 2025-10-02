@@ -368,10 +368,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas [[pdf]](https://arxiv.org/pdf/2503.01773) [[code]](https://github.com/shiqichen17/AdaptVis)
 - Mechanistic Interpretability for AI Safety — A Review [[blog]](https://leonardbereska.github.io/blog/2024/mechinterpreview/)
 - Understanding Information Storage and Transfer in Multi-modal Large Language Models [[pdf]](https://openreview.net/pdf?id=s63dtq0mwA)
-- How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
-- Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
-- When and why vision-language models behave like bags-of-words, and what to do about it? [[pdf]](https://openreview.net/pdf?id=KRLUvxh8uaX) [[code]](https://github.com/mertyg/vision-language-models-are-bows)
-- Learning the Power of “No”: Foundation Models with Negations [[pdf]](https://openaccess.thecvf.com/content/WACV2025/papers/Singh_Learning_the_Power_of_No_Foundation_Models_with_Negations_WACV_2025_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/WACV2025/supplemental/Singh_Learning_the_Power_WACV_2025_supplemental.pdf) [[code]](https://github.com/jaisidhsingh/CoN-CLIP)
 - Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective [[pdf]](https://cdn.aaai.org/ojs/21375/21375-13-25388-1-2-20220628.pdf) [[code]](https://github.com/ejsalin/vlm-probing)
 - Probing Image–Language Transformers for Verb Understanding [[pdf]](https://arxiv.org/pdf/2106.09141)
 - **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
@@ -388,6 +384,15 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MM1.5]** Methods, Analysis & Insights from Multimodal LLM Fine-tuning [[pdf]](https://openreview.net/pdf?id=HVtu26XDAA)
 - **[VALUE]** Revealing the Secrets of Pre-trained Vision-and-Language Models [[pdf]](https://arxiv.org/pdf/2005.07310) [[code]](https://github.com/JizeCao/VALUE)
 - **[GLOV]** Guided Large Language Models as Implicit Optimizers for Vision Language Models [[pdf]](https://arxiv.org/pdf/2410.06154) [[code]](https://github.com/jmiemirza/GLOV)
+
+## VLMs with Negations
+- How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
+- Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
+- When and why vision-language models behave like bags-of-words, and what to do about it? [[pdf]](https://openreview.net/pdf?id=KRLUvxh8uaX) [[code]](https://github.com/mertyg/vision-language-models-are-bows)
+- Learning the Power of “No”: Foundation Models with Negations [[pdf]](https://openaccess.thecvf.com/content/WACV2025/papers/Singh_Learning_the_Power_of_No_Foundation_Models_with_Negations_WACV_2025_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/WACV2025/supplemental/Singh_Learning_the_Power_WACV_2025_supplemental.pdf) [[code]](https://github.com/jaisidhsingh/CoN-CLIP)
+- NegVQA: Can Vision Language Models Understand Negation? [[pdf]](https://arxiv.org/pdf/2505.22946) [[code]](https://github.com/yuhui-zh15/NegVQA) [[website]](https://yuhui-zh15.github.io/NegVQA/)
+- VALSE: A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena [[pdf]](https://arxiv.org/pdf/2112.07566) [[code]](https://github.com/Heidelberg-NLP/VALSE)
+- SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality [[pdf]](https://arxiv.org/pdf/2306.14610) [[code]](https://github.com/RAIVNLab/sugar-crepe)
 
 ## Modality Gap in VLMs
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
