@@ -271,6 +271,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DnD]** Interpreting Neurons in Deep Vision Networks with Language Models [[pdf]](https://openreview.net/attachment?id=x1dXvvElVd&name=pdf) [[code]](https://github.com/Trustworthy-ML-Lab/Describe-and-Dissect)
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
 - Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP [[pdf]](https://openreview.net/pdf?id=Vhh7ONtfvV) [[code]](https://github.com/SriramB-98/vit-decompose)
+- Evaluating Neuron Explanations: A Unified Framework with Sanity Checks [[pdf]](https://arxiv.org/pdf/2506.05774) [[code]](https://github.com/Trustworthy-ML-Lab/Neuron_Eval) [[website]](https://lilywenglab.github.io/Neuron_Eval/)
 
 ## Feats2Text
 - Text-To-Concept (and Back) via Cross-Model Alignment [[pdf]](https://arxiv.org/pdf/2305.06386)
@@ -337,6 +338,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving Reasoning Performance in Large Language Models via Representation Engineering [[pdf]](https://openreview.net/pdf?id=IssPhpUsKt) [[code]](https://github.com/bertramhojer/improve-reasoning-iclr-2025)
 - Improving Instruction-Following in Language Models through Activation Steering [[pdf]](https://openreview.net/pdf?id=wozhdnRCtw) [[code]](https://github.com/microsoft/llm-steer-instruct)
 - Do LLMs ``know'' internally when they follow instructions? [[pdf]](https://openreview.net/pdf?id=qIN5VDdEOr) [[code]](https://github.com/apple/ml-internal-llms-instruction-following)
+- Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering [[pdf]](https://arxiv.org/pdf/2501.03012) [[code]](https://github.com/mshukor/xl-vlms) [[website]](https://pegah-kh.github.io/projects/lmm-finetuning-analysis-and-steering/)
 
 ## Hallucinations in VLMs
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
@@ -348,6 +350,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
 - **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
 - **[PerturboLLaVA]** Reducing Multimodal Hallucinations with Perturbative Visual Training [[pdf]](https://openreview.net/pdf?id=j4LITBSUjs) [[code]](https://github.com/aim-uofa/PerturboLLaVA)
+- **[AGLA]** Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention [[pdf]](https://arxiv.org/pdf/2406.12718) [[code]](https://github.com/Lackel/AGLA)
 - **[SID]** Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=rsZwwjYHuD)
 - **[DeCo]** Dynamic Correction Decoding for Hallucination Mitigation [[pdf]](https://openreview.net/pdf?id=4z3IguA4Zg) [[code]](https://github.com/zjunlp/DeCo)
 - **[OPERA]** Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation [[pdf]](https://arxiv.org/pdf/2311.17911) [[code]](https://github.com/shikiw/OPERA)
@@ -356,6 +359,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LURE]** Analyzing and Mitigating Object Hallucination in Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=oZDJKTlOUe) [[code]](https://github.com/YiyangZhou/LURE)
 - **[HIO]** Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization [[pdf]](https://openreview.net/pdf?id=SF2GlFhVsS) [[code]](https://github.com/BT-C/HIO)
 - **[MARINE]** Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance [[pdf]](https://openreview.net/pdf?id=w0xYx9CJhY) [[code]](https://github.com/Linxi-ZHAO/MARINE)
+- **[SECOND]** Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding [[pdf]](https://openreview.net/attachment?id=SbyrpBNNs4&name=pdf) [[code]](https://github.com/AIDASLab/SECOND)
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
@@ -392,16 +396,19 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MM1.5]** Methods, Analysis & Insights from Multimodal LLM Fine-tuning [[pdf]](https://openreview.net/pdf?id=HVtu26XDAA)
 - **[VALUE]** Revealing the Secrets of Pre-trained Vision-and-Language Models [[pdf]](https://arxiv.org/pdf/2005.07310) [[code]](https://github.com/JizeCao/VALUE)
 - **[GLOV]** Guided Large Language Models as Implicit Optimizers for Vision Language Models [[pdf]](https://arxiv.org/pdf/2410.06154) [[code]](https://github.com/jmiemirza/GLOV)
+- **[AttackVLM]** On Evaluating Adversarial Robustness of Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=xbbknN9QFs) [[code]](https://github.com/yunqing-me/AttackVLM) [[website]](https://yunqing-me.github.io/AttackVLM/)
+- **[W_CLIP]** Whitened CLIP as a Likelihood Surrogate of Images and Captions [[pdf]](https://arxiv.org/pdf/2505.06934) [[code]](https://github.com/rbetser/W_CLIP/tree/main) 
 
 ## VLMs with Negations
 - How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
-- Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
-- When and why vision-language models behave like bags-of-words, and what to do about it? [[pdf]](https://openreview.net/pdf?id=KRLUvxh8uaX) [[code]](https://github.com/mertyg/vision-language-models-are-bows)
-- Learning the Power of “No”: Foundation Models with Negations [[pdf]](https://openaccess.thecvf.com/content/WACV2025/papers/Singh_Learning_the_Power_of_No_Foundation_Models_with_Negations_WACV_2025_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/WACV2025/supplemental/Singh_Learning_the_Power_WACV_2025_supplemental.pdf) [[code]](https://github.com/jaisidhsingh/CoN-CLIP)
-- NegVQA: Can Vision Language Models Understand Negation? [[pdf]](https://arxiv.org/pdf/2505.22946) [[code]](https://github.com/yuhui-zh15/NegVQA) [[website]](https://yuhui-zh15.github.io/NegVQA/)
-- VALSE: A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena [[pdf]](https://arxiv.org/pdf/2112.07566) [[code]](https://github.com/Heidelberg-NLP/VALSE)
-- SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality [[pdf]](https://arxiv.org/pdf/2306.14610) [[code]](https://github.com/RAIVNLab/sugar-crepe)
-- NeIn: Telling What You Don’t Want [[pdf]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Bui_NeIn_Telling_What_You_Dont_Want_CVPRW_2025_paper.pdf) [[code]](https://github.com/tanbuinhat/NeIn) [[website]](https://tanbuinhat.github.io/NeIn/)
+- **[NegBench]** Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
+- **[NegCLIP]** When and why vision-language models behave like bags-of-words, and what to do about it? [[pdf]](https://openreview.net/pdf?id=KRLUvxh8uaX) [[code]](https://github.com/mertyg/vision-language-models-are-bows)
+- **[ConCLIP]** Learning the Power of “No”: Foundation Models with Negations [[pdf]](https://openaccess.thecvf.com/content/WACV2025/papers/Singh_Learning_the_Power_of_No_Foundation_Models_with_Negations_WACV_2025_paper.pdf) [[supp]](https://openaccess.thecvf.com/content/WACV2025/supplemental/Singh_Learning_the_Power_WACV_2025_supplemental.pdf) [[code]](https://github.com/jaisidhsingh/CoN-CLIP)
+- **[NegVQA]** Can Vision Language Models Understand Negation? [[pdf]](https://arxiv.org/pdf/2505.22946) [[code]](https://github.com/yuhui-zh15/NegVQA) [[website]](https://yuhui-zh15.github.io/NegVQA/)
+- **[VALSE]** A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena [[pdf]](https://arxiv.org/pdf/2112.07566) [[code]](https://github.com/Heidelberg-NLP/VALSE)
+- **[SugarCrepe]** Fixing Hackable Benchmarks for Vision-Language Compositionality [[pdf]](https://arxiv.org/pdf/2306.14610) [[code]](https://github.com/RAIVNLab/sugar-crepe)
+- **[NegationCLIP]** Know “No” Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP [[pdf]](https://arxiv.org/pdf/2501.10913) [[code]](https://github.com/parkquasar/NegationCLIP)
+- **[NeIn]** Telling What You Don’t Want [[pdf]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Bui_NeIn_Telling_What_You_Dont_Want_CVPRW_2025_paper.pdf) [[code]](https://github.com/tanbuinhat/NeIn) [[website]](https://tanbuinhat.github.io/NeIn/)
 
 ## Modality Gap in VLMs
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
@@ -436,6 +443,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[weights2weights]** Interpreting the Weight Space of Customized Diffusion Models [[pdf]](https://arxiv.org/pdf/2406.09413) [[code]](https://github.com/snap-research/weights2weights) [[website]](https://snap-research.github.io/weights2weights/) [[demo]](https://huggingface.co/spaces/snap-research/weights2weights) [[video]](https://www.youtube.com/watch?v=95raWv_k08c)
 - **[OPT2I]** Improving Text-to-Image Consistency via Automatic Prompt Optimization [[pdf]](https://arxiv.org/pdf/2403.17804) 
 - **[DSG]** Davidsonian Scene Graph: Improving Reliability in Fine-Grained Evaluation for Text-to-Image Generation [[pdf]](https://openreview.net/pdf?id=ITq4ZRUT4a) [[code]](https://github.com/j-min/DSG) [[website]](https://google.github.io/dsg/)
+- **[ADM-ES]** Elucidating the Exposure Bias in Diffusion Models [[pdf]](https://openreview.net/pdf?id=xEJMoj1SpX) [[code]](https://github.com/forever208/ADM-ES)
 - Null-text Inversion for Editing Real Images using Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2211.09794) [[code]](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images) [[website]](https://null-text-inversion.github.io/)
 - Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[code]](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement)
 - Understanding Hallucinations in Diffusion Models through Mode Interpolation [[pdf]](https://arxiv.org/pdf/2406.09358) [[code]](https://github.com/locuslab/diffusion-model-hallucination)
@@ -476,6 +484,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[InterpBench]** Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques [[pdf]](https://openreview.net/pdf?id=R9gR9MPuD5)
 - **[FunnyBirds]** A Synthetic Vision Dataset for a Part-Based Analysis of Explainable AI Methods [[pdf]](https://arxiv.org/pdf/2308.06248.pdf) [[code]](https://github.com/visinf/funnybirds/)
 - **[F-Fidelity]** A Robust Framework for Faithfulness Evaluation of Explainable AI [[pdf]](https://openreview.net/pdf?id=X0r4BN50Dv)
+- **[COSE]** A Consistency-Sensitivity Metric for Saliency on Image Classification [[pdf]](https://arxiv.org/pdf/2309.10989) [[code]](https://github.com/cvl-umass/COSE)
 
 ## Robsuness of ViTs
 - Are Transformers More Robust Than CNNs? [[pdf]](https://arxiv.org/pdf/2111.05464.pdf) [[code]](https://github.com/ytongbai/ViTs-vs-CNNs)
@@ -625,6 +634,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Negative Results for Sparse Autoencoders On Downstream Tasks and Deprioritising SAE Research (Mechanistic Interpretability Team Progress Update) [[blog]](https://deepmindsafetyresearch.medium.com/negative-results-for-sparse-autoencoders-on-downstream-tasks-and-deprioritising-sae-research-6cadcfc125b9)
 - Transcoders find interpretable LLM feature circuits [[pdf]](https://openreview.net/pdf?id=J6zHcScAo0) [[code]](https://github.com/jacobdunefsky/transcoder_circuits/)
 - Sparse Crosscoders for Cross-Layer Features and Model Diffing [[blog]](https://transformer-circuits.pub/2024/crosscoders/index.html)
+- Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation [[pdf]](https://openreview.net/pdf?id=z19u9B2fCZ) [[code]](https://github.com/neilwen987/CSR_Adaptive_Rep)
+- AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=K2CckZjNy0) [[code]](https://github.com/stanfordnlp/axbench)
 -  Llama SAE [[llama3.1-sae]](https://huggingface.co/Goodfire/Llama-3.1-8B-Instruct-SAE-l19) [[llama3.3-sae]](https://huggingface.co/Goodfire/Llama-3.3-70B-Instruct-SAE-l50)
 
 ## Sparse Autoencoders for Vision
