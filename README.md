@@ -409,6 +409,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SugarCrepe]** Fixing Hackable Benchmarks for Vision-Language Compositionality [[pdf]](https://arxiv.org/pdf/2306.14610) [[code]](https://github.com/RAIVNLab/sugar-crepe)
 - **[NegationCLIP]** Know “No” Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP [[pdf]](https://arxiv.org/pdf/2501.10913) [[code]](https://github.com/parkquasar/NegationCLIP)
 - **[NeIn]** Telling What You Don’t Want [[pdf]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Bui_NeIn_Telling_What_You_Dont_Want_CVPRW_2025_paper.pdf) [[code]](https://github.com/tanbuinhat/NeIn) [[website]](https://tanbuinhat.github.io/NeIn/)
+- **[DCSM]** Is CLIP ideal? No. Can we fix it? Yes! [[pdf]](https://arxiv.org/pdf/2503.08723) [[code]](https://github.com/Raphoo/DCSM_Ideal_CLIP)
 
 ## Modality Gap in VLMs
 -  Understanding the Modality Gap in Multi-modal Contrastive Representation Learning [[pdf]](https://arxiv.org/pdf/2203.02053) [[code]](https://github.com/Weixin-Liang/Modality-Gap)
