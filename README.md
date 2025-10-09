@@ -362,6 +362,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[HIO]** Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization [[pdf]](https://openreview.net/pdf?id=SF2GlFhVsS) [[code]](https://github.com/BT-C/HIO)
 - **[MARINE]** Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance [[pdf]](https://openreview.net/pdf?id=w0xYx9CJhY) [[code]](https://github.com/Linxi-ZHAO/MARINE)
 - **[SECOND]** Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding [[pdf]](https://openreview.net/attachment?id=SbyrpBNNs4&name=pdf) [[code]](https://github.com/AIDASLab/SECOND)
+- **[Dropout Decoding]** From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding [[pdf]](https://arxiv.org/pdf/2412.06474) [[code]](https://github.com/kigb/DropoutDecoding) 
 
 ## Interpreting and Analyzing VLMs
 - Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers [[pdf]](https://arxiv.org/pdf/2103.15679.pdf) [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability) 
@@ -400,7 +401,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[VALUE]** Revealing the Secrets of Pre-trained Vision-and-Language Models [[pdf]](https://arxiv.org/pdf/2005.07310) [[code]](https://github.com/JizeCao/VALUE)
 - **[GLOV]** Guided Large Language Models as Implicit Optimizers for Vision Language Models [[pdf]](https://arxiv.org/pdf/2410.06154) [[code]](https://github.com/jmiemirza/GLOV)
 - **[AttackVLM]** On Evaluating Adversarial Robustness of Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=xbbknN9QFs) [[code]](https://github.com/yunqing-me/AttackVLM) [[website]](https://yunqing-me.github.io/AttackVLM/)
-- **[W_CLIP]** Whitened CLIP as a Likelihood Surrogate of Images and Captions [[pdf]](https://arxiv.org/pdf/2505.06934) [[code]](https://github.com/rbetser/W_CLIP/tree/main) 
+- **[W_CLIP]** Whitened CLIP as a Likelihood Surrogate of Images and Captions [[pdf]](https://arxiv.org/pdf/2505.06934) [[code]](https://github.com/rbetser/W_CLIP/tree/main)
+- **[MMPerspective]** Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness [[pdf]](https://arxiv.org/pdf/2505.20426) [[code]](https://github.com/yunlong10/MMPerspective) [[website]](https://yunlong10.github.io/MMPerspective/)
 
 ## VLMs with Negations
 - How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
