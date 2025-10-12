@@ -413,6 +413,14 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[W_CLIP]** Whitened CLIP as a Likelihood Surrogate of Images and Captions [[pdf]](https://arxiv.org/pdf/2505.06934) [[code]](https://github.com/rbetser/W_CLIP/tree/main)
 - **[MMPerspective]** Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness [[pdf]](https://arxiv.org/pdf/2505.20426) [[code]](https://github.com/yunlong10/MMPerspective) [[website]](https://yunlong10.github.io/MMPerspective/)
 
+## VLMs with Thinking/Reasoning
+- **[Pixel Reasoner]** Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2505.15966) [[code]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) [[website]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
+- **[GRIT]** Teaching MLLMs to Think with Images [[pdf]](https://arxiv.org/pdf/2505.15879) [[code]](https://github.com/eric-ai-lab/GRIT) [[website]](https://grounded-reasoning.github.io/)
+- **[RH-AUC]** More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models [[pdf]](https://arxiv.org/pdf/2505.21523) [[code]](https://github.com/MLRM-Halu/MLRM-Halu) [[website]](https://mlrm-halu.github.io/)
+- **[ViGoRL]** Grounded Reinforcement Learning for Visual Reasoning [[pdf]](https://arxiv.org/pdf/2505.23678) [[code]](https://github.com/Gabesarch/grounded-rl) [[website]](https://visually-grounded-rl.github.io/)
+- **[LVR]** Latent Visual Reasoning [[pdf]](https://arxiv.org/pdf/2509.24251) [[code]](https://github.com/VincentLeebang/lvr) [[website]](https://vincentleebang.github.io/lvr-project-page/)
+
+
 ## VLMs with Negations
 - How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
 - **[NegBench]** Vision-Language Models Do Not Understand Negation [[pdf]](https://arxiv.org/pdf/2501.09425) [[code]](https://github.com/m1k2zoo/negbench) [[website]](https://negbench.github.io/)
