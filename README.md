@@ -330,8 +330,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CAA]** Steering Llama 2 via Contrastive Activation Addition [[pdf]](https://arxiv.org/pdf/2312.06681)
 - **[ICV]** In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering [[pdf]](https://arxiv.org/pdf/2311.06668) [[code]](https://github.com/shengliu66/ICV)
 - **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
+- **[CAST]** Programming Refusal with Conditional Activation Steering [[pdf]](https://openreview.net/pdf?id=Oi47wc10sm) [[code]](https://github.com/IBM/activation-steering)
 - **[CASteer]** Steering Diffusion Models for Controllable Generation [[pdf]](https://arxiv.org/pdf/2503.09630) [[code]](https://github.com/Atmyre/CASteer)
 - **[NAG]** Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models [[pdf]](https://arxiv.org/pdf/2505.21179) [[code]](https://github.com/ChenDarYen/Normalized-Attention-Guidance)
+- **[HeadHunter]** Fine-Grained Perturbation Guidance via Attention Head Selection [[pdf]](https://arxiv.org/pdf/2506.10978) [[code]](https://github.com/cvlab-kaist/HeadHunter) [[website]](https://cvlab-kaist.github.io/HeadHunter/)
+- **[GrAInS]** Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs [[pdf]](https://arxiv.org/pdf/2507.18043) [[code]](https://github.com/duykhuongnguyen/GrAInS?tab=readme-ov-file)
+- **[Cache Steering]** KV Cache Steering for Controlling Frozen LLMs [[pdf]](https://arxiv.org/pdf/2507.08799) [[code]](https://github.com/MaxBelitsky/cache-steering)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
 - In-Context Learning Creates Task Vectors [[pdf]](https://arxiv.org/pdf/2310.15916) [[code]](https://github.com/roeehendel/icl_task_vectors)
 - Style Vectors for Steering Generative Large Language Models [[pdf]](https://aclanthology.org/2024.findings-eacl.52.pdf) [[code]](https://github.com/DLR-SC/style-vectors-for-steering-llms)
@@ -343,14 +347,15 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## Hallucinations in VLMs
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
-- Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
 - Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs) [[pdf]](https://openreview.net/pdf?id=oStNAMWELS) [[code]](https://github.com/ExplainableML/vla-gender-bias)
 - Understanding and Mitigating Hallucination in Large Vision-Language Models via Modular Attribution and Intervention [[pdf]](https://openreview.net/pdf?id=Bjq4W7P2Us) [[code]](https://github.com/TianyunYoung/Hallucination-Attribution)
 - Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models [[pdf]](https://aclanthology.org/2025.acl-long.205.pdf)
 - **[VOLCANO]** Mitigating Multimodal Hallucination through Self-Feedback Guided Revision [[pdf]](https://aclanthology.org/2024.naacl-long.23.pdf) [[code]](https://github.com/kaistAI/Volcano)
 - **[VTI]** Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering [[pdf]](https://openreview.net/pdf?id=LBl7Hez0fF) [[code]](https://github.com/shengliu66/VTI)
+- **[HALC]** Object Hallucination Reduction via Adaptive Focal-Contrast Decoding [[pdf]](https://openreview.net/pdf/9f7eee6b5f8549258da4053b54868dd8749dc357.pdf) [[code]](https://github.com/BillChan226/HALC)
 - **[VCD]** Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding [[pdf]](https://arxiv.org/pdf/2311.16922) [[code]](https://github.com/DAMO-NLP-SG/VCD)
 - **[PAI]** Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs [[pdf]](https://arxiv.org/pdf/2407.21771) [[code]](https://github.com/LALBJ/PAI) [[website]](https://lalbj.github.io/projects/PAI/)
+- **[ProjectAway]** Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations [[pdf]](https://openreview.net/pdf?id=94kQgWXojH) [[code]](https://github.com/nickjiang2378/vl-interp/) [[webpage]](https://anishk23733.github.io/vl-interp/)
 - **[PerturboLLaVA]** Reducing Multimodal Hallucinations with Perturbative Visual Training [[pdf]](https://openreview.net/pdf?id=j4LITBSUjs) [[code]](https://github.com/aim-uofa/PerturboLLaVA)
 - **[AGLA]** Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention [[pdf]](https://arxiv.org/pdf/2406.12718) [[code]](https://github.com/Lackel/AGLA)
 - **[SID]** Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=rsZwwjYHuD)
@@ -362,6 +367,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[HIO]** Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization [[pdf]](https://openreview.net/pdf?id=SF2GlFhVsS) [[code]](https://github.com/BT-C/HIO)
 - **[MARINE]** Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance [[pdf]](https://openreview.net/pdf?id=w0xYx9CJhY) [[code]](https://github.com/Linxi-ZHAO/MARINE)
 - **[SECOND]** Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding [[pdf]](https://openreview.net/attachment?id=SbyrpBNNs4&name=pdf) [[code]](https://github.com/AIDASLab/SECOND)
+- **[GLSim]** Detecting Object Hallucinations in LVLMs via Global-Local Similarity [[pdf]](https://arxiv.org/pdf/2508.19972) [[code]](https://github.com/deeplearning-wisc/glsim)
 - **[Dropout Decoding]** From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding [[pdf]](https://arxiv.org/pdf/2412.06474) [[code]](https://github.com/kigb/DropoutDecoding) 
 
 ## Interpreting and Analyzing VLMs
@@ -386,6 +392,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective [[pdf]](https://cdn.aaai.org/ojs/21375/21375-13-25388-1-2-20220628.pdf) [[code]](https://github.com/ejsalin/vlm-probing)
 - Probing Image–Language Transformers for Verb Understanding [[pdf]](https://arxiv.org/pdf/2106.09141)
 - Vision Language Models are Biased [[pdf]](https://arxiv.org/pdf/2505.23941) [[code]](https://github.com/anvo25/vlms-are-biased) [[website]](https://vlmsarebiased.github.io/)
+- Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.pdf)
+- **[LFA]** Black Box Few-Shot Adaptation for Vision-Language models [[pdf]](https://arxiv.org/pdf/2304.01752) [[code]](https://github.com/saic-fi/LFA)
+- **[IPLoc]** Teaching VLMs to Localize Specific Objects from In-context Examples [[pdf]](https://arxiv.org/pdf/2411.13317) [[code]](https://github.com/SivanDoveh/IPLoc)
 - **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
 - **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
@@ -450,6 +459,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[OPT2I]** Improving Text-to-Image Consistency via Automatic Prompt Optimization [[pdf]](https://arxiv.org/pdf/2403.17804) 
 - **[DSG]** Davidsonian Scene Graph: Improving Reliability in Fine-Grained Evaluation for Text-to-Image Generation [[pdf]](https://openreview.net/pdf?id=ITq4ZRUT4a) [[code]](https://github.com/j-min/DSG) [[website]](https://google.github.io/dsg/)
 - **[ADM-ES]** Elucidating the Exposure Bias in Diffusion Models [[pdf]](https://openreview.net/pdf?id=xEJMoj1SpX) [[code]](https://github.com/forever208/ADM-ES)
+- Rare Text Semantics Were Always There in Your Diffusion Transformer [[pdf]](https://arxiv.org/pdf/2510.03886) 
 - Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Dissecting_and_Mitigating_Diffusion_Bias_via_Mechanistic_Interpretability_CVPR_2025_paper.pdf) [[code]](https://github.com/foundation-model-research/DiffLens) [[website]](https://foundation-model-research.github.io/difflens/)
 - Null-text Inversion for Editing Real Images using Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2211.09794) [[code]](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images) [[website]](https://null-text-inversion.github.io/)
 - Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf) [[code]](https://github.com/UCSB-NLP-Chang/DiffusionDisentanglement)
@@ -653,7 +663,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Monosemanticity-Robustness)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae)
 - **[MSAE]** Interpreting CLIP with Hierarchical Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2502.20578)
-- **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://openreview.net/pdf?id=UoaxRN88oR) 
+- **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://openreview.net/pdf?id=UoaxRN88oR)
+- **[RRM]** Interpreting vision transformers via residual replacement model [[pdf]](https://arxiv.org/pdf/2509.17401) [[code]](https://github.com/rubato-yeong/RRM)
 
 ## XAI for NLP
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
@@ -757,6 +768,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - [overcomplete](https://github.com/KempnerInstitute/overcomplete)
 
 ## Other Resources
+- [Entropy Blog](https://alessiodevoto.github.io/blog/)
 - [Explainable AI: Interpreting, Explaining and Visualizing Deep Learning](https://link.springer.com/book/10.1007/978-3-030-28954-6)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [OpenAI Microscope](https://microscope.openai.com/models)
