@@ -670,7 +670,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Steering CLIP’s vision transformer with sparse autoencoders [[pdf]](https://arxiv.org/pdf/2504.08729)
 - Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness [[pdf]](https://openreview.net/pdf?id=g6Qc3p7JH5) [[code]](https://github.com/PKU-ML/Monosemanticity-Robustness)
 - **[PatchSAE]** Sparse autoencoders reveal selective remapping of visual concepts during adaptation [[pdf]](https://openreview.net/pdf?id=imT03YXlG2) [[code]](https://github.com/dynamical-inference/patchsae)
-- **[MSAE]** Interpreting CLIP with Hierarchical Sparse Autoencoders [[pdf]](https://arxiv.org/pdf/2502.20578)
+- **[MSAE]** Interpreting CLIP with Hierarchical Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=5MQQsenQBm)
 - **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://openreview.net/pdf?id=UoaxRN88oR)
 - **[RRM]** Interpreting vision transformers via residual replacement model [[pdf]](https://arxiv.org/pdf/2509.17401) [[code]](https://github.com/rubato-yeong/RRM)
 
