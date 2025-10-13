@@ -412,6 +412,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[AttackVLM]** On Evaluating Adversarial Robustness of Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=xbbknN9QFs) [[code]](https://github.com/yunqing-me/AttackVLM) [[website]](https://yunqing-me.github.io/AttackVLM/)
 - **[W_CLIP]** Whitened CLIP as a Likelihood Surrogate of Images and Captions [[pdf]](https://arxiv.org/pdf/2505.06934) [[code]](https://github.com/rbetser/W_CLIP/tree/main)
 - **[MMPerspective]** Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness [[pdf]](https://arxiv.org/pdf/2505.20426) [[code]](https://github.com/yunlong10/MMPerspective) [[website]](https://yunlong10.github.io/MMPerspective/)
+- **[DriveBench]** Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives [[pdf]](https://arxiv.org/pdf/2501.04003) [[code]](https://github.com/worldbench/drivebench) [[website]](https://drive-bench.github.io/)
 
 ## VLMs with Thinking/Reasoning
 - **[Pixel Reasoner]** Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2505.15966) [[code]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) [[website]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
