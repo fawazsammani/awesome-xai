@@ -717,6 +717,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Language Models Represent Space and Time [[pdf]](https://arxiv.org/pdf/2310.02207.pdf) [[code]](https://github.com/wesg52/world-models)
 - Are self-explanations from Large Language Models faithful? [[pdf]](https://arxiv.org/pdf/2401.07927)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903)
+- Self-Consistency Improves Chain of Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2203.11171)
 - LLM Evaluators Recognize and Favor Their Own Generations [[pdf]](https://openreview.net/pdf?id=4NJBV6Wp0h)
 - Interpreting and Mitigating Social Biases in Pre-trained Language Models [[pdf]](https://openreview.net/pdf?id=SQGUDc9tC8) [[code]](https://github.com/theNamek/Bias-Neurons)
 - What does the Knowledge Neuron Thesis Have to do with Knowledge? [[pdf]](https://openreview.net/attachment?id=2HJRwwbV3G&name=pdf)
