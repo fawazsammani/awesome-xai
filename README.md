@@ -415,12 +415,20 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DriveBench]** Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives [[pdf]](https://arxiv.org/pdf/2501.04003) [[code]](https://github.com/worldbench/drivebench) [[website]](https://drive-bench.github.io/)
 
 ## VLMs with Thinking/Reasoning
+- **[LLaVA-CoT]** Let Vision Language Models Reason Step-by-Step [[pdf]](https://arxiv.org/pdf/2411.10440) [[code]](https://github.com/PKU-YuanGroup/LLaVA-CoT)
+- **[VoCoT]** Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[pdf]](https://arxiv.org/pdf/2405.16919) [[code]](https://github.com/RupertLuo/VoCoT) 
+- **[V∗]** Guided Visual Search as a Core Mechanism in Multimodal LLMs [[pdf]](https://arxiv.org/pdf/2312.14135) [[code]](https://github.com/penghao-wu/vstar) [[website]](https://vstar-seal.github.io/)
+- **[Visual SKETCHPAD]** Sketching as a Visual Chain of Thought for Multimodal Language Models [[pdf]](https://arxiv.org/pdf/2406.09403) [[code]](https://github.com/Yushi-Hu/VisualSketchpad) [[website]](https://visualsketchpad.github.io/)
+- **[Whiteboard-of-Thought]**  Thinking Step-by-Step Across Modalities [[pdf]](https://arxiv.org/pdf/2406.14562) [[code]](https://github.com/cvlab-columbia/wot) [[website]](https://whiteboard.cs.columbia.edu/)
+- **[Visual CoT]** Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning [[pdf]](https://arxiv.org/pdf/2403.16999) [[code]](https://github.com/deepcs233/Visual-CoT) [[website]](https://hao-shao.com/projects/viscot.html)
+- **[HoneyBee]** Data Recipes for Vision-Language Reasoners [[pdf]](https://arxiv.org/pdf/2510.12225)
+- **[UniBench]** Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling [[pdf]](https://openreview.net/pdf?id=g1Zn0XPUFF) [[code]](https://github.com/facebookresearch/unibench)
 - **[Pixel Reasoner]** Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2505.15966) [[code]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) [[website]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
 - **[GRIT]** Teaching MLLMs to Think with Images [[pdf]](https://arxiv.org/pdf/2505.15879) [[code]](https://github.com/eric-ai-lab/GRIT) [[website]](https://grounded-reasoning.github.io/)
 - **[RH-AUC]** More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models [[pdf]](https://arxiv.org/pdf/2505.21523) [[code]](https://github.com/MLRM-Halu/MLRM-Halu) [[website]](https://mlrm-halu.github.io/)
 - **[ViGoRL]** Grounded Reinforcement Learning for Visual Reasoning [[pdf]](https://arxiv.org/pdf/2505.23678) [[code]](https://github.com/Gabesarch/grounded-rl) [[website]](https://visually-grounded-rl.github.io/)
 - **[LVR]** Latent Visual Reasoning [[pdf]](https://arxiv.org/pdf/2509.24251) [[code]](https://github.com/VincentLeebang/lvr) [[website]](https://vincentleebang.github.io/lvr-project-page/)
-
+- Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
 ## VLMs with Negations
 - How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
