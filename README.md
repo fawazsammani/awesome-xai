@@ -271,6 +271,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[DnD]** Interpreting Neurons in Deep Vision Networks with Language Models [[pdf]](https://openreview.net/pdf?id=x1dXvvElVd) [[code]](https://github.com/Trustworthy-ML-Lab/Describe-and-Dissect)
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
 - Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP [[pdf]](https://openreview.net/pdf?id=Vhh7ONtfvV) [[code]](https://github.com/SriramB-98/vit-decompose)
+- Large Multi-modal Models Can Interpret Features in Large Multi-modal Models [[pdf]](https://arxiv.org/pdf/2411.14982) [[code]](https://github.com/EvolvingLMMs-Lab/multimodal-sae)
 - Evaluating Neuron Explanations: A Unified Framework with Sanity Checks [[pdf]](https://arxiv.org/pdf/2506.05774) [[code]](https://github.com/Trustworthy-ML-Lab/Neuron_Eval) [[website]](https://lilywenglab.github.io/Neuron_Eval/)
 
 ## Feats2Text
@@ -396,14 +397,16 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Kang_Your_Large_Vision-Language_Model_Only_Needs_A_Few_Attention_Heads_CVPR_2025_paper.pdf)
 - **[LFA]** Black Box Few-Shot Adaptation for Vision-Language models [[pdf]](https://arxiv.org/pdf/2304.01752) [[code]](https://github.com/saic-fi/LFA)
 - **[IPLoc]** Teaching VLMs to Localize Specific Objects from In-context Examples [[pdf]](https://arxiv.org/pdf/2411.13317) [[code]](https://github.com/SivanDoveh/IPLoc)
-- **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
+- **[PIN]** Positional Insert Unlocks Object Localisation Abilities in VLMs [[pdf]](https://arxiv.org/pdf/2402.08657) [[code]](https://github.com/QUVA-Lab/PIN/) [[website]](https://quva-lab.github.io/PIN/)
 - **[GEM]** Emerging Localization Properties in Vision-Language Transformers [[pdf]](https://arxiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
+- **[VAR]** See What You Are Told: Visual Attention Sink in Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=7uDI7w5RQA) 
 - **[LiMBeR]** Linearly Mapping from Image to Text Space [[pdf]](https://openreview.net/pdf?id=8tYRqb05pVn) [[code]](https://github.com/jmerullo/limber)
 - **[Cambrian-1]** A Fully Open, Vision-Centric Exploration of Multimodal LLMs [[pdf]](https://openreview.net/pdf?id=Vi8AepAXGy) [[code]](https://github.com/cambrian-mllm/cambrian) [[website]](https://cambrian-mllm.github.io/) [[models]](https://huggingface.co/collections/nyu-visionx/cambrian-1-models-666fa7116d5420e514b0f23c)
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
 - **[CLIP-AFT]** Boosting the visual interpretability of CLIP via adversarial fine-tuning [[pdf]](https://openreview.net/pdf?id=khuIvzxPRp) [[code]](https://github.com/peterant330/CLIP_AFT)
 - **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
 - **[CLIP as RNN]** Segment Countless Visual Concepts without Training Endeavor [[pdf]](https://arxiv.org/pdf/2312.07661) [[code]](https://github.com/google-research/google-research/tree/master/clip_as_rnn) [[website]](https://torrvision.com/clip_as_rnn/)
+- **[CLIP-ES]** A Text-Driven Approach for Weakly Supervised Semantic Segmentation [[pdf]](https://arxiv.org/pdf/2212.09506) [[code]](https://github.com/linyq2117/CLIP-ES)
 - **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
 - **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
@@ -413,6 +416,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[GLOV]** Guided Large Language Models as Implicit Optimizers for Vision Language Models [[pdf]](https://arxiv.org/pdf/2410.06154) [[code]](https://github.com/jmiemirza/GLOV)
 - **[AttackVLM]** On Evaluating Adversarial Robustness of Large Vision-Language Models [[pdf]](https://openreview.net/pdf?id=xbbknN9QFs) [[code]](https://github.com/yunqing-me/AttackVLM) [[website]](https://yunqing-me.github.io/AttackVLM/)
 - **[W_CLIP]** Whitened CLIP as a Likelihood Surrogate of Images and Captions [[pdf]](https://arxiv.org/pdf/2505.06934) [[code]](https://github.com/rbetser/W_CLIP/tree/main)
+- **[MirrorCLIP]** Disentangling text from visual images through reflection [[pdf]](https://openreview.net/pdf?id=FYm8coxdiR) [[code]](https://github.com/tcwangbuaa/MirrorCLIP)
 - **[MMPerspective]** Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness [[pdf]](https://arxiv.org/pdf/2505.20426) [[code]](https://github.com/yunlong10/MMPerspective) [[website]](https://yunlong10.github.io/MMPerspective/)
 - **[DriveBench]** Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives [[pdf]](https://arxiv.org/pdf/2501.04003) [[code]](https://github.com/worldbench/drivebench) [[website]](https://drive-bench.github.io/)
 
@@ -431,6 +435,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ViGoRL]** Grounded Reinforcement Learning for Visual Reasoning [[pdf]](https://arxiv.org/pdf/2505.23678) [[code]](https://github.com/Gabesarch/grounded-rl) [[website]](https://visually-grounded-rl.github.io/)
 - **[LVR]** Latent Visual Reasoning [[pdf]](https://arxiv.org/pdf/2509.24251) [[code]](https://github.com/VincentLeebang/lvr) [[website]](https://vincentleebang.github.io/lvr-project-page/)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
+- Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919) 
 
 ## VLMs with Negations
 - How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
@@ -675,6 +680,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Sparse Crosscoders for Cross-Layer Features and Model Diffing [[blog]](https://transformer-circuits.pub/2024/crosscoders/index.html)
 - Beyond Matryoshka: Revisiting Sparse Coding for Adaptive Representation [[pdf]](https://openreview.net/pdf?id=z19u9B2fCZ) [[code]](https://github.com/neilwen987/CSR_Adaptive_Rep)
 - AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=K2CckZjNy0) [[code]](https://github.com/stanfordnlp/axbench)
+- Enhancing Automated Interpretability with Output-Centric Feature Descriptions [[pdf]](https://arxiv.org/pdf/2501.08319)
 -  Llama SAE [[llama3.1-sae]](https://huggingface.co/Goodfire/Llama-3.1-8B-Instruct-SAE-l19) [[llama3.3-sae]](https://huggingface.co/Goodfire/Llama-3.3-70B-Instruct-SAE-l50)
 
 ## Sparse Autoencoders for Vision
@@ -711,6 +717,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Identifying and Controlling Important Neurons in Neural Machine Translation [[pdf]](https://arxiv.org/pdf/1811.01157.pdf)
 - “Will You Find These Shortcuts?” A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification [[pdf]](https://arxiv.org/pdf/2111.07367.pdf) [[blog]](https://ai.googleblog.com/2022/12/will-you-find-these-shortcuts.html)
 - Interpreting Language Models with Contrastive Explanations [[pdf]](https://arxiv.org/pdf/2202.10419.pdf) [[code]](https://github.com/kayoyin/interpret-lm)
+- What's New in My Data? Novelty Exploration via Contrastive Generation [[pdf]](https://openreview.net/pdf?id=IZDiRbVSVN)
 - Towards Best Practices of Activation Patching in Language Models: Metrics and Methods [[pdf]](https://openreview.net/pdf?id=Hf17y6u9BC)
 - Discretized Integrated Gradients for Explaining Language Models [[pdf]](https://arxiv.org/pdf/2108.13654.pdf) [[code]](https://github.com/INK-USC/DIG)
 - Did the Model Understand the Question? [[pdf]](https://arxiv.org/pdf/1805.05492.pdf)
