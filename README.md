@@ -328,7 +328,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ActAdd]** Steering Language Models Without Optimization [[pdf]](https://arxiv.org/pdf/2308.10248v4)
 - **[FGAA]** Interpretable Steering of Large Language Models with Feature Guided Activation Additions [[pdf]](https://openreview.net/pdf?id=swRxS7s4rB)
 - **[CAA]** Steering Llama 2 via Contrastive Activation Addition [[pdf]](https://arxiv.org/pdf/2312.06681)
-- **[ICV]** In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering [[pdf]](https://arxiv.org/pdf/2311.06668) [[code]](https://github.com/shengliu66/ICV)
+- **[ICV]** Making In Context Learning More Effective and Controllable Through Latent Space Steering [[pdf]](https://arxiv.org/pdf/2311.06668) [[code]](https://github.com/shengliu66/ICV)
 - **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - **[CAST]** Programming Refusal with Conditional Activation Steering [[pdf]](https://openreview.net/pdf?id=Oi47wc10sm) [[code]](https://github.com/IBM/activation-steering)
 - **[CASteer]** Steering Diffusion Models for Controllable Generation [[pdf]](https://arxiv.org/pdf/2503.09630) [[code]](https://github.com/Atmyre/CASteer)
