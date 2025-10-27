@@ -268,7 +268,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[STAIR]** Learning Sparse Text and Image Representation in Grounded Tokens [[pdf]](https://arxiv.org/pdf/2301.13081.pdf)
 - **[DISCOVER]** Making Vision Networks Interpretable via Competition and Dissection [[pdf]](https://openreview.net/pdf?id=sWNOvNXGLP)
 - **[DeViL]** Decoding Vision features into Language [[pdf]](https://arxiv.org/pdf/2309.01617.pdf) [[code]](https://github.com/ExplainableML/DeViL)
-- **[DnD]** Interpreting Neurons in Deep Vision Networks with Language Models [[pdf]](https://openreview.net/attachment?id=x1dXvvElVd&name=pdf) [[code]](https://github.com/Trustworthy-ML-Lab/Describe-and-Dissect)
+- **[DnD]** Interpreting Neurons in Deep Vision Networks with Language Models [[pdf]](https://openreview.net/pdf?id=x1dXvvElVd) [[code]](https://github.com/Trustworthy-ML-Lab/Describe-and-Dissect)
 - **[LaViSE]** Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention [[pdf]](https://arxiv.org/pdf/2204.04601.pdf) [[code]](https://github.com/YuYang0901/LaViSE)
 - Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP [[pdf]](https://openreview.net/pdf?id=Vhh7ONtfvV) [[code]](https://github.com/SriramB-98/vit-decompose)
 - Evaluating Neuron Explanations: A Unified Framework with Sanity Checks [[pdf]](https://arxiv.org/pdf/2506.05774) [[code]](https://github.com/Trustworthy-ML-Lab/Neuron_Eval) [[website]](https://lilywenglab.github.io/Neuron_Eval/)
