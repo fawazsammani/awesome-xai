@@ -344,6 +344,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving Instruction-Following in Language Models through Activation Steering [[pdf]](https://openreview.net/pdf?id=wozhdnRCtw) [[code]](https://github.com/microsoft/llm-steer-instruct)
 - Do LLMs ``know'' internally when they follow instructions? [[pdf]](https://openreview.net/pdf?id=qIN5VDdEOr) [[code]](https://github.com/apple/ml-internal-llms-instruction-following)
 - Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering [[pdf]](https://arxiv.org/pdf/2501.03012) [[code]](https://github.com/mshukor/xl-vlms) [[website]](https://pegah-kh.github.io/projects/lmm-finetuning-analysis-and-steering/)
+- VLM-Guided Adaptive Negative Prompting for Creative Generation [[pdf]](https://arxiv.org/pdf/2510.10715) [[website]](https://shelley-golan.github.io/VLM-Guided-Creative-Generation/)
 
 ## Hallucinations in VLMs
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
@@ -402,6 +403,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CoX-LMM]** A Concept-Based Explainability Framework for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=MvjLRFntW6) [[code]](https://github.com/mshukor/xl-vlms)
 - **[CLIP-AFT]** Boosting the visual interpretability of CLIP via adversarial fine-tuning [[pdf]](https://openreview.net/pdf?id=khuIvzxPRp) [[code]](https://github.com/peterant330/CLIP_AFT)
 - **[ECLIP]** Exploring Visual Explanations for Contrastive Language-Image Pre-training [[pdf]](https://arxiv.org/pdf/2209.07046.pdf)
+- **[CLIP as RNN]** Segment Countless Visual Concepts without Training Endeavor [[pdf]](https://arxiv.org/pdf/2312.07661) [[code]](https://github.com/google-research/google-research/tree/master/clip_as_rnn) [[website]](https://torrvision.com/clip_as_rnn/)
 - **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 - **[SpLiCE]** Interpreting CLIP with Sparse Linear Concept Embeddings [[pdf]](https://openreview.net/pdf?id=7UyBKTFrtd) [[code]](https://github.com/AI4LIFE-GROUP/SpLiCE)
 - **[VDR]** Retrieval-based Disentangled Representation Learning with Natural Language Supervision [[pdf]](https://openreview.net/pdf?id=ZlQRiFmq7Y) [[code]](https://github.com/jzhoubu/VDR)
@@ -476,6 +478,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[OPT2I]** Improving Text-to-Image Consistency via Automatic Prompt Optimization [[pdf]](https://arxiv.org/pdf/2403.17804) 
 - **[DSG]** Davidsonian Scene Graph: Improving Reliability in Fine-Grained Evaluation for Text-to-Image Generation [[pdf]](https://openreview.net/pdf?id=ITq4ZRUT4a) [[code]](https://github.com/j-min/DSG) [[website]](https://google.github.io/dsg/)
 - **[ADM-ES]** Elucidating the Exposure Bias in Diffusion Models [[pdf]](https://openreview.net/pdf?id=xEJMoj1SpX) [[code]](https://github.com/forever208/ADM-ES)
+- **[Revelio]** Interpreting and leveraging semantic information in diffusion models [[pdf]](https://arxiv.org/pdf/2411.16725) [[code]](https://github.com/revelio-diffusion/revelio) 
+- **[InfEdit]** Inversion-Free Image Editing with Natural Language [[pdf]](https://arxiv.org/pdf/2312.04965) [[code]](https://github.com/sled-group/InfEdit) [[website]](https://sled-group.github.io/InfEdit/)
 - Rare Text Semantics Were Always There in Your Diffusion Transformer [[pdf]](https://arxiv.org/pdf/2510.03886) 
 - Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Dissecting_and_Mitigating_Diffusion_Bias_via_Mechanistic_Interpretability_CVPR_2025_paper.pdf) [[code]](https://github.com/foundation-model-research/DiffLens) [[website]](https://foundation-model-research.github.io/difflens/)
 - Null-text Inversion for Editing Real Images using Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2211.09794) [[code]](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images) [[website]](https://null-text-inversion.github.io/)
@@ -682,6 +686,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[MSAE]** Interpreting CLIP with Hierarchical Sparse Autoencoders [[pdf]](https://openreview.net/pdf?id=5MQQsenQBm)
 - **[USAEs]** Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment [[pdf]](https://openreview.net/pdf?id=UoaxRN88oR)
 - **[RRM]** Interpreting vision transformers via residual replacement model [[pdf]](https://arxiv.org/pdf/2509.17401) [[code]](https://github.com/rubato-yeong/RRM)
+- **[Archetypal SAE]** Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models [[pdf]](https://openreview.net/pdf?id=9v1eW8HgMU)
 
 ## XAI for NLP
 - Visualizing and Understanding Neural Machine Translation [[pdf]](https://aclanthology.org/P17-1106.pdf)
