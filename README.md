@@ -100,7 +100,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[SHAP]** A Unified Approach to Interpreting Model Predictions [[pdf]](https://arxiv.org/pdf/1705.07874.pdf) [[code]](https://github.com/slundberg/shap)
 - **[MM-SHAP]** A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks [[pdf]](https://arxiv.org/pdf/2212.08158.pdf) [[code]](https://github.com/Heidelberg-NLP/MM-SHAP) [[video]](https://www.youtube.com/watch?v=RLaiomLMK9I&ab_channel=AICoffeeBreakwithLetitia)
 - **[BiLRP]** Building and Interpreting Deep Similarity Models [[pdf]](https://arxiv.org/pdf/2003.05431.pdf) [[code]](https://github.com/oeberle/BiLRP_explain_similarity)
-- **[CGC]** Consistent Explanations by Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.00527.pdf) [[code]](https://github.com/UCDvision/CGC)
 - **[IIS]** Enhancing Pre-trained Representation Classifiability can Boost its Interpretability [[pdf]](https://openreview.net/pdf?id=GjfIZan5jN) [[code]](https://github.com/ssfgunner/IIS)
 - **[X-OIA]** Explainable Object-induced Action Decision for Autonomous Vehicles [[pdf]](https://arxiv.org/pdf/2003.09405.pdf) [[code]](https://github.com/Twizwei/bddoia_project) [[website]](https://twizwei.github.io/bddoia_project/) 
 - **[CAT-XPLAIN]** Causality for Inherently Explainable Transformers [[pdf]](https://arxiv.org/pdf/2206.14841.pdf) [[code]](https://github.com/mvrl/CAT-XPLAIN)
@@ -206,6 +205,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ReciproCAM]** Lightweight Gradient-free Class Activation Map for Post-hoc Explanations [[pdf]](https://xai4cv.github.io/assets/papers2024/P01.pdf)
 - **[CALM]** Keep CALM and Improve Visual Feature Attribution [[pdf]](https://arxiv.org/pdf/2106.07861.pdf) [[code]](https://github.com/naver-ai/calm)
 - **[LICO]** Explainable Models with Language-Image COnsistency [[pdf]](https://openreview.net/pdf?id=apjOYp3mOa) [[code]](https://github.com/ymLeiFDU/LICO)
+- **[CGC]** Consistent Explanations by Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.00527.pdf) [[code]](https://github.com/UCDvision/CGC)
 
 ## Concept Bottleneck Models
 - **[CBM]** Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2007.04612.pdf) [[code]](https://github.com/yewsiang/ConceptBottleneck)
