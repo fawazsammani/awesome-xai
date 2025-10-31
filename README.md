@@ -434,8 +434,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[RH-AUC]** More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models [[pdf]](https://arxiv.org/pdf/2505.21523) [[code]](https://github.com/MLRM-Halu/MLRM-Halu) [[website]](https://mlrm-halu.github.io/)
 - **[ViGoRL]** Grounded Reinforcement Learning for Visual Reasoning [[pdf]](https://arxiv.org/pdf/2505.23678) [[code]](https://github.com/Gabesarch/grounded-rl) [[website]](https://visually-grounded-rl.github.io/)
 - **[LVR]** Latent Visual Reasoning [[pdf]](https://arxiv.org/pdf/2509.24251) [[code]](https://github.com/VincentLeebang/lvr) [[website]](https://vincentleebang.github.io/lvr-project-page/)
+- **[GLM-4.5V, GLM-4.1V-Thinking]** Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2507.01006) [[code]](https://github.com/zai-org/GLM-V)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
-- Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919) 
+- Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919)
 
 ## VLMs with Negations
 - How and where does CLIP process negation? [[pdf]](https://arxiv.org/pdf/2407.10488)
