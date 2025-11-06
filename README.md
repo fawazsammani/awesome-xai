@@ -429,7 +429,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Visual SKETCHPAD]** Sketching as a Visual Chain of Thought for Multimodal Language Models [[pdf]](https://arxiv.org/pdf/2406.09403) [[code]](https://github.com/Yushi-Hu/VisualSketchpad) [[website]](https://visualsketchpad.github.io/)
 - **[Whiteboard-of-Thought]**  Thinking Step-by-Step Across Modalities [[pdf]](https://arxiv.org/pdf/2406.14562) [[code]](https://github.com/cvlab-columbia/wot) [[website]](https://whiteboard.cs.columbia.edu/)
 - **[Visual CoT]** Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning [[pdf]](https://arxiv.org/pdf/2403.16999) [[code]](https://github.com/deepcs233/Visual-CoT) [[website]](https://hao-shao.com/projects/viscot.html)
-- **[HoneyBee]** Data Recipes for Vision-Language Reasoners [[pdf]](https://arxiv.org/pdf/2510.12225)
+- **[HoneyBee]** Data Recipes for Vision-Language Reasoners [[pdf]](https://arxiv.org/pdf/2510.12225) [[dataset]](https://huggingface.co/datasets/facebook/HoneyBee)
 - **[UniBench]** Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling [[pdf]](https://openreview.net/pdf?id=g1Zn0XPUFF) [[code]](https://github.com/facebookresearch/unibench)
 - **[Pixel Reasoner]** Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2505.15966) [[code]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) [[website]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
 - **[GRIT]** Teaching MLLMs to Think with Images [[pdf]](https://arxiv.org/pdf/2505.15879) [[code]](https://github.com/eric-ai-lab/GRIT) [[website]](https://grounded-reasoning.github.io/)
