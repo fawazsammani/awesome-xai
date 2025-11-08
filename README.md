@@ -446,7 +446,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[Virgo]** A Preliminary Exploration on Reproducing o1-like MLLM [[pdf]](https://arxiv.org/pdf/2501.01904) [[code]](https://github.com/RUCAIBox/Virgo)
 - **[Insight-V]** Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[pdf]](https://arxiv.org/pdf/2411.14432) [[code]](https://github.com/dongyh20/Insight-V)
 - **[VIC]** Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination [[pdf]](https://arxiv.org/pdf/2411.12591) [[code]](https://github.com/Terry-Xu-666/visual_inference_chain)
-- Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
 ## VLMs with Negations
