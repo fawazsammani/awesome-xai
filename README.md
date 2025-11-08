@@ -422,12 +422,18 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## VLMs with Thinking/Reasoning
 - **[Multimodal-CoT]** Multimodal Chain-of-Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2302.00923.pdf) [[code]](https://github.com/amazon-science/mm-cot)
-- **[CCoT]** Compositional Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://arxiv.org/pdf/2311.17076.pdf)
+- **[DDCoT]** Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [[pdf]](https://openreview.net/pdf?id=ktYjrgOENR) [[code]](https://github.com/SooLab/DDCOT) [[website]](https://toneyaya.github.io/ddcot/)
+- **[DCoT]** Dual Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=0saecDOdh2) 
+- **[CCoT]** Compositional Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://arxiv.org/pdf/2311.17076.pdf) [[code]](https://github.com/chancharikmitra/CCoT)
+- **[TextCoT]** Zoom In for Enhanced Multimodal Text-Rich Image Understanding [[pdf]](https://arxiv.org/pdf/2404.09797) [[code]](https://github.com/bzluan/TextCoT)
 - **[LLaVA-CoT]** Let Vision Language Models Reason Step-by-Step [[pdf]](https://arxiv.org/pdf/2411.10440) [[code]](https://github.com/PKU-YuanGroup/LLaVA-CoT)
+- **[CoS]** Interactive Reasoning Improves Large Vision-Language Models [[pdf]](https://arxiv.org/pdf/2403.12966) [[code]](https://github.com/dongyh20/Chain-of-Spot) [[website]](https://sites.google.com/view/chain-of-spot)
 - **[VoCoT]** Unleashing Visually Grounded Multi-Step Reasoning in Large Multi-Modal Models [[pdf]](https://arxiv.org/pdf/2405.16919) [[code]](https://github.com/RupertLuo/VoCoT) 
+- **[DetToolChain]** A New Prompting Paradigm to Unleash Detection Ability of MLLM [[pdf]](https://arxiv.org/pdf/2403.12488) [[code]](https://github.com/yixuan730/DetToolChain)
 - **[Visual SKETCHPAD]** Sketching as a Visual Chain of Thought for Multimodal Language Models [[pdf]](https://arxiv.org/pdf/2406.09403) [[code]](https://github.com/Yushi-Hu/VisualSketchpad) [[website]](https://visualsketchpad.github.io/)
 - **[Whiteboard-of-Thought]**  Thinking Step-by-Step Across Modalities [[pdf]](https://arxiv.org/pdf/2406.14562) [[code]](https://github.com/cvlab-columbia/wot) [[website]](https://whiteboard.cs.columbia.edu/)
 - **[Visual CoT]** Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning [[pdf]](https://arxiv.org/pdf/2403.16999) [[code]](https://github.com/deepcs233/Visual-CoT) [[website]](https://hao-shao.com/projects/viscot.html)
+- **[STIC]** Enhancing Large Vision Language Models with Self-Training on Image Comprehension [[pdf]](https://arxiv.org/pdf/2405.19716) [[code]](https://github.com/yihedeng9/STIC) [[website]](https://stic-lvlm.github.io/)
 - **[HoneyBee]** Data Recipes for Vision-Language Reasoners [[pdf]](https://arxiv.org/pdf/2510.12225) [[dataset]](https://huggingface.co/datasets/facebook/HoneyBee)
 - **[UniBench]** Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling [[pdf]](https://openreview.net/pdf?id=g1Zn0XPUFF) [[code]](https://github.com/facebookresearch/unibench)
 - **[Pixel Reasoner]** Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2505.15966) [[code]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) [[website]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
@@ -439,6 +445,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[LlamaV-o1]** Rethinking Step-by-step Visual Reasoning in LLMs [[pdf]](https://arxiv.org/pdf/2501.06186) [[code]](https://github.com/mbzuai-oryx/LlamaV-o1) [[website]](https://mbzuai-oryx.github.io/LlamaV-o1/)
 - **[Virgo]** A Preliminary Exploration on Reproducing o1-like MLLM [[pdf]](https://arxiv.org/pdf/2501.01904) [[code]](https://github.com/RUCAIBox/Virgo)
 - **[Insight-V]** Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models [[pdf]](https://arxiv.org/pdf/2411.14432) [[code]](https://github.com/dongyh20/Insight-V)
+- **[VIC]** Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination [[pdf]](https://arxiv.org/pdf/2411.12591) [[code]](https://github.com/Terry-Xu-666/visual_inference_chain)
 - Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
