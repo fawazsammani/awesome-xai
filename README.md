@@ -435,6 +435,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[RH-AUC]** More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models [[pdf]](https://arxiv.org/pdf/2505.21523) [[code]](https://github.com/MLRM-Halu/MLRM-Halu) [[website]](https://mlrm-halu.github.io/)
 - **[LVR]** Latent Visual Reasoning [[pdf]](https://arxiv.org/pdf/2509.24251) [[code]](https://github.com/VincentLeebang/lvr) [[website]](https://vincentleebang.github.io/lvr-project-page/)
 - **[GLM-4.5V, GLM-4.1V-Thinking]** Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2507.01006) [[code]](https://github.com/zai-org/GLM-V)
+- **[R1-Onevision]** Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[pdf]](https://arxiv.org/pdf/2503.10615) [[code]](https://github.com/Fancy-MLLM/R1-Onevision)
+- **[LlamaV-o1]** Rethinking Step-by-step Visual Reasoning in LLMs [[pdf]](https://arxiv.org/pdf/2501.06186) [[code]](https://github.com/mbzuai-oryx/LlamaV-o1) [[website]](https://mbzuai-oryx.github.io/LlamaV-o1/)
 - Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[pdf]](https://arxiv.org/pdf/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
@@ -729,6 +731,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Are self-explanations from Large Language Models faithful? [[pdf]](https://arxiv.org/pdf/2401.07927)
 - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [[pdf]](https://arxiv.org/pdf/2201.11903)
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2203.11171)
+- Self-Refine: Iterative Refinement with Self-Feedback [[pdf]](https://arxiv.org/pdf/2303.17651) [[code]](https://github.com/madaan/self-refine) [[website]](https://selfrefine.info/)
+- Large Language Models are Better Reasoners with Self-Verification [[pdf]](https://arxiv.org/pdf/2212.09561) [[code]](https://github.com/WENGSYX/Self-Verification)
+- LLMs Can Generate a Better Answer by Aggregating Their Own Responses [[pdf]](https://arxiv.org/pdf/2503.04104)
 - LLM Evaluators Recognize and Favor Their Own Generations [[pdf]](https://openreview.net/pdf?id=4NJBV6Wp0h)
 - Interpreting and Mitigating Social Biases in Pre-trained Language Models [[pdf]](https://openreview.net/pdf?id=SQGUDc9tC8) [[code]](https://github.com/theNamek/Bias-Neurons)
 - What does the Knowledge Neuron Thesis Have to do with Knowledge? [[pdf]](https://openreview.net/attachment?id=2HJRwwbV3G&name=pdf)
