@@ -325,16 +325,13 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Deep ViT Features as Dense Visual Descriptors [[pdf]](https://arxiv.org/pdf/2112.05814.pdf) [[supp]](https://dino-vit-features.github.io/sm/index.html) [[code]](https://github.com/ShirAmir/dino-vit-features) [[website]](https://dino-vit-features.github.io/index.html)
 - Evaluation and Improvement of Interpretability for Self-Explainable Part-Prototype Networks [[pdf]](https://arxiv.org/pdf/2212.05946.pdf) [[code]](https://github.com/hqhQAQ/EvalProtoPNet)
 
-## Activation Steering
+## Activation Steering on LLMs and VLMs
 - **[ActAdd]** Steering Language Models Without Optimization [[pdf]](https://arxiv.org/pdf/2308.10248v4)
 - **[FGAA]** Interpretable Steering of Large Language Models with Feature Guided Activation Additions [[pdf]](https://openreview.net/pdf?id=swRxS7s4rB)
 - **[CAA]** Steering Llama 2 via Contrastive Activation Addition [[pdf]](https://arxiv.org/pdf/2312.06681)
 - **[ICV]** Making In Context Learning More Effective and Controllable Through Latent Space Steering [[pdf]](https://arxiv.org/pdf/2311.06668) [[code]](https://github.com/shengliu66/ICV)
 - **[ACT]** Controlling Language and Diffusion Models by Transporting Activations [[pdf]](https://openreview.net/pdf?id=l2zFn6TIQi) [[code]](https://github.com/apple/ml-act)
 - **[CAST]** Programming Refusal with Conditional Activation Steering [[pdf]](https://openreview.net/pdf?id=Oi47wc10sm) [[code]](https://github.com/IBM/activation-steering)
-- **[CASteer]** Steering Diffusion Models for Controllable Generation [[pdf]](https://arxiv.org/pdf/2503.09630) [[code]](https://github.com/Atmyre/CASteer)
-- **[NAG]** Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models [[pdf]](https://arxiv.org/pdf/2505.21179) [[code]](https://github.com/ChenDarYen/Normalized-Attention-Guidance)
-- **[HeadHunter]** Fine-Grained Perturbation Guidance via Attention Head Selection [[pdf]](https://arxiv.org/pdf/2506.10978) [[code]](https://github.com/cvlab-kaist/HeadHunter) [[website]](https://cvlab-kaist.github.io/HeadHunter/)
 - **[GrAInS]** Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs [[pdf]](https://arxiv.org/pdf/2507.18043) [[code]](https://github.com/duykhuongnguyen/GrAInS?tab=readme-ov-file)
 - **[Cache Steering]** KV Cache Steering for Controlling Frozen LLMs [[pdf]](https://arxiv.org/pdf/2507.08799) [[code]](https://github.com/MaxBelitsky/cache-steering)
 - Function Vectors in Large Language Models [[pdf]](https://openreview.net/pdf?id=AwyxtyMwaG) [[code]](https://github.com/ericwtodd/function_vectors) [[website]](https://functions.baulab.info/)
@@ -345,7 +342,6 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Improving Instruction-Following in Language Models through Activation Steering [[pdf]](https://openreview.net/pdf?id=wozhdnRCtw) [[code]](https://github.com/microsoft/llm-steer-instruct)
 - Do LLMs ``know'' internally when they follow instructions? [[pdf]](https://openreview.net/pdf?id=qIN5VDdEOr) [[code]](https://github.com/apple/ml-internal-llms-instruction-following)
 - Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering [[pdf]](https://arxiv.org/pdf/2501.03012) [[code]](https://github.com/mshukor/xl-vlms) [[website]](https://pegah-kh.github.io/projects/lmm-finetuning-analysis-and-steering/)
-- VLM-Guided Adaptive Negative Prompting for Creative Generation [[pdf]](https://arxiv.org/pdf/2510.10715) [[website]](https://shelley-golan.github.io/VLM-Guided-Creative-Generation/)
 
 ## Hallucinations in VLMs
 - Object Hallucination in Image Captioning [[pdf]](https://arxiv.org/pdf/1809.02156) [[code]](https://github.com/LisaAnne/Hallucination)
@@ -495,6 +491,12 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[ADM-ES]** Elucidating the Exposure Bias in Diffusion Models [[pdf]](https://openreview.net/pdf?id=xEJMoj1SpX) [[code]](https://github.com/forever208/ADM-ES)
 - **[Revelio]** Interpreting and leveraging semantic information in diffusion models [[pdf]](https://arxiv.org/pdf/2411.16725) [[code]](https://github.com/revelio-diffusion/revelio) 
 - **[Stable Flow]** Vital Layers for Training-Free Image Editing [[pdf]](https://arxiv.org/pdf/2411.14430) [[code]](https://github.com/snap-research/stable-flow) [[website]](https://omriavrahami.com/stable-flow/)
+- **[CASteer]** Steering Diffusion Models for Controllable Generation [[pdf]](https://arxiv.org/pdf/2503.09630) [[code]](https://github.com/Atmyre/CASteer)
+- **[NAG]** Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models [[pdf]](https://arxiv.org/pdf/2505.21179) [[code]](https://github.com/ChenDarYen/Normalized-Attention-Guidance)
+- **[HeadHunter]** Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models [[pdf]](https://arxiv.org/pdf/2506.10978) [[code]](https://github.com/cvlab-kaist/HeadHunter) [[website]](https://cvlab-kaist.github.io/HeadHunter/)
+- **[TGATE]** Faster Diffusion Through Temporal Attention Decomposition [[pdf]](https://openreview.net/pdf?id=xXs2GKXPnH) [[code]](https://github.com/HaozheLiu-ST/T-GATE)
+- VLM-Guided Adaptive Negative Prompting for Creative Generation [[pdf]](https://arxiv.org/pdf/2510.10715) [[website]](https://shelley-golan.github.io/VLM-Guided-Creative-Generation/)
+- Learning an Image Editing Model without Image Editing Pairs [[pdf]](https://arxiv.org/pdf/2510.14978) [[website]](https://nupurkmr9.github.io/npedit/)
 - Rare Text Semantics Were Always There in Your Diffusion Transformer [[pdf]](https://arxiv.org/pdf/2510.03886) 
 - Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Dissecting_and_Mitigating_Diffusion_Bias_via_Mechanistic_Interpretability_CVPR_2025_paper.pdf) [[code]](https://github.com/foundation-model-research/DiffLens) [[website]](https://foundation-model-research.github.io/difflens/)
 - Null-text Inversion for Editing Real Images using Guided Diffusion Models [[pdf]](https://arxiv.org/pdf/2211.09794) [[code]](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images) [[website]](https://null-text-inversion.github.io/)
