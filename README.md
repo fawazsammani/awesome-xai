@@ -418,9 +418,9 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 
 ## VLMs with Thinking/Reasoning
 - **[Multimodal-CoT]** Multimodal Chain-of-Thought Reasoning in Language Models [[pdf]](https://arxiv.org/pdf/2302.00923.pdf) [[code]](https://github.com/amazon-science/mm-cot)
+- **[CCoT]** Compositional Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://arxiv.org/pdf/2311.17076.pdf) [[code]](https://github.com/chancharikmitra/CCoT)
 - **[DDCoT]** Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [[pdf]](https://openreview.net/pdf?id=ktYjrgOENR) [[code]](https://github.com/SooLab/DDCOT) [[website]](https://toneyaya.github.io/ddcot/)
 - **[DCoT]** Dual Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://openreview.net/pdf?id=0saecDOdh2) 
-- **[CCoT]** Compositional Chain-of-Thought Prompting for Large Multimodal Models [[pdf]](https://arxiv.org/pdf/2311.17076.pdf) [[code]](https://github.com/chancharikmitra/CCoT)
 - **[TextCoT]** Zoom In for Enhanced Multimodal Text-Rich Image Understanding [[pdf]](https://arxiv.org/pdf/2404.09797) [[code]](https://github.com/bzluan/TextCoT)
 - **[LLaVA-CoT]** Let Vision Language Models Reason Step-by-Step [[pdf]](https://arxiv.org/pdf/2411.10440) [[code]](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 - **[CoS]** Interactive Reasoning Improves Large Vision-Language Models [[pdf]](https://arxiv.org/pdf/2403.12966) [[code]](https://github.com/dongyh20/Chain-of-Spot) [[website]](https://sites.google.com/view/chain-of-spot)
