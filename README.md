@@ -494,7 +494,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CASteer]** Steering Diffusion Models for Controllable Generation [[pdf]](https://arxiv.org/pdf/2503.09630) [[code]](https://github.com/Atmyre/CASteer)
 - **[NAG]** Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models [[pdf]](https://arxiv.org/pdf/2505.21179) [[code]](https://github.com/ChenDarYen/Normalized-Attention-Guidance)
 - **[HeadHunter]** Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models [[pdf]](https://arxiv.org/pdf/2506.10978) [[code]](https://github.com/cvlab-kaist/HeadHunter) [[website]](https://cvlab-kaist.github.io/HeadHunter/)
-- **[TGATE]** Faster Diffusion Through Temporal Attention Decomposition [[pdf]](https://openreview.net/pdf?id=xXs2GKXPnH) [[code]](https://github.com/HaozheLiu-ST/T-GATE)
+- **[T-GATE]** Faster Diffusion Through Temporal Attention Decomposition [[pdf]](https://openreview.net/pdf?id=xXs2GKXPnH) [[code]](https://github.com/HaozheLiu-ST/T-GATE)
 - VLM-Guided Adaptive Negative Prompting for Creative Generation [[pdf]](https://arxiv.org/pdf/2510.10715) [[website]](https://shelley-golan.github.io/VLM-Guided-Creative-Generation/)
 - Learning an Image Editing Model without Image Editing Pairs [[pdf]](https://arxiv.org/pdf/2510.14978) [[website]](https://nupurkmr9.github.io/npedit/)
 - Rare Text Semantics Were Always There in Your Diffusion Transformer [[pdf]](https://arxiv.org/pdf/2510.03886) 
