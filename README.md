@@ -206,6 +206,7 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - **[CALM]** Keep CALM and Improve Visual Feature Attribution [[pdf]](https://arxiv.org/pdf/2106.07861.pdf) [[code]](https://github.com/naver-ai/calm)
 - **[LICO]** Explainable Models with Language-Image COnsistency [[pdf]](https://openreview.net/pdf?id=apjOYp3mOa) [[code]](https://github.com/ymLeiFDU/LICO)
 - **[CGC]** Consistent Explanations by Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.00527.pdf) [[code]](https://github.com/UCDvision/CGC)
+- **[Grad-ECLIP]** Gradient-based Visual Explanation for Transformer-based CLIP [[pdf]](https://openreview.net/pdf?id=WT4X3QYopC) [[code]](https://github.com/Cyang-Zhao/Grad-Eclip)
 
 ## Concept Bottleneck Models
 - **[CBM]** Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2007.04612.pdf) [[code]](https://github.com/yewsiang/ConceptBottleneck)
