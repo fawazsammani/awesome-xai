@@ -230,6 +230,8 @@ If you find some overlooked papers, please open issues or pull requests, and pro
 - Do Concept Bottleneck Models Learn as Intended? [[pdf]](https://arxiv.org/pdf/2105.04289.pdf)
 - Interactive Concept Bottleneck Models [[pdf]](https://arxiv.org/pdf/2212.07430)
 - Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable? [[pdf]](https://openreview.net/pdf?id=KYHma7hzjr)
+- **[LICORICE]** LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2407.15786) [[code]](https://github.com/cuizhuyefei/LICORICE)
+- Selecting Decision-Relevant Concepts in Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2604.04808) [[code]](https://github.com/naveenr414/concept_decisions)
 
 ## Feature Visualization and Model Inversion
 - Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps [[pdf]](https://arxiv.org/pdf/1312.6034.pdf) [[saliency code]](https://github.com/sunnynevarekar/pytorch-saliency-maps)
